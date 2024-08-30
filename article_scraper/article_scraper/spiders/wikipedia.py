@@ -6,14 +6,14 @@ from article_scraper.items import ArticleScraperItem
 class WikipediaSpider(CrawlSpider):
     name = "wikipedia"
     allowed_domains = ["en.wikipedia.org"]
-    start_urls = ["https://en.wikipedia.org/wiki/Kevin_Bacon"]
+    start_urls = ["https://en.wikipedia.org/wiki/Lee_Zii_Jia"]
 
     rules = [Rule(LinkExtractor(allow=r'wiki/((?!:).)*$'), callback='parse_info', follow=True)]
     
-    custom_settings = {
-        "FEED_URI" : "article.xml",
-        "FEED_FORMAT" :  "xml"
-    }
+    # custom_settings = {
+    #     "FEED_URI" : "article.xml",
+    #     "FEED_FORMAT" :  "xml"
+    # }
     
     def parse_info(self, response):
         article = ArticleScraperItem()
