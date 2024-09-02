@@ -8,6 +8,13 @@
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
 BOT_NAME = "news_scraper"
+CLOSESPIDER_PAGECOUNT = 10
+FEEDS = {
+    'news_article.csv': {
+        'format': 'csv',
+        'encoding': 'utf-8',
+    }
+}
 
 SPIDER_MODULES = ["news_scraper.spiders"]
 NEWSPIDER_MODULE = "news_scraper.spiders"
@@ -17,7 +24,7 @@ NEWSPIDER_MODULE = "news_scraper.spiders"
 #USER_AGENT = "news_scraper (+http://www.yourdomain.com)"
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = True
+ROBOTSTXT_OBEY = False
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
