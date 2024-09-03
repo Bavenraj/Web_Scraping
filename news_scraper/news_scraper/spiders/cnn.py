@@ -11,10 +11,10 @@ class CnnSpider(CrawlSpider):
     allowed_domains = ["edition.cnn.com"]
     start_urls = ["https://edition.cnn.com/2024/09/02/investing/volkswagen-factory-closure-germany/index.html"]
 
-    # Corrected 'rules' attribute
+  
     rules = [
         Rule(
-            LinkExtractor(
+            LinkExtractor( #2024/09/03/first-article/first-title/index.html
                 allow=r'\/2024\/[0-9]{2}\/[0-9]{2}\/[a-zA-Z\-]+\/[a-zA-Z\-]+\/index.html'
             ), 
             callback='parse_info', 
@@ -24,14 +24,13 @@ class CnnSpider(CrawlSpider):
 
     def parse_info(self, response):
         article = NewsArticle()
-        article['url'] = response.url  # Removed the trailing comma
-        article['source'] = 'CNN'  # Removed the trailing comma
-        article['title'] = response.xpath('//h1[@data-editable="headlineText"]/text()').get().strip()  # Removed the trailing comma
-        article['description'] = response.xpath('//meta[@name="description"]/@content').get()  # Removed the trailing comma
-        article['date'] = response.xpath('//meta[@property="article:published_time"]/@content').get()  # Removed the trailing comma
-        article['author'] = response.xpath('//meta[@name="author"]/@content').get()  # Removed the trailing comma
-
-        raw_text = w3lib.html.remove_tags(response.xpath('//div[@class="article__content"]').get())
-        cleaned_text = re.sub(r'\s+', ' ', raw_text).strip()
-        article['text'] = cleaned_text
+        article['url'] = response.url 
+        article['source'] = 'CNN'  
+        article['title'] = response.xpath('//h1[@data-editable="headlineText"]/text()').get().strip()  
+        article['description'] = response.xpath('//meta[@name="description"]/@content').get()  
+        article['date'] = response.xpath('//meta[@property="article:published_time"]/@content').get() 
+        article['author'] = response.xpath('//meta[@name="author"]/@content').get()  
+        responses = response.xpath('//div/p[@class="paragraph inline-placeholder vossi-paragraph-primary-core-light"]/text()').getall()
+        for respond in responses:
+            article['text']  = respond.replace('\n', ' ').strip()
         return article
