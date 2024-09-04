@@ -13,3 +13,12 @@ class NewsArticle(scrapy.Item):
     date = scrapy.Field()
     description = scrapy.Field()
     text = scrapy.Field()
+    
+class SitemapNewsArticle(scrapy.Item):
+    source = scrapy.Field()
+    title = scrapy.Field()
+    url = scrapy.Field()
+    author = scrapy.Field()
+    date = scrapy.Field()
+    description = scrapy.Field()
+    text = scrapy.Field()

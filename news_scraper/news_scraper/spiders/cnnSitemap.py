@@ -1,29 +1,29 @@
 import scrapy
-from scrapy.spiders import CrawlSpider, Rule
+from scrapy.spiders import CrawlSpider, Rule, SitemapSpider
 from scrapy.linkextractors import LinkExtractor
-from news_scraper.items import NewsArticle
+from news_scraper.items import SitemapNewsArticle
 import w3lib
 from w3lib.html import remove_tags 
 import re
 
-class CnnSpider(CrawlSpider):
-    name = "cnn"
+class CnnsitemapSpider(SitemapSpider):
+    name = "cnnSitemap"
     allowed_domains = ["edition.cnn.com"]
-    start_urls = ["https://edition.cnn.com/world/africa/index.html"]
-
-  
-    rules = [
-        Rule(
-            LinkExtractor( #2024/09/03/first-article/first-title/index.html
-                allow=r'\/2024\/[0-9]{2}\/[0-9]{2}\/[a-zA-Z\-]+\/[a-zA-Z\-]+\/index.html'
-            ), 
-            callback='parse_info', 
-            follow=True
-        )
-    ]
-
-    def parse_info(self, response):
-        article = NewsArticle()
+    sitemap_urls = ["https://edition.cnn.com/sitemaps/article-2024-02.xml"]
+    
+    custom_settings = {
+        'CLOSESPIDER_PAGECOUNT' : 20,
+        'FEEDS' : {
+            'news_article_Sitemap.csv': 
+                {
+                    'format': 'csv',
+                    'encoding': 'utf-8',
+                }
+                }
+    }
+    
+    def parse(self, response):
+        article = SitemapNewsArticle()
         article['url'] = response.url 
         article['source'] = 'CNN'  
         article['title'] = response.xpath('//h1[@data-editable="headlineText"]/text()').get().strip()  
