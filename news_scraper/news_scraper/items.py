@@ -22,3 +22,7 @@ class SitemapNewsArticle(scrapy.Item):
     date = scrapy.Field()
     description = scrapy.Field()
     text = scrapy.Field()
+    
+class NewsArticleCount(scrapy.Item):
+    xml_url = scrapy.Field()
+    article_count = scrapy.Field()

@@ -10,8 +10,6 @@ class CnnSpider(CrawlSpider):
     name = "cnn"
     allowed_domains = ["edition.cnn.com"]
     start_urls = ["https://edition.cnn.com/world/africa/index.html"]
-
-  
     rules = [
         Rule(
             LinkExtractor( #2024/09/03/first-article/first-title/index.html
