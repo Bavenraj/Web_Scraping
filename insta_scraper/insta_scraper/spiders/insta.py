@@ -1,6 +1,5 @@
 import scrapy
 
-
 class InstaSpider(scrapy.Spider):
     name = "insta"
     allowed_domains = ["instagram.com"]
