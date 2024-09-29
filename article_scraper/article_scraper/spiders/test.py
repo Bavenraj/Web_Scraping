@@ -7,8 +7,8 @@ class IetfSpider(scrapy.Spider):
     start_urls = ["https://pythonscraping.com/linkedin/ietf.html"]
 
     def parse(self, response):
-        title1 = response.css('span.title::text').get()
-        title2 = response.xpath('//span[@class="subheading"]/text()').get()
+        //title1 = response.css('span.title::text').get()
+        //title2 = response.xpath('//span[@class="subheading"]/text()').get()
        
         return {"title1": response.css('span.title::text').get(),
                 "number": response.xpath('//span[@class="rfc-no"]/text()').get(),
