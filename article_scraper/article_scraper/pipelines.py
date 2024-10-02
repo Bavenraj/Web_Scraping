@@ -9,7 +9,10 @@ from scrapy.exceptions import DropItem
 from datetime import datetime
 
 class CheckItem:
- 
+    def process_item(self, article, spider):
+        if not article['lastUpdate'] or not article['url'] or not article['title']:
+            raise DropItem("Missing Something!")
+        return article
     
 class CheckDate:
     def process_item(self,article, spider):
