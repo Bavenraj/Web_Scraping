@@ -1,31 +1,31 @@
 id,title,url,rank
-44017913,AniSora: Open-source anime video generation model,https://komiko.app/video/AniSora,1
-43985513,Coding without a laptop: Two weeks with AR glasses and Linux on Android,https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/,2
-43987367,"Show HN: Turn any workflow diagram into compilable, running and stateful code",https://workflows.diagrid.io/,3
-43993707,Project Verona: Fearless Concurrency for Python,https://microsoft.github.io/verona/pyrona.html,4
-44019386,Mexican Navy ship crashes into Brooklyn Bridge leaving two people dead,https://www.theguardian.com/us-news/2025/may/18/mexican-navy-ship-hits-brooklyn-bridge-during-promotional-tour,5
-44018301,Experts have it easy (2024),https://boydkane.com/essays/experts,6
-44016037,Mystical,https://suberic.net/~dmm/projects/mystical/README.html,7
-43982495,ARMv9 Architecture Helps Lift Arm to New Financial Heights,https://www.nextplatform.com/2025/05/12/armv9-architecture-helps-lift-arm-to-new-financial-heights/,8
-44016336,Directory of MCP Servers,https://github.com/chatmcp/mcpso,9
-44018386,Confessions about my smart home,https://frenck.dev/confessions-about-my-smart-home/,10
-44015367,How to have the browser pick a contrasting color in CSS,https://webkit.org/blog/16929/contrast-color/,11
-44015872,Dead Stars Donï¿½t Radiate,https://johncarlosbaez.wordpress.com/2025/05/17/dead-stars-dont-radiate-and-shrink/,12
-43986821,Mice grow bigger brains when given this stretch of human DNA,https://www.nature.com/articles/d41586-025-01515-z,13
-43983196,Bike-mounted sensor could boost the mapping of safe cycling routes,https://newatlas.com/bicycles/proxicycle-bicycle-sensor-safe-cycling-routes/,14
-44013157,Push Ifs Up and Fors Down,https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html,15
-44015144,"If nothing is curated, how do we find things",https://tadaima.bearblog.dev/if-nothing-is-curated-how-do-we-find-things/,16
-44016564,Understanding Transformers via N-gram Statistics,https://arxiv.org/abs/2407.12034,17
-43991221,"Lessons from Mixing Rust and Java: Fast, Safe, and Practical",https://medium.com/@greptime/how-to-supercharge-your-java-project-with-rust-a-practical-guide-to-jni-integration-with-a-86f60e9708b8,18
-44017592,FreeBASIC is a free/open source BASIC compiler for Windows DOS and Linux,https://freebasic.net/,19
-44017692,The Lost Japanese ROM of the Macintosh Plus,https://www.journaldulapin.com/2025/05/17/the-lost-japanese-rom-of-the-macintosh-plus-which-isnt-lost-anymore/,20
-44014587,Palette lighting tricks on the Nintendo 64,https://30fps.net/pages/palette-lighting-tricks-n64/,21
-43983201,"ï¿½Streaming vs. Batchï¿½ Is a Wrong Dichotomy, and I Think It's Confusing",https://www.morling.dev/blog/streaming-vs-batch-wrong-dichotomy/,22
-44018283,Memetics ï¿½ A Growth Industry in US Military Operations (2006) [pdf],https://apps.dtic.mil/sti/pdfs/ADA507172.pdf,23
-43984770,Espanso ï¿½ Cross-Platform Text Expander Written in Rust,https://github.com/espanso/espanso,24
-44014046,O2 VoLTE: locating any customer with a phone call,https://mastdatabase.co.uk/blog/2025/05/o2-expose-customer-location-call-4g/,25
-44014808,Proton threatens to quit Switzerland over new surveillance law,https://www.techradar.com/vpn/vpn-privacy-security/we-would-be-less-confidential-than-google-proton-threatens-to-quit-switzerland-over-new-surveillance-law,26
-44013913,Pyrefly: A new type checker and IDE experience for Python,https://engineering.fb.com/2025/05/15/developer-tools/introducing-pyrefly-a-new-type-checker-and-ide-experience-for-python/,27
-43996226,Weather Report from Saturn's Moon Titan,https://www.sci.news/astronomy/titan-weather-13907.html,28
-44018662,Climbing trees 1: what are decision trees?,https://mathpn.com/posts/climbing-trees-1/,29
-43995501,How I fixed the infamous Basilisk II Windows ï¿½Black Screenï¿½ bug in 2013,https://www.downtowndougbrown.com/2025/05/how-i-fixed-the-infamous-basilisk-ii-windows-black-screen-bug-in-2013/,30
+44028153,Don't Guess My Language,https://vitonsky.net/blog/2025/05/17/language-detection/,1
+44028250,Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy,https://chipsandcheese.com/p/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy,2
+44029142,ClawPDF – Open-Source Virtual/Network PDF Printer with OCR and Image Support,https://github.com/clawsoftware/clawPDF,3
+44027867,Side projects I've built since 2009,https://naeemnur.com/side-projects/,4
+44020832,InventWood is about to mass-produce wood that's stronger than steel,https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/,5
+44028435,How scrolling becomes a religious act,https://etymology.substack.com/p/youre-literally-worshipping-your,6
+44026799,"Show HN: Goboscript, text-based programming language, compiles to Scratch",https://github.com/aspizu/goboscript,7
+44027768,Emulator Debugging: Area 5150's Lake Effect,https://martypc.blogspot.com/2025/05/emulator-debugging-area-5150s-lake.html,8
+43995067,"New research reveals the strongest solar event ever detected, in 12350 BC",https://phys.org/news/2025-05-reveals-strongest-solar-event-bc.html,9
+44025439,“There are people who can see and others who cannot even look”,https://worldhistory.substack.com/p/there-are-people-who-can-see-and,10
+43993311,Llama from scratch (2023),https://blog.briankitano.com/llama-from-scratch/,11
+44028384,Is Winter Coming? (2024),https://www.datagubbe.se/winter/,12
+44028483,Monitoring Node.js: Key Metrics You Should Track,https://last9.io/blog/node-js-key-metrics/,13
+44022448,Ditching Obsidian and building my own,https://amberwilliams.io/blogs/building-my-own-pkms,14
+44023634,Show HN: Sshsync – CLI tool to run shell commands across multiple remote servers,https://github.com/Blackmamoth/sshsync,15
+43996515,Show HN: Cogitator – A Python Toolkit for Chain-of-Thought Prompting,https://github.com/habedi/cogitator,16
+44025484,Show HN: Job board aggregator for best paying remote SWE jobs in the U.S.,https://www.remoteswe.fyi,17
+44028566,"The White House, LLC",https://english.elpais.com/economy-and-business/2025-05-19/the-white-house-llc.html,18
+44026201,"The principles of database design, or, the Truth is out there",https://ebellani.github.io/blog/2025/the-principles-of-database-design-or-the-truth-is-out-there/,19
+44012418,Programming in Martin-Lof's Type Theory: An Introduction (1990),https://www.cse.chalmers.se/research/group/logic/book/,20
+44022353,Show HN: I modeled the Voynich Manuscript with SBERT to test for structure,https://github.com/brianmg/voynich-nlp-analysis,21
+44013868,Ugly infrastructure: Why can't we have nice things?,https://jordanwtaylor2.substack.com/p/ugly-infrastructure-why-cant-we-have,22
+44028587,'Significant amount' of private data stolen in UK Legal Aid hack,https://www.bbc.co.uk/news/articles/cgr5g4pv2l0o,23
+44022215,"What do wealthy people buy, that ordinary people know nothing about? (2015)",https://old.reddit.com/r/AskReddit/comments/2s9u0s/comment/cnnmca8/,24
+44024784,KDE is finally getting a native virtual machine manager called “Karton”,https://www.neowin.net/news/kde-is-finally-getting-a-native-virtual-machine-manager-called-karton/,25
+44024759,France Endorses UN Open Source Principles,https://social.numerique.gouv.fr/@codegouvfr/114529954373492878,26
+44027379,What does the end of mathematics look like?,https://www.awanderingmind.blog/posts/2025-05-18-what-does-the-end-of-mathematics-look-like.html,27
+44012283,Procolored printer drivers contained malware,https://www.neowin.net/news/this-printer-company-served-you-malware-for-months-and-dismissed-it-as-false-positives/,28
+44022225,Spaced Repetition Memory System,https://notes.andymatuschak.org/Spaced_repetition_memory_system,29
+44022758,$30 Homebrew Automated Blinds Opener,https://sifter.org/~simon/journal/20240718.html,30

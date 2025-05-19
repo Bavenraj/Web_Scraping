@@ -48,5 +48,38 @@ with open(csv_file, 'w', newline='') as file:
     for row in data:
         writer.writerow(row)
 
-print("File Loaded")
+print("File Loaded into excel")
+
+import psycopg2
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
+host = "127.0.0.1"
+port = "5432"
+user = os.getenv("DB_USER")
+password = os.getenv("DB_PASSWORD")
+database = os.getenv("DB")
+
+con = psycopg2.connect(host=host, port=port, user=user, password=password, database=database)
+cur = con.cursor()
+
+for link in links:
+    cur.execute(""" INSERT into hn_links (id, title, url, rank)
+        VALUES (%s, %s, %s, %s)
+        """,
+        (
+            link['id'],
+            link.find_all('td')[2].a.text,
+            link.find_all('td')[2].a['href'],
+            int(link.find_all('td')[0].span.text.replace('.', ''))
+        )
+    )
+    
+con.commit()
+cur.close()
+con.close()
+
+print("File Loaded into database")
+
         
