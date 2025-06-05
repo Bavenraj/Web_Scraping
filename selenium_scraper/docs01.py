@@ -11,8 +11,8 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 logging.info("Initializing WebDriver")
 options = Options()
-options = get_default_chrome_options()
-options.page_load_strategy = 'normal'
+#options = get_default_chrome_options()
+options.page_load_strategy = 'eager'
 driver = webdriver.Chrome(options=options)
 
 logging.info("Loading Selenium Documentations")
