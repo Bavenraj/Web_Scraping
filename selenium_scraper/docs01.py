@@ -1,14 +1,19 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.chrome.options import Options
+
+
 import logging
 
 # Set up logging to troubleshoot if anything goes wrong
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 logging.info("Initializing WebDriver")
-driver = webdriver.Chrome()
+options = Options()
+options = get_default_chrome_options()
+options.page_load_strategy = 'normal'
+driver = webdriver.Chrome(options=options)
 
 logging.info("Loading Selenium Documentations")
 driver.get("https://www.selenium.dev/selenium/web/web-form.html")
