@@ -8,7 +8,6 @@ import logging
 
 # Set up logging to troubleshoot if anything goes wrong
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-
 logging.info("Initializing WebDriver")
 options = Options()
 #options = get_default_chrome_options()
