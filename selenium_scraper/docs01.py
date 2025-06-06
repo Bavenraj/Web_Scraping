@@ -12,6 +12,7 @@ logging.info("Initializing WebDriver")
 options = Options()
 #options = get_default_chrome_options()
 options.page_load_strategy = 'eager'
+options.accept_insecure_certs = True
 driver = webdriver.Chrome(options=options)
 
 logging.info("Loading Selenium Documentations")
