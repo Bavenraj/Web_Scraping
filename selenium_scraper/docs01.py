@@ -29,7 +29,7 @@ def test_bad_ssl():
     title = driver.title
     print(title)
     
-test_bad_ssl()
+#test_bad_ssl()
 
 logging.info("Loading Selenium Documentations")
 driver.get("https://www.selenium.dev/selenium/web/web-form.html")
