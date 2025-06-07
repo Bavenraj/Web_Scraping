@@ -1,8 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.options import Options
-
+from selenium.webdriver.chrome.options import Options 
 
 import logging
 
@@ -10,7 +9,14 @@ import logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logging.info("Initializing WebDriver")
 options = Options()
-#options = get_default_chrome_options()
+
+def get_default_chrome_options():
+    options = webdriver.ChromeOptions()
+    options.add_argument("--no-sandbox")
+    return options
+
+options = get_default_chrome_options()
+options.browser_version = 'stable'
 options.page_load_strategy = 'eager'
 options.accept_insecure_certs = True
 driver = webdriver.Chrome(options=options)
