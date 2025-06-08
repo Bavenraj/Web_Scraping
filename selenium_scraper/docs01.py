@@ -1,10 +1,22 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.options import Options 
-
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.proxy import Proxy
+from selenium.webdriver.common.proxy import ProxyType
+import requests
 import logging
 
+def test_proxy():
+    proxies = {'http': 'http.proxy:1234'}
+
+    ip = requests.get('https://www.selenium.dev/selenium/web/web-form.html', proxies=proxies)
+    ip_ori = requests.get('https://www.selenium.dev/selenium/web/web-form.html')
+    ip = ip.json()['ip']
+    ip_ori = ip_ori.json()['ip']
+
+    print('Your public IP is:', ip_ori)
+    print("IP via proxy:", ip)
 
 def get_default_chrome_options():
     options = webdriver.ChromeOptions()
@@ -15,11 +27,13 @@ def get_default_chrome_options():
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logging.info("Initializing WebDriver")
 options = Options()
-#options = get_default_chrome_options()
+options = get_default_chrome_options()
 options.platform_name = 'any'
 options.browser_version = 'stable'
 options.page_load_strategy = 'eager'
 options.accept_insecure_certs = True
+options.proxy = Proxy({ 'proxyType': ProxyType.MANUAL, 'httpProxy' : 'http.proxy:1234'})
+
 driver = webdriver.Chrome(options=options)
 
 def test_bad_ssl():
