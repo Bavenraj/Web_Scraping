@@ -5,6 +5,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.proxy import Proxy
 from selenium.webdriver.common.proxy import ProxyType
 import requests
+from urllib3.connectionpool import HTTPConnectionPool
 import logging
 
 def test_proxy():
