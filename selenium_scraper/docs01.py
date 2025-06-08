@@ -33,6 +33,8 @@ def test_bad_ssl():
 
 logging.info("Loading Selenium Documentations")
 driver.get("https://www.selenium.dev/selenium/web/web-form.html")
+options.timeouts = { 'script': 5000 } #default is 30,000
+options.set_window_rect = True
 
 #driver.implicitly_wait(1)
 
@@ -51,8 +53,6 @@ logging.info("Locating and printing success message")
 message = driver.find_element(by=By.ID, value="message")
 text = message.text
 print(text)
-
-
 
 logging.info("Closing WebDriver")
 driver.quit()
