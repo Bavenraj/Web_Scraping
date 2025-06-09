@@ -3,6 +3,8 @@ from bs4 import BeautifulSoup
 import csv
 from selenium import webdriver
 import time
+from selenium.webdriver.common.by import By
+
 
 #r = requests.get('https://shopee.com.my/Mobile-Accessories-cat.11000979')
 #print(r.status_code)
@@ -23,7 +25,7 @@ product_data = []
 
 for product in product_list:
     product_chars = {
-        'product_name' : product.find('img')['alt'],
+        'product_name' : driver.find_element(by = By.CLASS_NAME, value="contents")['href'],
         'product_link' : product.find('a', class_='contents')['href']       
     }
     product_data.append(product_chars)
