@@ -16,9 +16,8 @@ r = requests.get('https://shopee.com.my/Mobile-Accessories-cat.11000979')
 #driver.get(url)
 
 #time.sleep(5) 
-print(r.encoding("utf-8"))
 soup = BeautifulSoup(r.text, 'html.parser')
-print(r.encoding("utf-8"))
+print(r.text)
 product_list = soup.find_all("link")#, classmethod='shopee-search-item-result__item')
 #print(product_list)
 product_data = []
