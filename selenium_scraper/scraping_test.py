@@ -14,7 +14,12 @@ options = Options()
 options.browser_version = 'stable'
 options.page_load_strategy = 'eager'
 #options.add_argument('--headless')  # run in background
-options.page_load_strategy = 'eager'
+options.add_argument("--disable-gpu")
+options.add_argument("--disable-software-rasterizer")
+options.add_argument("--disable-logging")
+options.add_argument("--log-level=3")
+options.add_argument("--disable-dev-shm-usage")
+options.add_argument("--disable-webrtc")
 driver = webdriver.Chrome(options=options)
 
 url = 'https://shopee.com.my/Mobile-Accessories-cat.11000979'
