@@ -2,21 +2,32 @@ import requests
 from bs4 import BeautifulSoup
 import csv
 import time
- 
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By
 
 
-r = requests.get('https://shopee.com.my/Mobile-Accessories-cat.11000979')
+#r = requests.get('https://shopee.com.my/Mobile-Accessories-cat.11000979')
 #print(r.status_code)
-#options = webdriver.ChromeOptions()
+options = Options()
+options.browser_version = 'stable'
+options.page_load_strategy = 'eager'
 #options.add_argument('--headless')  # run in background
-#options.page_load_strategy = 'eager'
-#driver = webdriver.Chrome(options=options)
+options.page_load_strategy = 'eager'
+driver = webdriver.Chrome(options=options)
 
-#url = 'https://shopee.com.my/Mobile-Accessories-cat.11000979'
-#driver.get(url)
+url = 'https://shopee.com.my/Mobile-Accessories-cat.11000979'
+driver.set_window_size(1300, 800)
+driver.get(url)
+time.sleep(5) 
 
-#time.sleep(5) 
-soup = BeautifulSoup(r.text, 'html.parser')
+language = driver.find_element(by = By.CSS_SELECTOR, value="button")
+language.click
+time.sleep(5) 
+driver.save_screenshot("ss.png")
+driver.quit
+'''soup = BeautifulSoup(, 'html.parser')
 print(r.text)
 product_list = soup.find_all("link")#, classmethod='shopee-search-item-result__item')
 #print(product_list)
@@ -37,5 +48,5 @@ with open(csv_file, 'w', newline='') as file:
     for row in product_data:
         writer.writerow(row)
 
-print("File Loaded into excel")
+print("File Loaded into excel")'''
     
