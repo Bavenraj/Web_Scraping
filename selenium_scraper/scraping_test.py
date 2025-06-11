@@ -27,9 +27,10 @@ driver.set_window_size(1300, 800)
 driver.get(url)
 time.sleep(5) 
 
-language = driver.find_element(by = By.CSS_SELECTOR, value="button")
-language.click
-time.sleep(5) 
+language = driver.find_element(by = By.CLASS_NAME, value="shopee-button-outline--primary-reverse")
+#english=language.find_element(by=By.CSS_SELECTOR, value="button")
+language.click()
+time.sleep(10) 
 driver.save_screenshot("ss.png")
 driver.quit
 '''soup = BeautifulSoup(, 'html.parser')
