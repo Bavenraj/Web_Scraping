@@ -27,11 +27,11 @@ logging.info("Searching for location")
 input.send_keys("kfc selangor", Keys.ENTER)
 time.sleep(5)
 
-scrollableElement = driver.find_element(by=By.CLASS_NAME, value ="m6QErb DxyBCb kA9KIf dS8AEf XiKgde ecceSd QjC7t")
+scrollableElement = driver.find_element(by=By.CSS_SELECTOR, value =".kA9KIf")
 last_height = 0
 
 while True:
-    driver.execute_script('arguments[0].scrollTo(0,1000);', scrollableElement)
+    driver.execute_script('arguments[0].scrollTop+=10000;', scrollableElement)
     time.sleep(2)
     
     new_height = driver.execute_script('return document.body.scrollHeight')

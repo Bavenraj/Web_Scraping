@@ -7,6 +7,7 @@ from selenium.webdriver.common.proxy import ProxyType
 import requests
 from urllib3.connectionpool import HTTPConnectionPool
 import logging
+import time
 
 def test_proxy():
     proxies = {'http': 'http.proxy:1234'}
@@ -59,9 +60,11 @@ options.set_window_rect = True
 logging.info("Locating input text box and button")
 text_box = driver.find_element(by = By.NAME, value="my-text")
 submit_button = driver.find_element(by = By.CSS_SELECTOR, value="button")
-
+driver.maximize_window()
 logging.info("Submiting form with text box filled")
 text_box.send_keys("Selenium")
+driver.execute_script('window.scrollTo(0,10000);')
+time.sleep(2)
 submit_button.click()
 
 logging.info("Locating and printing success message")
