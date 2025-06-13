@@ -4,6 +4,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 import logging
 import time
+from bs4 import BeautifulSoup
+
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logging.info("Initializing WebDriver")
@@ -11,7 +13,7 @@ logging.info("Initializing WebDriver")
 options = Options()
 options.page_load_strategy = 'eager'
 driver = webdriver.Chrome(options=options)
-driver.set_window_size(1300,800)
+driver.maximize_window()
 
 logging.info("Loading Google Maps")
 driver.get("https://www.google.com/maps/")
@@ -25,4 +27,18 @@ logging.info("Searching for location")
 input.send_keys("kfc selangor", Keys.ENTER)
 time.sleep(5)
 
+#scrollableElement = driver.find_element(by=By.CLASS_NAME, value ="m6QErb DxyBCb kA9KIf dS8AEf XiKgde ecceSd QjC7t")
+last_height = 0
+
+while True:
+    driver.execute_script('window.scrollTo(0,1000)')
+    time.sleep(2)
+    
+    new_height = driver.execute_script('return document.body.scrollHeight')
+    print(str(new_height) + " - " + str(last_height))
+    if(new_height==last_height):
+        break
+    else:
+        last_height = new_height
+    
 
