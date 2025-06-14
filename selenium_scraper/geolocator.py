@@ -24,6 +24,7 @@ input = driver.find_element(by = By.CLASS_NAME, value = "searchboxinput")
 input.clear()
 
 logging.info("Searching for location")
+#state = ['Selangor', ]
 query = 'kfc malaysia'
 input.send_keys(query, Keys.ENTER)
 time.sleep(5)
