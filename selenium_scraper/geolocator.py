@@ -15,19 +15,20 @@ options.page_load_strategy = 'eager'
 driver = webdriver.Chrome(options=options)
 driver.maximize_window()
 
-logging.info("Loading Google Maps")
-driver.get("https://www.google.com/maps/")
-time.sleep(5)
+def load_map():
+    logging.info("Loading Google Maps")
+    driver.get("https://www.google.com/maps/")
+    time.sleep(5)
 
-logging.info("Getting input search box")
-input = driver.find_element(by = By.CLASS_NAME, value = "searchboxinput")
-input.clear()
+def find_search_box():
+    logging.info("Getting input search box")
+    input = driver.find_element(by = By.CLASS_NAME, value = "searchboxinput")
+    input.clear()
 
-logging.info("Searching for location")
-#state = ['Selangor', ]
-query = 'kfc malaysia'
-input.send_keys(query, Keys.ENTER)
-time.sleep(5)
+def find_location(query):
+    logging.info(f"Searching for {query}:")
+    input.send_keys(query, Keys.ENTER)
+    time.sleep(5)
 
 logging.info("Looking for scrollable element")
 scrollableElement = driver.find_element(by=By.CSS_SELECTOR, value =f"[aria-label='Results for {query}']")
