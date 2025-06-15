@@ -20,33 +20,42 @@ def load_map():
     driver.get("https://www.google.com/maps/")
     time.sleep(5)
 
-def find_search_box():
+def find_location(query):
     logging.info("Getting input search box")
     input = driver.find_element(by = By.CLASS_NAME, value = "searchboxinput")
     input.clear()
-
-def find_location(query):
+    
     logging.info(f"Searching for {query}:")
     input.send_keys(query, Keys.ENTER)
     time.sleep(5)
+    
+    logging.info("Looking for scrollable element")
+    scrollableElement = driver.find_element(by=By.CSS_SELECTOR, value =f"[aria-label='Results for {query}']")
+    initial_count = 0
+    while True:
+        logging.info("Scrolling search results")
+        for _ in range(3):
+            driver.execute_script('arguments[0].scrollBy(0,1000);', scrollableElement)
+            time.sleep(1)
+        
+        logging.info("Calculation difference in search results count")
+        final_count = len(driver.find_elements(by=By.CLASS_NAME, value = "hfpxzc"))
+        print(str(initial_count)+" - "+ str(final_count))
+        time.sleep(2)
+        
+        if(initial_count!=final_count):
+            initial_count = final_count
+        else:
+            return final_count
+            
 
-logging.info("Looking for scrollable element")
-scrollableElement = driver.find_element(by=By.CSS_SELECTOR, value =f"[aria-label='Results for {query}']")
-initial_count = 0
-while True:
-    logging.info("Scrolling search results")
-    for _ in range(3):
-        driver.execute_script('arguments[0].scrollBy(0,1000);', scrollableElement)
-        time.sleep(1)
-    
-    logging.info("Calculation difference in search results count")
-    final_count = len(driver.find_elements(by=By.CLASS_NAME, value = "hfpxzc"))
-    print(str(initial_count)+" - "+ str(final_count))
-    time.sleep(2)
-    
-    if(initial_count!=final_count):
-        initial_count = final_count
-    else:
-        break
+states = ["kelantan", "kedah"]
+count = []
+for state in states:
+    load_map()
+    query = "KFC"
+    count.append(find_location(query = query + " " + state))
+
+print(count)
 
 
