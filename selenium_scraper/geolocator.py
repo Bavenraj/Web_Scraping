@@ -5,6 +5,8 @@ from selenium.webdriver.chrome.options import Options
 import logging
 import time
 from bs4 import BeautifulSoup
+from selenium.webdriver.support.wait import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -22,6 +24,7 @@ def load_map():
 
 def find_location(query):
     logging.info("Getting input search box")
+    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, 'searchboxinput')))
     input = driver.find_element(by = By.CLASS_NAME, value = "searchboxinput")
     input.clear()
     
@@ -30,6 +33,7 @@ def find_location(query):
     time.sleep(5)
     
     logging.info("Looking for scrollable element")
+    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, f"[aria-label='Results for {query}']")))
     scrollableElement = driver.find_element(by=By.CSS_SELECTOR, value =f"[aria-label='Results for {query}']")
     initial_count = 0
     while True:
@@ -65,5 +69,15 @@ for state_fd in states_and_federal_territories:
     data.append(data_link)
     
 print(data)
+
+import csv
+csv_file = 'kfc_data.csv'
+with open(csv_file, 'w', newline='') as file:
+    writer = csv.DictWriter(file, fieldnames=['Location', 'Count'])
+    writer.writeheader()
+    for row in data:
+        writer.writerow(row)
+
+print("File Loaded into excel")
 
 
