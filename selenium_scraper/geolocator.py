@@ -49,12 +49,15 @@ def find_location(query):
             return final_count
             
 
-states = ["kelantan", "kedah"]
+states_and_federal_territories = ["Johor", "Kedah", "Kelantan", "Melaka", "Negeri Sembilan", "Pahang",
+    "Penang", "Perak", "Perlis", "Sabah", "Sarawak", "Selangor", "Terengganu", 
+    "Kuala Lumpur", "Putrajaya", "Labuan" # Federal Territory
+]
 count = []
-for state in states:
+for state_fd in states_and_federal_territories:
     load_map()
     query = "KFC"
-    count.append(find_location(query = query + " " + state))
+    count.append(find_location(query = query + " " + state_fd))
 
 print(count)
 
