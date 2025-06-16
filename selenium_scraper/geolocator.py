@@ -64,6 +64,6 @@ for state_fd in states_and_federal_territories:
     }
     data.append(data_link)
     
-print(count)
+print(data)
 
 
