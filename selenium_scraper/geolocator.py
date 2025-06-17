@@ -78,6 +78,6 @@ with open(csv_file, 'w', newline='') as file:
     for row in data:
         writer.writerow(row)
 
-print("File Loaded into excel")
+print("File Loaded into csv")
 
 
