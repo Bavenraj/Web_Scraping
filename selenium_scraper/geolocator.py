@@ -16,37 +16,6 @@ options.page_load_strategy = 'eager'
 driver = webdriver.Chrome(options=options)
 driver.maximize_window()
 
-def generate_grid_boxes(min_lat, max_lat, min_lon, max_lon, step_km=5):
-    from geopy.distance import distance
-    import geopy
-
-    # Approximate steps in degrees for latitude and longitude
-    def step_in_degrees(lat, km):
-        # 1 deg latitude ≈ 111 km
-        lat_step = km / 111
-        # 1 deg longitude ≈ varies by latitude
-        lon_step = km / (111 * abs(math.cos(math.radians(lat))) + 1e-6)
-        return lat_step, lon_step
-
-    import math
-    boxes = []
-    lat = min_lat
-    while lat < max_lat:
-        lat_step, _ = step_in_degrees(lat, step_km)
-        lon = min_lon
-        while lon < max_lon:
-            _, lon_step = step_in_degrees(lat, step_km)
-            boxes.append({
-                "center_lat": lat + lat_step / 2,
-                "center_lon": lon + lon_step / 2,
-                "lat_range": (lat, lat + lat_step),
-                "lon_range": (lon, lon + lon_step)
-            })
-            lon += lon_step
-        lat += lat_step
-    return boxes
-
-
 def load_map():
     logging.info("Loading Google Maps")
     driver.get("https://www.google.com/maps/")
@@ -86,12 +55,11 @@ states_and_federal_territories = ["Johor", "Kedah", "Kelantan", "Melaka", "Neger
     "Penang", "Perak", "Perlis", "Sabah", "Sarawak", "Selangor", "Terengganu", 
     "Kuala Lumpur", "Putrajaya", "Labuan" # Federal Territory
 ]
-states_and_federal_territorie = [ "Selangor", "Labuan"]
 count = []
 data = []
-for state_fd in states_and_federal_territorie:
+for state_fd in states_and_federal_territories:
     load_map()
-    query = f"KFC {state_fd}"
+    query = f"Uni {state_fd}"
     count.append(find_location(query = query))
     data_link = {
         'Location': query,
