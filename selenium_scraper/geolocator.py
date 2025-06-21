@@ -52,7 +52,7 @@ def find_location(query):
             return final_count
 
 states_districts_dict = {
-    "Johor": ["Batu Pahat","Johor Bahru","Kluang","Kota Tinggi","Kulaijaya","Mersing","Muar","Pontian","Segamat","Tangkak"] , 
+    "Johor": ["Batu Pahat","Johor Bahru","Kluang","Kota Tinggi","Kulaijaya","Mersing","Muar","Pontian","Segamat","Ledang"] , 
     "Kedah": ["Baling","Bandar Baharu","Kota Setar","Kuala Muda","Kubang Pasu","Kulim","Langkawi","Padang Terap","Pendang","Pokok Sena","Sik","Yan"], 
     "Kelantan" : ["Bachok","Gua Musang","Jeli","Kecil Lojing","Kota Bharu","Kuala Krai","Machang","Pasir Mas","Pasir Puteh","Tanah Merah","Tumpat"], 
     "Melaka" : ["Alor Gajah","Jasin","Melaka Tengah"], 
@@ -69,17 +69,16 @@ states_districts_dict = {
 }            
 count = []
 data = []
-for state_district in states_districts_dict:
-    for district in state_district:
+for state, districts in states_districts_dict.items():
+    for district in districts:
         load_map()
-        query = f"KFC nearby {district} {state_district}"
+        query = f"KFC nearby {district} {state}"
         count.append(find_location(query = query))
         data_link = {
             'Location': query,
             'Count': count[-1]
         }
-        data.append(data_link)
-    
+    data.append(data_link) 
 print(data)
 
 import csv
