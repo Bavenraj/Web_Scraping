@@ -8,6 +8,8 @@ from bs4 import BeautifulSoup
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from data_transform import mydict
+import csv
+csv_file = 'kfc_data.csv'
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logging.info("Initializing WebDriver")
@@ -33,24 +35,28 @@ def find_location(query):
     time.sleep(5)
     
     logging.info("Looking for scrollable element")
-    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, f"[aria-label='Results for {query}']")))
-    scrollableElement = driver.find_element(by=By.CSS_SELECTOR, value =f"[aria-label='Results for {query}']")
-    initial_count = 0
-    while True:
-        logging.info("Scrolling search results")
-        for _ in range(3):
-            driver.execute_script('arguments[0].scrollBy(0,1000);', scrollableElement)
-            time.sleep(1)
-        
-        logging.info("Calculation difference in search results count")
-        final_count = len(driver.find_elements(by=By.CLASS_NAME, value = "hfpxzc"))
-        #print(str(initial_count)+" - "+ str(final_count))
-        time.sleep(2)
-        
-        if(initial_count!=final_count):
-            initial_count = final_count
-        else:
-            return final_count
+    try: 
+        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, f"[aria-label='Results for {query}']")))
+        scrollableElement = driver.find_element(by=By.CSS_SELECTOR, value =f"[aria-label='Results for {query}']")
+        initial_count = 0
+        while True:
+            logging.info("Scrolling search results")
+            for _ in range(3):
+                driver.execute_script('arguments[0].scrollBy(0,1000);', scrollableElement)
+                time.sleep(1)
+            
+            logging.info("Calculation difference in search results count")
+            final_count = len(driver.find_elements(by=By.CLASS_NAME, value = "hfpxzc"))
+            #print(str(initial_count)+" - "+ str(final_count))
+            time.sleep(2)
+            
+            if(initial_count!=final_count):
+                initial_count = final_count
+            else:
+                return final_count
+    except:
+        final_count = 1
+        return final_count
 
 states_districts_dict = {
     "Johor": ["Batu Pahat","Johor Bahru","Kluang","Kota Tinggi","Kulaijaya","Mersing","Muar","Pontian","Segamat","Ledang"] , 
@@ -70,19 +76,34 @@ states_districts_dict = {
 }            
 count = []
 data = []
-for state, areas in mydict.items():
-    for area in areas:
-        load_map()
-        query = f"KFC nearby {area} {state}"
-        count.append(find_location(query = query))
-        data_link = {
-            'Location': query,
-            'Count': count[-1]
-        }
-    data.append(data_link) 
-print(data)
+def start_scrape(state = mydict):
+    
+    state_to_scrape = state
+    filtered_dict = {}
+    for state, areas in mydict.items():
+        if state in state_to_scrape:
+            filtered_dict[state] = areas
+            
+    for state, areas in filtered_dict.items():
+        for area in areas:
+            load_map()
+            query = f"KFC nearby {area} {state}"
+            count.append(find_location(query = query))
+            data_link = {
+                'Location': query,
+                'Count': count[-1]
+            }
+            data.append(data_link) 
+        with open(csv_file, 'w', newline='') as file:
+            writer = csv.DictWriter(file, fieldnames=['Location', 'Count'])
+            writer.writeheader()
+            for row in data:
+                writer.writerow(row)
 
-import csv
+        print(f"Data for {query} was loaded into csv")
+    print(data)
+
+'''import csv
 csv_file = 'kfc_data.csv'
 with open(csv_file, 'w', newline='') as file:
     writer = csv.DictWriter(file, fieldnames=['Location', 'Count'])
@@ -90,6 +111,8 @@ with open(csv_file, 'w', newline='') as file:
     for row in data:
         writer.writerow(row)
 
-print("File Loaded into csv")
+print("File Loaded into csv")'''
+
+start_scrape(['Perlis'])
 
 
