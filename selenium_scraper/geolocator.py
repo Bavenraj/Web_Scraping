@@ -7,6 +7,7 @@ import time
 from bs4 import BeautifulSoup
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from data_transform import mydict
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logging.info("Initializing WebDriver")
@@ -69,10 +70,10 @@ states_districts_dict = {
 }            
 count = []
 data = []
-for state, districts in states_districts_dict.items():
-    for district in districts:
+for state, areas in mydict.items():
+    for area in areas:
         load_map()
-        query = f"KFC nearby {district} {state}"
+        query = f"KFC nearby {area} {state}"
         count.append(find_location(query = query))
         data_link = {
             'Location': query,
