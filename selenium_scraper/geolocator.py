@@ -43,29 +43,42 @@ def find_location(query):
         
         logging.info("Calculation difference in search results count")
         final_count = len(driver.find_elements(by=By.CLASS_NAME, value = "hfpxzc"))
-        print(str(initial_count)+" - "+ str(final_count))
+        #print(str(initial_count)+" - "+ str(final_count))
         time.sleep(2)
         
         if(initial_count!=final_count):
             initial_count = final_count
         else:
             return final_count
-            
-states_and_federal_territories = ["Johor", "Kedah", "Kelantan", "Melaka", "Negeri Sembilan", "Pahang",
-    "Penang", "Perak", "Perlis", "Sabah", "Sarawak", "Selangor", "Terengganu", 
-    "Kuala Lumpur", "Putrajaya", "Labuan" # Federal Territory
-]
+
+states_districts_dict = {
+    "Johor": ["Batu Pahat","Johor Bahru","Kluang","Kota Tinggi","Kulaijaya","Mersing","Muar","Pontian","Segamat","Tangkak"] , 
+    "Kedah": ["Baling","Bandar Baharu","Kota Setar","Kuala Muda","Kubang Pasu","Kulim","Langkawi","Padang Terap","Pendang","Pokok Sena","Sik","Yan"], 
+    "Kelantan" : ["Bachok","Gua Musang","Jeli","Kecil Lojing","Kota Bharu","Kuala Krai","Machang","Pasir Mas","Pasir Puteh","Tanah Merah","Tumpat"], 
+    "Melaka" : ["Alor Gajah","Jasin","Melaka Tengah"], 
+    "Negeri Sembilan" : ["Jelebu","Jempol","Kuala Pilah","Port Dickson","Rembau","Seremban","Tampin"], 
+    "Pahang" : ["Bentong","Bera","Cameron Highlands","Jerantut","Kuantan","Lipis","Maran","Pekan","Raub","Rompin","Temerloh"],
+    "Penang" : ["Barat Daya",	"Seberang Perai Selatan",	"Seberang Perai Tengah",	"Seberang Perai Utara",	"Timur Laut"], 
+    "Perak" : ["Bagan Datuk","Batang Padang","Hilir Perak","Hulu Perak","Kampar","Kerian","Kinta","Kuala Kangsar","Larut dan Matang","Manjung","Muallim","Perak Tengah","Selama"], 
+    "Perlis" : ["Perlis"], 
+    "Sabah" : ["Beaufort","Beluran","Kalabakan","Keningau","Kinabatangan","Kota Belud","Kota Kinabalu","Kota Marudu","Kuala Penyu","Kudat","Kunak","Lahad Datu","Nabawan","Papar","Penampang","Pitas","Putatan","Ranau","Sandakan","Semporna","Sipitang","Tambunan","Tawau","Telupid","Tenom","Tongod","Tuaran"], 
+    "Sarawak" : ["Asajaya","Bau","Belaga","Beluru","Betong","Bintulu","Bukit Mabong","Dalat","Daro","Julau","Kabong","Kanowit","Kapit","Kuching","Lawas","Limbang","Lubok Antu","Lundu","Maradong","Marudi","Matu","Miri","Mukah","Pakan","Pusa","Samarahan","Saratok","Sarikei","Sebauh","Selangau","Serian","Sibu","Simunjan","Song","Sri Aman","Subis","Tanjung Manis","Tatau","Tebedu","Telang Usan"], 
+    "Selangor" : ["Gombak","Klang","Kuala Langat","Kuala Selangor","Petaling","Sabak Bernam","Sepang","Ulu Langat","Ulu Selangor"], 
+    "Terengganu" : ["Besut","Dungun","Hulu Terengganu","Kemaman","Kuala Nerus","Kuala Terengganu","Marang","Setiu"], 
+    "Kuala Lumpur" : ["Kuala Lumpur"], "Putrajaya" : ["Putrajaya"], "Labuan": ["Labuan"]
+}            
 count = []
 data = []
-for state_fd in states_and_federal_territories:
-    load_map()
-    query = f"Uni {state_fd}"
-    count.append(find_location(query = query))
-    data_link = {
-        'Location': query,
-        'Count': count[-1]
-    }
-    data.append(data_link)
+for state_district in states_districts_dict:
+    for district in state_district:
+        load_map()
+        query = f"KFC nearby {district} {state_district}"
+        count.append(find_location(query = query))
+        data_link = {
+            'Location': query,
+            'Count': count[-1]
+        }
+        data.append(data_link)
     
 print(data)
 
