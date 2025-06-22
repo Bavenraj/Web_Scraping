@@ -9,7 +9,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from data_transform import mydict
 import csv
-csv_file = 'kfc_data.csv'
+csv_file = 'data/kfc_data.csv'
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logging.info("Initializing WebDriver")
@@ -22,11 +22,11 @@ driver.maximize_window()
 def load_map():
     logging.info("Loading Google Maps")
     driver.get("https://www.google.com/maps/")
-    time.sleep(5)
+    time.sleep(3)
 
 def find_location(query):
     logging.info("Getting input search box")
-    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, 'searchboxinput')))
+    WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.CLASS_NAME, 'searchboxinput')))
     input = driver.find_element(by = By.CLASS_NAME, value = "searchboxinput")
     input.clear()
     
@@ -36,7 +36,7 @@ def find_location(query):
     
     logging.info("Looking for scrollable element")
     try: 
-        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, f"[aria-label='Results for {query}']")))
+        WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.CSS_SELECTOR, f"[aria-label='Results for {query}']")))
         scrollableElement = driver.find_element(by=By.CSS_SELECTOR, value =f"[aria-label='Results for {query}']")
         initial_count = 0
         while True:
@@ -50,9 +50,9 @@ def find_location(query):
             #print(str(initial_count)+" - "+ str(final_count))
             time.sleep(2)
             pageSource = driver.page_source
-            with open(f"pageSource/{query}.html", 'w') as file:
+            with open(f"pageSource/{query}.html", "w", encoding="utf-8") as file:
                 file.write(pageSource)
-                file.close()
+            
             if(initial_count!=final_count):
                 initial_count = final_count
             else:
@@ -100,12 +100,11 @@ def start_scrape(state_list = mydict):
             }
             data.append(data_link) 
         with open(csv_file, 'w', newline='') as file:
-            writer = csv.DictWriter(file, fieldnames=['Location', 'Count'])
+            writer = csv.DictWriter(file, fieldnames=['State','Area', 'Count'])
             writer.writeheader()
             for row in data:
                 writer.writerow(row)
-            file.close()
-
+ 
         print(f"Data for {query} was loaded into csv")
     print(data)
 
@@ -119,6 +118,6 @@ with open(csv_file, 'w', newline='') as file:
 
 print("File Loaded into csv")'''
 
-start_scrape(['Perlis', 'W.P. Labuan'])
+start_scrape()#['Perlis', 'W.P. Labuan'])
 
 
