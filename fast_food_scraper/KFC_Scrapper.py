@@ -9,11 +9,11 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from data_transform import mydict
 import csv
-csv_file = 'data/kfc_data.csv'
+csv_file = 'data/kfc_data_2.csv'
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-logging.info("Initializing WebDriver")
 
+logging.info("Initializing WebDriver")
 options = Options()
 options.page_load_strategy = 'eager'
 driver = webdriver.Chrome(options=options)
@@ -21,7 +21,7 @@ driver.maximize_window()
 
 def load_map():
     logging.info("Loading Google Maps")
-    driver.get("https://www.google.com/maps/")
+    driver.get("https://www.google.com/maps/@4.619127,108.9124153,6z?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D")
     time.sleep(3)
 
 def find_location(query):
@@ -33,6 +33,8 @@ def find_location(query):
     logging.info(f"Searching for {query}:")
     input.send_keys(query, Keys.ENTER)
     time.sleep(5)
+    driver.refresh()
+    time.sleep(5)
     
     logging.info("Looking for scrollable element")
     try: 
@@ -40,24 +42,27 @@ def find_location(query):
         scrollableElement = driver.find_element(by=By.CSS_SELECTOR, value =f"[aria-label='Results for {query}']")
         initial_count = 0
         while True:
-            logging.info("Scrolling search results")
+            logging.info("Found. Scrolling search results")
             for _ in range(3):
                 driver.execute_script('arguments[0].scrollBy(0,1000);', scrollableElement)
                 time.sleep(1)
             
-            logging.info("Calculation difference in search results count")
             final_count = len(driver.find_elements(by=By.CLASS_NAME, value = "hfpxzc"))
             #print(str(initial_count)+" - "+ str(final_count))
             time.sleep(2)
-            pageSource = driver.page_source
-            with open(f"pageSource/{query}.html", "w", encoding="utf-8") as file:
-                file.write(pageSource)
             
             if(initial_count!=final_count):
                 initial_count = final_count
             else:
+                pageSource = driver.page_source
+                with open(f"pageSource_1/{query}.html", "w", encoding="utf-8") as file:
+                    file.write(pageSource)
                 return final_count
     except:
+        time.sleep(2)
+        pageSource = driver.page_source
+        with open(f"pageSource_1/{query}.html", "w", encoding="utf-8") as file:
+            file.write(pageSource)
         final_count = 1
         return final_count
     
@@ -91,7 +96,7 @@ def start_scrape(state_list = mydict):
     for state, areas in filtered_dict.items():
         for area in areas:
             load_map()
-            query = f"KFC nearby {area} {state}"
+            query = f"KFC near {area}, {state}"
             count.append(find_location(query = query))
             data_link = {
                 'State': state,
@@ -108,16 +113,6 @@ def start_scrape(state_list = mydict):
         print(f"Data for {query} was loaded into csv")
     print(data)
 
-'''import csv
-csv_file = 'kfc_data.csv'
-with open(csv_file, 'w', newline='') as file:
-    writer = csv.DictWriter(file, fieldnames=['Location', 'Count'])
-    writer.writeheader()
-    for row in data:
-        writer.writerow(row)
-
-print("File Loaded into csv")'''
-
-start_scrape()#['Perlis', 'W.P. Labuan'])
+start_scrape()
 
 
