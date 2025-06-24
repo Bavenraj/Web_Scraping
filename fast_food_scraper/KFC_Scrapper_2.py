@@ -74,17 +74,16 @@ def find_nearby_location(driver, query):
                 initial_count = final_count
             else:
                 pageSource = driver.page_source
-                with open(f"pageSource_1/{query}.html", "w", encoding="utf-8") as file:
+                with open(f"pageSource_3/{query}.html", "w", encoding="utf-8") as file:
                     file.write(pageSource)
                 return final_count
     except:
         time.sleep(2)
         pageSource = driver.page_source
-        with open(f"pageSource_1/{query}.html", "w", encoding="utf-8") as file:
+        with open(f"pageSource_3/{query}.html", "w", encoding="utf-8") as file:
             file.write(pageSource)
         final_count = 1
         return final_count
-    
            
 count = []
 data = []
