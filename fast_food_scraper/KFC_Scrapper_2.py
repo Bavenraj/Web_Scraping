@@ -9,7 +9,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from data_transform import mydict
 import csv
-csv_file = 'data/kfc_data_2.csv'
+csv_file = 'data/kfc_data_3.csv'
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -24,21 +24,38 @@ def load_map():
     driver.get("https://www.google.com/maps/@4.619127,108.9124153,6z?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D")
     time.sleep(3)
 
-def find_location(query):
+def find_state(query):
     logging.info("Getting input search box")
-    WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.CLASS_NAME, 'searchboxinput')))
+    WebDriverWait(driver, 3).until(EC.presence_of_element_located((By.CLASS_NAME, 'searchboxinput')))
     input = driver.find_element(by = By.CLASS_NAME, value = "searchboxinput")
     input.clear()
     
     logging.info(f"Searching for {query}:")
     input.send_keys(query, Keys.ENTER)
-    time.sleep(5)
+    time.sleep(3)
     driver.refresh()
-    time.sleep(5)
+    time.sleep(3) 
     
-    logging.info("Looking for scrollable element")
+    return driver
+
+def find_nearby_location():    
+    logging.info("Looking for nearby location")
+    WebDriverWait(driver, 3).until(EC.presence_of_element_located((By.CSS_SELECTOR, f"[aria-label='Nearby']")))
+    NearbyButton = driver.find_element(by=By.CSS_SELECTOR, value =f"[aria-label='Nearby']")
+    NearbyButton.click()
+    time.sleep(1)
+    WebDriverWait(driver, 3).until(EC.presence_of_element_located((By.ID, "searchboxinput")))
+    input = driver.find_element(by=By.ID, value = "searchboxinput")
+    input.clear()
+    
+    logging.info(f"Searching for {query}:")
+    input.send_keys(query, Keys.ENTER)
+    time.sleep(3)
+    driver.refresh()
+    time.sleep(3)
+    
     try: 
-        WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.CSS_SELECTOR, f"[aria-label='Results for {query}']")))
+        WebDriverWait(driver, 3).until(EC.presence_of_element_located((By.CSS_SELECTOR, f"[aria-label='Results for {query}']")))
         scrollableElement = driver.find_element(by=By.CSS_SELECTOR, value =f"[aria-label='Results for {query}']")
         initial_count = 0
         while True:
