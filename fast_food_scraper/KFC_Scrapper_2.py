@@ -36,14 +36,16 @@ def find_state(query):
     driver.refresh()
     time.sleep(3) 
     
-    return driver
-
-def find_nearby_location():    
-    logging.info("Looking for nearby location")
+    logging.info("Looking for nearby location button")
     WebDriverWait(driver, 3).until(EC.presence_of_element_located((By.CSS_SELECTOR, f"[aria-label='Nearby']")))
     NearbyButton = driver.find_element(by=By.CSS_SELECTOR, value =f"[aria-label='Nearby']")
     NearbyButton.click()
     time.sleep(1)
+    
+    return driver
+
+def find_nearby_location(driver, query):    
+
     WebDriverWait(driver, 3).until(EC.presence_of_element_located((By.ID, "searchboxinput")))
     input = driver.find_element(by=By.ID, value = "searchboxinput")
     input.clear()
@@ -96,10 +98,11 @@ def start_scrape(state_list = mydict):
     #print(filtered_dict)
             
     for state, areas in filtered_dict.items():
+        load_map()
+        driverr = find_state(state)
         for area in areas:
-            load_map()
             query = f"KFC near {area}, {state}"
-            count.append(find_location(query = query))
+            count.append(find_nearby_location(driver=driverr, query = query))
             data_link = {
                 'State': state,
                 'Area' : area,
@@ -115,6 +118,6 @@ def start_scrape(state_list = mydict):
         print(f"Data for {query} was loaded into csv")
     print(data)
 
-start_scrape()
+start_scrape("W.P. Labuan")
 
 
