@@ -11,7 +11,8 @@ from data_transform import mydict
 import csv
 csv_file = 'data/kfc_data_3.csv'
 
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(filename="kfcscrapper.log", encoding="utf-8", filemode="a",
+                    level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 logging.info("Initializing WebDriver")
 options = Options()
@@ -60,8 +61,8 @@ def find_nearby_location(driver, query):
         WebDriverWait(driver, 3).until(EC.presence_of_element_located((By.CSS_SELECTOR, f"[aria-label='Results for {query}']")))
         scrollableElement = driver.find_element(by=By.CSS_SELECTOR, value =f"[aria-label='Results for {query}']")
         initial_count = 0
+        logging.info("Found. Scrolling search results")
         while True:
-            logging.info("Found. Scrolling search results")
             for _ in range(3):
                 driver.execute_script('arguments[0].scrollBy(0,1000);', scrollableElement)
                 time.sleep(1)
@@ -78,7 +79,9 @@ def find_nearby_location(driver, query):
                     file.write(pageSource)
                 return final_count
     except:
+        logging.info("Element Not found. Only One Available Result")
         time.sleep(2)
+        logging.info("Extracting Page Source")
         pageSource = driver.page_source
         with open(f"pageSource_3/{query}.html", "w", encoding="utf-8") as file:
             file.write(pageSource)
@@ -108,15 +111,16 @@ def start_scrape(state_list = mydict):
                 'Count': count[-1]
             }
             data.append(data_link) 
+        logging.info("Populating data into excel")
         with open(csv_file, 'w', newline='') as file:
             writer = csv.DictWriter(file, fieldnames=['State','Area', 'Count'])
             writer.writeheader()
             for row in data:
                 writer.writerow(row)
  
-        print(f"Data for {query} was loaded into csv")
+        logging.info(f"Data for {query} was loaded into csv")
     print(data)
 
-start_scrape("W.P. Labuan")
+start_scrape()
 
 
