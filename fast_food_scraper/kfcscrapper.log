@@ -1,1 +1,468 @@
 
+2025-06-26 22:04:50,912 - INFO - Initializing WebDriver
+2025-06-26 22:04:54,033 - INFO - Loading Google Maps
+2025-06-26 22:04:58,195 - INFO - Getting input search box
+2025-06-26 22:04:58,867 - INFO - Searching for Johor:
+2025-06-26 22:05:06,118 - INFO - Looking for nearby location button
+2025-06-26 22:05:07,594 - INFO - Searching for KFC near Segamat, Johor:
+2025-06-26 22:05:16,022 - INFO - Found. Scrolling search results
+2025-06-26 22:05:26,414 - INFO - Searching for KFC near Sekijang, Johor:
+2025-06-26 22:05:34,711 - INFO - Found. Scrolling search results
+2025-06-26 22:05:44,993 - INFO - Searching for KFC near Labis, Johor:
+2025-06-26 22:05:55,510 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:05:57,511 - INFO - Extracting Page Source
+2025-06-26 22:05:57,631 - INFO - Searching for KFC near Pagoh, Johor:
+2025-06-26 22:06:04,889 - INFO - Found. Scrolling search results
+2025-06-26 22:06:15,154 - INFO - Searching for KFC near Ledang, Johor:
+2025-06-26 22:06:25,691 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:06:27,691 - INFO - Extracting Page Source
+2025-06-26 22:06:27,877 - INFO - Searching for KFC near Bakri, Johor:
+2025-06-26 22:06:35,850 - INFO - Found. Scrolling search results
+2025-06-26 22:06:46,219 - INFO - Searching for KFC near Muar, Johor:
+2025-06-26 22:06:54,228 - INFO - Found. Scrolling search results
+2025-06-26 22:07:04,610 - INFO - Searching for KFC near Parit Sulong, Johor:
+2025-06-26 22:07:15,541 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:07:17,541 - INFO - Extracting Page Source
+2025-06-26 22:07:18,057 - INFO - Searching for KFC near Ayer Hitam, Johor:
+2025-06-26 22:07:29,695 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:07:31,695 - INFO - Extracting Page Source
+2025-06-26 22:07:31,839 - INFO - Searching for KFC near Sri Gading, Johor:
+2025-06-26 22:07:39,840 - INFO - Found. Scrolling search results
+2025-06-26 22:07:50,080 - INFO - Searching for KFC near Batu Pahat, Johor:
+2025-06-26 22:08:00,701 - INFO - Found. Scrolling search results
+2025-06-26 22:08:13,022 - INFO - Searching for KFC near Simpang Renggam, Johor:
+2025-06-26 22:08:24,675 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:08:26,675 - INFO - Extracting Page Source
+2025-06-26 22:08:26,806 - INFO - Searching for KFC near Kluang, Johor:
+2025-06-26 22:08:33,930 - INFO - Found. Scrolling search results
+2025-06-26 22:08:44,147 - INFO - Searching for KFC near Sembrong, Johor:
+2025-06-26 22:08:52,604 - INFO - Found. Scrolling search results
+2025-06-26 22:09:02,969 - INFO - Searching for KFC near Mersing, Johor:
+2025-06-26 22:09:10,989 - INFO - Found. Scrolling search results
+2025-06-26 22:09:21,262 - INFO - Searching for KFC near Tenggara, Johor:
+2025-06-26 22:09:29,137 - INFO - Found. Scrolling search results
+2025-06-26 22:09:39,380 - INFO - Searching for KFC near Kota Tinggi, Johor:
+2025-06-26 22:09:47,690 - INFO - Found. Scrolling search results
+2025-06-26 22:09:58,000 - INFO - Searching for KFC near Pengerang, Johor:
+2025-06-26 22:10:06,281 - INFO - Found. Scrolling search results
+2025-06-26 22:10:16,612 - INFO - Searching for KFC near Tebrau, Johor:
+2025-06-26 22:10:25,163 - INFO - Found. Scrolling search results
+2025-06-26 22:10:35,512 - INFO - Searching for KFC near Pasir Gudang, Johor:
+2025-06-26 22:10:44,971 - INFO - Found. Scrolling search results
+2025-06-26 22:10:55,186 - INFO - Searching for KFC near Johor Bahru, Johor:
+2025-06-26 22:11:04,241 - INFO - Found. Scrolling search results
+2025-06-26 22:11:14,602 - INFO - Searching for KFC near Pulai, Johor:
+2025-06-26 22:11:24,923 - INFO - Found. Scrolling search results
+2025-06-26 22:11:35,435 - INFO - Searching for KFC near Iskandar Puteri, Johor:
+2025-06-26 22:11:44,137 - INFO - Found. Scrolling search results
+2025-06-26 22:11:54,354 - INFO - Searching for KFC near Kulai, Johor:
+2025-06-26 22:12:02,757 - INFO - Found. Scrolling search results
+2025-06-26 22:12:12,960 - INFO - Searching for KFC near Pontian, Johor:
+2025-06-26 22:12:21,786 - INFO - Found. Scrolling search results
+2025-06-26 22:12:32,172 - INFO - Searching for KFC near Tanjung Piai, Johor:
+2025-06-26 22:12:40,468 - INFO - Found. Scrolling search results
+2025-06-26 22:12:50,723 - INFO - Populating data into excel
+2025-06-26 22:12:50,724 - INFO - Data for KFC near Tanjung Piai, Johor was loaded into csv
+2025-06-26 22:12:50,724 - INFO - Loading Google Maps
+2025-06-26 22:12:54,222 - INFO - Getting input search box
+2025-06-26 22:12:54,282 - INFO - Searching for Kedah:
+2025-06-26 22:13:03,215 - INFO - Looking for nearby location button
+2025-06-26 22:13:04,427 - INFO - Searching for KFC near Langkawi, Kedah:
+2025-06-26 22:13:14,377 - INFO - Found. Scrolling search results
+2025-06-26 22:13:25,732 - INFO - Searching for KFC near Jerlun, Kedah:
+2025-06-26 22:13:36,482 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:13:38,482 - INFO - Extracting Page Source
+2025-06-26 22:13:38,622 - INFO - Searching for KFC near Kubang Pasu, Kedah:
+2025-06-26 22:13:47,340 - INFO - Found. Scrolling search results
+2025-06-26 22:13:57,566 - INFO - Searching for KFC near Padang Terap, Kedah:
+2025-06-26 22:14:06,548 - INFO - Found. Scrolling search results
+2025-06-26 22:14:16,944 - INFO - Searching for KFC near Pokok Sena, Kedah:
+2025-06-26 22:14:28,847 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:14:30,847 - INFO - Extracting Page Source
+2025-06-26 22:14:30,999 - INFO - Searching for KFC near Alor Setar, Kedah:
+2025-06-26 22:14:39,699 - INFO - Found. Scrolling search results
+2025-06-26 22:14:49,919 - INFO - Searching for KFC near Kuala Kedah, Kedah:
+2025-06-26 22:15:00,253 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:15:02,254 - INFO - Extracting Page Source
+2025-06-26 22:15:02,373 - INFO - Searching for KFC near Pendang, Kedah:
+2025-06-26 22:15:11,112 - INFO - Found. Scrolling search results
+2025-06-26 22:15:21,651 - INFO - Searching for KFC near Jerai, Kedah:
+2025-06-26 22:15:31,219 - INFO - Found. Scrolling search results
+2025-06-26 22:15:41,719 - INFO - Searching for KFC near Sik, Kedah:
+2025-06-26 22:15:55,009 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:15:57,010 - INFO - Extracting Page Source
+2025-06-26 22:15:57,382 - INFO - Searching for KFC near Merbok, Kedah:
+2025-06-26 22:16:09,689 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:16:11,690 - INFO - Extracting Page Source
+2025-06-26 22:16:11,883 - INFO - Searching for KFC near Sungai Petani, Kedah:
+2025-06-26 22:16:20,843 - INFO - Found. Scrolling search results
+2025-06-26 22:16:31,071 - INFO - Searching for KFC near Baling, Kedah:
+2025-06-26 22:16:41,579 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:16:43,580 - INFO - Extracting Page Source
+2025-06-26 22:16:43,724 - INFO - Searching for KFC near Padang Serai, Kedah:
+2025-06-26 22:16:55,241 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:16:57,241 - INFO - Extracting Page Source
+2025-06-26 22:16:57,362 - INFO - Searching for KFC near Kulim-Bandar Baharu, Kedah:
+2025-06-26 22:17:05,168 - INFO - Found. Scrolling search results
+2025-06-26 22:17:15,305 - INFO - Populating data into excel
+2025-06-26 22:17:15,306 - INFO - Data for KFC near Kulim-Bandar Baharu, Kedah was loaded into csv
+2025-06-26 22:17:15,306 - INFO - Loading Google Maps
+2025-06-26 22:17:18,641 - INFO - Getting input search box
+2025-06-26 22:17:18,830 - INFO - Searching for Kelantan:
+2025-06-26 22:17:26,225 - INFO - Looking for nearby location button
+2025-06-26 22:17:27,675 - INFO - Searching for KFC near Tumpat, Kelantan:
+2025-06-26 22:17:38,357 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:17:40,358 - INFO - Extracting Page Source
+2025-06-26 22:17:40,474 - INFO - Searching for KFC near Pengkalan Chepa, Kelantan:
+2025-06-26 22:17:51,407 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:17:53,408 - INFO - Extracting Page Source
+2025-06-26 22:17:53,527 - INFO - Searching for KFC near Kota Bharu, Kelantan:
+2025-06-26 22:18:01,237 - INFO - Found. Scrolling search results
+2025-06-26 22:18:11,466 - INFO - Searching for KFC near Pasir Mas, Kelantan:
+2025-06-26 22:18:22,947 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:18:24,948 - INFO - Extracting Page Source
+2025-06-26 22:18:25,089 - INFO - Searching for KFC near Rantau Panjang, Kelantan:
+2025-06-26 22:18:35,949 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:18:37,950 - INFO - Extracting Page Source
+2025-06-26 22:18:38,062 - INFO - Searching for KFC near Kubang Kerian, Kelantan:
+2025-06-26 22:18:49,112 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:18:51,113 - INFO - Extracting Page Source
+2025-06-26 22:18:51,358 - INFO - Searching for KFC near Bachok, Kelantan:
+2025-06-26 22:19:01,827 - INFO - Found. Scrolling search results
+2025-06-26 22:19:12,472 - INFO - Searching for KFC near Ketereh, Kelantan:
+2025-06-26 22:19:23,446 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:19:25,447 - INFO - Extracting Page Source
+2025-06-26 22:19:25,570 - INFO - Searching for KFC near Tanah Merah, Kelantan:
+2025-06-26 22:19:37,772 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:19:39,773 - INFO - Extracting Page Source
+2025-06-26 22:19:39,886 - INFO - Searching for KFC near Pasir Puteh, Kelantan:
+2025-06-26 22:19:53,778 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:19:55,779 - INFO - Extracting Page Source
+2025-06-26 22:20:00,614 - INFO - Searching for KFC near Machang, Kelantan:
+2025-06-26 22:20:10,284 - INFO - Found. Scrolling search results
+2025-06-26 22:20:20,597 - INFO - Searching for KFC near Jeli, Kelantan:
+2025-06-26 21:41:19,173 - INFO - Element Not found. Only One Available Result
+2025-06-26 21:41:21,173 - INFO - Extracting Page Source
+2025-06-26 21:41:21,298 - INFO - Searching for KFC near Kuala Krai, Kelantan:
+2025-06-26 21:41:29,734 - INFO - Found. Scrolling search results
+2025-06-26 21:41:39,909 - INFO - Searching for KFC near Gua Musang, Kelantan:
+2025-06-26 21:41:50,483 - INFO - Element Not found. Only One Available Result
+2025-06-26 21:41:52,483 - INFO - Extracting Page Source
+2025-06-26 21:41:52,567 - INFO - Populating data into excel
+2025-06-26 21:41:52,569 - INFO - Data for KFC near Gua Musang, Kelantan was loaded into csv
+2025-06-26 21:41:52,569 - INFO - Loading Google Maps
+2025-06-26 21:41:55,874 - INFO - Getting input search box
+2025-06-26 21:41:55,934 - INFO - Searching for Melaka:
+2025-06-26 21:42:04,116 - INFO - Looking for nearby location button
+2025-06-26 21:42:05,292 - INFO - Searching for KFC near Masjid Tanah, Melaka:
+2025-06-26 21:42:16,848 - INFO - Element Not found. Only One Available Result
+2025-06-26 21:42:18,848 - INFO - Extracting Page Source
+2025-06-26 21:42:18,989 - INFO - Searching for KFC near Alor Gajah, Melaka:
+2025-06-26 21:42:30,861 - INFO - Element Not found. Only One Available Result
+2025-06-26 21:42:32,862 - INFO - Extracting Page Source
+2025-06-26 21:42:33,007 - INFO - Searching for KFC near Tangga Batu, Melaka:
+2025-06-26 21:42:42,053 - INFO - Found. Scrolling search results
+2025-06-26 21:42:52,273 - INFO - Searching for KFC near Hang Tuah Jaya, Melaka:
+2025-06-26 21:43:01,240 - INFO - Found. Scrolling search results
+2025-06-26 21:43:11,460 - INFO - Searching for KFC near Kota Melaka, Melaka:
+2025-06-26 21:43:20,666 - INFO - Found. Scrolling search results
+2025-06-26 21:43:30,887 - INFO - Searching for KFC near Jasin, Melaka:
+2025-06-26 21:43:39,774 - INFO - Found. Scrolling search results
+2025-06-26 21:43:49,914 - INFO - Populating data into excel
+2025-06-26 21:43:49,915 - INFO - Data for KFC near Jasin, Melaka was loaded into csv
+2025-06-26 21:43:49,915 - INFO - Loading Google Maps
+2025-06-26 21:43:53,194 - INFO - Getting input search box
+2025-06-26 21:43:53,268 - INFO - Searching for Negeri Sembilan:
+2025-06-26 21:44:01,673 - INFO - Looking for nearby location button
+2025-06-26 21:44:02,846 - INFO - Searching for KFC near Jelebu, Negeri Sembilan:
+2025-06-26 21:44:15,033 - INFO - Element Not found. Only One Available Result
+2025-06-26 21:44:17,033 - INFO - Extracting Page Source
+2025-06-26 21:44:17,166 - INFO - Searching for KFC near Jempol, Negeri Sembilan:
+2025-06-26 21:44:25,218 - INFO - Found. Scrolling search results
+2025-06-26 21:44:35,411 - INFO - Searching for KFC near Seremban, Negeri Sembilan:
+2025-06-26 21:44:43,854 - INFO - Found. Scrolling search results
+2025-06-26 21:44:54,073 - INFO - Searching for KFC near Kuala Pilah, Negeri Sembilan:
+2025-06-26 21:45:04,564 - INFO - Element Not found. Only One Available Result
+2025-06-26 21:45:06,565 - INFO - Extracting Page Source
+2025-06-26 21:45:06,682 - INFO - Searching for KFC near Rasah, Negeri Sembilan:
+2025-06-26 21:45:14,618 - INFO - Found. Scrolling search results
+2025-06-26 21:45:34,929 - INFO - Searching for KFC near Rembau, Negeri Sembilan:
+2025-06-26 21:45:48,164 - INFO - Element Not found. Only One Available Result
+2025-06-26 21:45:50,165 - INFO - Extracting Page Source
+2025-06-26 21:45:50,517 - INFO - Searching for KFC near Port Dickson, Negeri Sembilan:
+2025-06-26 21:46:01,611 - INFO - Found. Scrolling search results
+2025-06-26 21:46:12,152 - INFO - Searching for KFC near Tampin, Negeri Sembilan:
+2025-06-26 21:46:22,569 - INFO - Element Not found. Only One Available Result
+2025-06-26 21:46:24,569 - INFO - Extracting Page Source
+2025-06-26 21:46:24,631 - INFO - Populating data into excel
+2025-06-26 21:46:24,633 - INFO - Data for KFC near Tampin, Negeri Sembilan was loaded into csv
+2025-06-26 21:46:24,633 - INFO - Loading Google Maps
+2025-06-26 21:46:28,093 - INFO - Getting input search box
+2025-06-26 21:46:28,183 - INFO - Searching for Pahang:
+2025-06-26 21:46:35,996 - INFO - Looking for nearby location button
+2025-06-26 21:46:37,290 - INFO - Searching for KFC near Cameron Highlands, Pahang:
+2025-06-26 21:46:48,792 - INFO - Element Not found. Only One Available Result
+2025-06-26 21:46:50,793 - INFO - Extracting Page Source
+2025-06-26 21:46:50,921 - INFO - Searching for KFC near Lipis, Pahang:
+2025-06-26 21:47:01,827 - INFO - Element Not found. Only One Available Result
+2025-06-26 21:47:03,828 - INFO - Extracting Page Source
+2025-06-26 21:47:03,986 - INFO - Searching for KFC near Raub, Pahang:
+2025-06-26 21:47:11,827 - INFO - Found. Scrolling search results
+2025-06-26 21:47:22,041 - INFO - Searching for KFC near Jerantut, Pahang:
+2025-06-26 21:47:33,195 - INFO - Element Not found. Only One Available Result
+2025-06-26 21:47:35,196 - INFO - Extracting Page Source
+2025-06-26 21:47:35,348 - INFO - Searching for KFC near Indera Mahkota, Pahang:
+2025-06-26 21:47:43,534 - INFO - Found. Scrolling search results
+2025-06-26 21:47:53,712 - INFO - Searching for KFC near Kuantan, Pahang:
+2025-06-26 21:48:02,327 - INFO - Found. Scrolling search results
+2025-06-26 21:48:12,569 - INFO - Searching for KFC near Paya Besar, Pahang:
+2025-06-26 21:48:21,087 - INFO - Found. Scrolling search results
+2025-06-26 21:48:31,300 - INFO - Searching for KFC near Pekan, Pahang:
+2025-06-26 21:48:39,602 - INFO - Found. Scrolling search results
+2025-06-26 21:48:49,792 - INFO - Searching for KFC near Maran, Pahang:
+2025-06-26 21:49:01,026 - INFO - Element Not found. Only One Available Result
+2025-06-26 21:49:03,027 - INFO - Extracting Page Source
+2025-06-26 21:49:03,141 - INFO - Searching for KFC near Kuala Krau, Pahang:
+2025-06-26 21:49:11,623 - INFO - Found. Scrolling search results
+2025-06-26 21:49:21,839 - INFO - Searching for KFC near Temerloh, Pahang:
+2025-06-26 21:49:30,388 - INFO - Found. Scrolling search results
+2025-06-26 21:49:40,571 - INFO - Searching for KFC near Bentong, Pahang:
+2025-06-26 21:49:48,963 - INFO - Found. Scrolling search results
+2025-06-26 21:49:59,151 - INFO - Searching for KFC near Bera, Pahang:
+2025-06-26 21:50:10,355 - INFO - Element Not found. Only One Available Result
+2025-06-26 21:50:12,356 - INFO - Extracting Page Source
+2025-06-26 21:50:12,490 - INFO - Searching for KFC near Rompin, Pahang:
+2025-06-26 21:50:23,158 - INFO - Element Not found. Only One Available Result
+2025-06-26 21:50:25,159 - INFO - Extracting Page Source
+2025-06-26 21:50:25,230 - INFO - Populating data into excel
+2025-06-26 21:50:25,232 - INFO - Data for KFC near Rompin, Pahang was loaded into csv
+2025-06-26 21:50:25,232 - INFO - Loading Google Maps
+2025-06-26 21:50:28,544 - INFO - Getting input search box
+2025-06-26 21:50:28,618 - INFO - Searching for Perak:
+2025-06-26 21:50:36,598 - INFO - Looking for nearby location button
+2025-06-26 21:50:37,807 - INFO - Searching for KFC near Gerik, Perak:
+2025-06-26 21:50:49,223 - INFO - Element Not found. Only One Available Result
+2025-06-26 21:50:51,224 - INFO - Extracting Page Source
+2025-06-26 21:50:51,354 - INFO - Searching for KFC near Lenggong, Perak:
+2025-06-26 21:51:00,530 - INFO - Found. Scrolling search results
+2025-06-26 21:51:11,003 - INFO - Searching for KFC near Larut, Perak:
+2025-06-26 21:51:20,298 - INFO - Found. Scrolling search results
+2025-06-26 21:51:30,519 - INFO - Searching for KFC near Parit Buntar, Perak:
+2025-06-26 21:51:39,419 - INFO - Found. Scrolling search results
+2025-06-26 21:51:49,618 - INFO - Searching for KFC near Bagan Serai, Perak:
+2025-06-26 21:52:01,353 - INFO - Element Not found. Only One Available Result
+2025-06-26 21:52:03,353 - INFO - Extracting Page Source
+2025-06-26 21:52:03,496 - INFO - Searching for KFC near Bukit Gantang, Perak:
+2025-06-26 21:52:12,902 - INFO - Found. Scrolling search results
+2025-06-26 21:52:23,130 - INFO - Searching for KFC near Taiping, Perak:
+2025-06-26 21:52:31,571 - INFO - Found. Scrolling search results
+2025-06-26 21:52:41,766 - INFO - Searching for KFC near Padang Rengas, Perak:
+2025-06-26 21:52:50,908 - INFO - Found. Scrolling search results
+2025-06-26 21:53:01,131 - INFO - Searching for KFC near Sungai Siput, Perak:
+2025-06-26 21:53:12,836 - INFO - Element Not found. Only One Available Result
+2025-06-26 21:53:14,837 - INFO - Extracting Page Source
+2025-06-26 21:53:14,960 - INFO - Searching for KFC near Tambun, Perak:
+2025-06-26 21:53:25,944 - INFO - Element Not found. Only One Available Result
+2025-06-26 21:53:27,944 - INFO - Extracting Page Source
+2025-06-26 21:53:28,085 - INFO - Searching for KFC near Ipoh Timor, Perak:
+2025-06-26 21:53:37,593 - INFO - Found. Scrolling search results
+2025-06-26 21:53:47,812 - INFO - Searching for KFC near Ipoh Barat, Perak:
+2025-06-26 21:53:59,404 - INFO - Found. Scrolling search results
+2025-06-26 21:54:09,669 - INFO - Searching for KFC near Batu Gajah, Perak:
+2025-06-26 21:54:21,151 - INFO - Element Not found. Only One Available Result
+2025-06-26 21:54:23,152 - INFO - Extracting Page Source
+2025-06-26 21:54:23,293 - INFO - Searching for KFC near Kuala Kangsar, Perak:
+2025-06-26 21:54:32,310 - INFO - Found. Scrolling search results
+2025-06-26 21:54:42,488 - INFO - Searching for KFC near Beruas, Perak:
+2025-06-26 21:54:50,395 - INFO - Found. Scrolling search results
+2025-06-26 21:55:00,616 - INFO - Searching for KFC near Parit, Perak:
+2025-06-26 21:55:09,949 - INFO - Found. Scrolling search results
+2025-06-26 21:55:20,174 - INFO - Searching for KFC near Kampar, Perak:
+2025-06-26 21:55:29,392 - INFO - Found. Scrolling search results
+2025-06-26 21:55:39,598 - INFO - Searching for KFC near Gopeng, Perak:
+2025-06-26 21:55:48,775 - INFO - Found. Scrolling search results
+2025-06-26 21:55:58,960 - INFO - Searching for KFC near Tapah, Perak:
+2025-06-26 21:56:07,975 - INFO - Found. Scrolling search results
+2025-06-26 21:56:18,186 - INFO - Searching for KFC near Pasir Salak, Perak:
+2025-06-26 21:56:28,032 - INFO - Found. Scrolling search results
+2025-06-26 21:56:38,289 - INFO - Searching for KFC near Lumut, Perak:
+2025-06-26 21:56:50,505 - INFO - Element Not found. Only One Available Result
+2025-06-26 21:56:52,505 - INFO - Extracting Page Source
+2025-06-26 21:56:52,655 - INFO - Searching for KFC near Bagan Datuk, Perak:
+2025-06-26 21:57:02,240 - INFO - Found. Scrolling search results
+2025-06-26 21:57:12,458 - INFO - Searching for KFC near Teluk Intan, Perak:
+2025-06-26 21:57:21,232 - INFO - Found. Scrolling search results
+2025-06-26 21:57:31,410 - INFO - Searching for KFC near Tanjong Malim, Perak:
+2025-06-26 21:57:40,202 - INFO - Found. Scrolling search results
+2025-06-26 21:57:50,319 - INFO - Populating data into excel
+2025-06-26 21:57:50,320 - INFO - Data for KFC near Tanjong Malim, Perak was loaded into csv
+2025-06-26 21:57:50,320 - INFO - Loading Google Maps
+2025-06-26 21:57:53,598 - INFO - Getting input search box
+2025-06-26 21:57:53,669 - INFO - Searching for Perlis:
+2025-06-26 21:58:02,021 - INFO - Looking for nearby location button
+2025-06-26 21:58:03,212 - INFO - Searching for KFC near Padang Besar, Perlis:
+2025-06-26 21:58:15,919 - INFO - Element Not found. Only One Available Result
+2025-06-26 21:58:17,920 - INFO - Extracting Page Source
+2025-06-26 21:58:18,039 - INFO - Searching for KFC near Kangar, Perlis:
+2025-06-26 21:58:26,800 - INFO - Found. Scrolling search results
+2025-06-26 21:58:37,278 - INFO - Searching for KFC near Arau, Perlis:
+2025-06-26 21:58:48,970 - INFO - Element Not found. Only One Available Result
+2025-06-26 21:58:50,970 - INFO - Extracting Page Source
+2025-06-26 21:58:51,034 - INFO - Populating data into excel
+2025-06-26 21:58:51,035 - INFO - Data for KFC near Arau, Perlis was loaded into csv
+2025-06-26 21:58:51,035 - INFO - Loading Google Maps
+2025-06-26 21:58:54,333 - INFO - Getting input search box
+2025-06-26 21:58:54,519 - INFO - Searching for Pulau Pinang:
+2025-06-26 21:59:02,542 - INFO - Looking for nearby location button
+2025-06-26 21:59:03,722 - INFO - Searching for KFC near Kepala Batas, Pulau Pinang:
+2025-06-26 21:59:12,215 - INFO - Found. Scrolling search results
+2025-06-26 21:59:22,647 - INFO - Searching for KFC near Tasek Gelugor, Pulau Pinang:
+2025-06-26 21:59:31,654 - INFO - Found. Scrolling search results
+2025-06-26 21:59:41,876 - INFO - Searching for KFC near Bagan, Pulau Pinang:
+2025-06-26 21:59:50,950 - INFO - Found. Scrolling search results
+2025-06-26 22:00:01,168 - INFO - Searching for KFC near Permatang Pauh, Pulau Pinang:
+2025-06-26 22:00:09,998 - INFO - Found. Scrolling search results
+2025-06-26 22:00:20,198 - INFO - Searching for KFC near Bukit Mertajam, Pulau Pinang:
+2025-06-26 22:00:29,022 - INFO - Found. Scrolling search results
+2025-06-26 22:00:39,275 - INFO - Searching for KFC near Batu Kawan, Pulau Pinang:
+2025-06-26 22:00:48,525 - INFO - Found. Scrolling search results
+2025-06-26 22:00:58,703 - INFO - Searching for KFC near Nibong Tebal, Pulau Pinang:
+2025-06-26 22:01:12,014 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:01:14,015 - INFO - Extracting Page Source
+2025-06-26 22:01:14,151 - INFO - Searching for KFC near Bukit Bendera, Pulau Pinang:
+2025-06-26 22:01:22,351 - INFO - Found. Scrolling search results
+2025-06-26 22:01:32,588 - INFO - Searching for KFC near Tanjong, Pulau Pinang:
+2025-06-26 22:01:40,346 - INFO - Found. Scrolling search results
+2025-06-26 22:01:50,540 - INFO - Searching for KFC near Jelutong, Pulau Pinang:
+2025-06-26 22:01:58,525 - INFO - Found. Scrolling search results
+2025-06-26 22:02:08,747 - INFO - Searching for KFC near Bukit Gelugor, Pulau Pinang:
+2025-06-26 22:02:17,388 - INFO - Found. Scrolling search results
+2025-06-26 22:02:27,683 - INFO - Searching for KFC near Bayan Baru, Pulau Pinang:
+2025-06-26 22:02:35,808 - INFO - Found. Scrolling search results
+2025-06-26 22:02:46,021 - INFO - Searching for KFC near Balik Pulau, Pulau Pinang:
+2025-06-26 22:02:54,031 - INFO - Found. Scrolling search results
+2025-06-26 22:03:04,163 - INFO - Populating data into excel
+2025-06-26 22:03:04,165 - INFO - Data for KFC near Balik Pulau, Pulau Pinang was loaded into csv
+2025-06-26 22:03:04,165 - INFO - Loading Google Maps
+2025-06-26 22:03:07,516 - INFO - Getting input search box
+2025-06-26 22:03:07,615 - INFO - Searching for Sabah:
+2025-06-26 22:03:15,085 - INFO - Looking for nearby location button
+2025-06-26 22:03:16,439 - INFO - Searching for KFC near Kudat, Sabah:
+2025-06-26 22:03:24,233 - INFO - Found. Scrolling search results
+2025-06-26 22:03:34,419 - INFO - Searching for KFC near Kota Marudu, Sabah:
+2025-06-26 22:03:42,412 - INFO - Found. Scrolling search results
+2025-06-26 22:03:52,592 - INFO - Searching for KFC near Kota Belud, Sabah:
+2025-06-26 22:04:00,634 - INFO - Found. Scrolling search results
+2025-06-26 22:04:10,820 - INFO - Searching for KFC near Tuaran, Sabah:
+2025-06-26 22:04:19,066 - INFO - Found. Scrolling search results
+2025-06-26 22:04:29,270 - INFO - Searching for KFC near Sepanggar, Sabah:
+2025-06-26 22:04:37,559 - INFO - Found. Scrolling search results
+2025-06-26 22:04:47,736 - INFO - Searching for KFC near Kota Kinabalu, Sabah:
+2025-06-26 22:04:56,264 - INFO - Found. Scrolling search results
+2025-06-26 22:05:06,518 - INFO - Searching for KFC near Putatan, Sabah:
+2025-06-26 22:05:17,637 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:05:19,639 - INFO - Extracting Page Source
+2025-06-26 22:05:19,753 - INFO - Searching for KFC near Penampang, Sabah:
+2025-06-26 22:05:28,117 - INFO - Found. Scrolling search results
+2025-06-26 22:05:38,310 - INFO - Searching for KFC near Papar, Sabah:
+2025-06-26 22:05:46,220 - INFO - Found. Scrolling search results
+2025-06-26 22:05:56,426 - INFO - Searching for KFC near Kimanis, Sabah:
+2025-06-26 22:06:05,209 - INFO - Found. Scrolling search results
+2025-06-26 22:06:15,426 - INFO - Searching for KFC near Beaufort, Sabah:
+2025-06-26 22:06:27,045 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:06:29,046 - INFO - Extracting Page Source
+2025-06-26 22:06:29,164 - INFO - Searching for KFC near Sipitang, Sabah:
+2025-06-26 22:06:39,499 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:06:41,499 - INFO - Extracting Page Source
+2025-06-26 22:06:41,622 - INFO - Searching for KFC near Ranau, Sabah:
+2025-06-26 22:06:52,916 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:06:54,917 - INFO - Extracting Page Source
+2025-06-26 22:06:55,044 - INFO - Searching for KFC near Keningau, Sabah:
+2025-06-26 22:07:06,850 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:07:08,851 - INFO - Extracting Page Source
+2025-06-26 22:07:08,990 - INFO - Searching for KFC near Tenom, Sabah:
+2025-06-26 22:07:20,475 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:07:22,475 - INFO - Extracting Page Source
+2025-06-26 22:07:22,624 - INFO - Searching for KFC near Pensiangan, Sabah:
+2025-06-26 22:07:34,381 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:07:36,382 - INFO - Extracting Page Source
+2025-06-26 22:07:36,546 - INFO - Searching for KFC near Beluran, Sabah:
+2025-06-26 22:07:48,298 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:07:50,298 - INFO - Extracting Page Source
+2025-06-26 22:07:50,428 - INFO - Searching for KFC near Libaran, Sabah:
+2025-06-26 22:08:02,075 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:08:04,075 - INFO - Extracting Page Source
+2025-06-26 22:08:04,203 - INFO - Searching for KFC near Batu Sapi, Sabah:
+2025-06-26 22:08:12,991 - INFO - Found. Scrolling search results
+2025-06-26 22:08:23,234 - INFO - Searching for KFC near Sandakan, Sabah:
+2025-06-26 22:08:32,206 - INFO - Found. Scrolling search results
+2025-06-26 22:08:42,390 - INFO - Searching for KFC near Kinabatangan, Sabah:
+2025-06-26 22:08:56,035 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:08:58,036 - INFO - Extracting Page Source
+2025-06-26 22:08:58,154 - INFO - Searching for KFC near Lahad Datu, Sabah:
+2025-06-26 22:09:06,719 - INFO - Found. Scrolling search results
+2025-06-26 22:09:16,919 - INFO - Searching for KFC near Semporna, Sabah:
+2025-06-26 22:09:25,744 - INFO - Found. Scrolling search results
+2025-06-26 22:09:35,918 - INFO - Searching for KFC near Tawau, Sabah:
+2025-06-26 22:09:45,012 - INFO - Found. Scrolling search results
+2025-06-26 22:09:55,256 - INFO - Searching for KFC near Kalabakan, Sabah:
+2025-06-26 22:10:04,577 - INFO - Found. Scrolling search results
+2025-06-26 22:10:14,721 - INFO - Populating data into excel
+2025-06-26 22:10:14,723 - INFO - Data for KFC near Kalabakan, Sabah was loaded into csv
+2025-06-26 22:10:14,723 - INFO - Loading Google Maps
+2025-06-26 22:10:18,002 - INFO - Getting input search box
+2025-06-26 22:10:18,074 - INFO - Searching for Sarawak:
+2025-06-26 22:10:26,494 - INFO - Looking for nearby location button
+2025-06-26 22:10:27,699 - INFO - Searching for KFC near Mas Gading, Sarawak:
+2025-06-26 22:10:36,526 - INFO - Found. Scrolling search results
+2025-06-26 22:10:46,880 - INFO - Searching for KFC near Santubong, Sarawak:
+2025-06-26 22:10:56,181 - INFO - Found. Scrolling search results
+2025-06-26 22:11:06,436 - INFO - Searching for KFC near Petra Jaya, Sarawak:
+2025-06-26 22:11:15,412 - INFO - Found. Scrolling search results
+2025-06-26 22:11:25,641 - INFO - Searching for KFC near Bandar Kuching, Sarawak:
+2025-06-26 22:11:34,565 - INFO - Found. Scrolling search results
+2025-06-26 22:11:44,780 - INFO - Searching for KFC near Stampin, Sarawak:
+2025-06-26 22:11:53,615 - INFO - Found. Scrolling search results
+2025-06-26 22:12:03,872 - INFO - Searching for KFC near Kota Samarahan, Sarawak:
+2025-06-26 22:12:12,484 - INFO - Found. Scrolling search results
+2025-06-26 22:12:22,666 - INFO - Searching for KFC near Puncak Borneo, Sarawak:
+2025-06-26 22:12:31,563 - INFO - Found. Scrolling search results
+2025-06-26 22:12:41,791 - INFO - Searching for KFC near Serian, Sarawak:
+2025-06-26 22:12:50,357 - INFO - Found. Scrolling search results
+2025-06-26 22:13:00,925 - INFO - Searching for KFC near Batang Sadong, Sarawak:
+2025-06-26 22:13:09,877 - INFO - Found. Scrolling search results
+2025-06-26 22:13:20,233 - INFO - Searching for KFC near Batang Lupar, Sarawak:
+2025-06-26 22:13:30,952 - INFO - Found. Scrolling search results
+2025-06-26 22:13:41,708 - INFO - Searching for KFC near Sri Aman, Sarawak:
+2025-06-26 22:13:53,157 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:13:55,158 - INFO - Extracting Page Source
+2025-06-26 22:13:55,293 - INFO - Searching for KFC near Lubok Antu, Sarawak:
+2025-06-26 22:14:03,325 - INFO - Found. Scrolling search results
+2025-06-26 22:14:13,535 - INFO - Searching for KFC near Betong, Sarawak:
+2025-06-26 22:14:29,164 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:14:31,165 - INFO - Extracting Page Source
+2025-06-26 22:14:31,862 - INFO - Searching for KFC near Saratok, Sarawak:
+2025-06-26 22:14:55,503 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:14:57,503 - INFO - Extracting Page Source
+2025-06-26 22:14:57,729 - INFO - Searching for KFC near Tanjong Manis, Sarawak:
+2025-06-26 22:15:09,410 - INFO - Found. Scrolling search results
+2025-06-26 22:15:24,837 - INFO - Searching for KFC near Igan, Sarawak:
+2025-06-26 22:15:36,658 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:15:38,659 - INFO - Extracting Page Source
+2025-06-26 22:15:38,819 - INFO - Searching for KFC near Sarikei, Sarawak:
+2025-06-26 22:15:50,377 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:15:52,377 - INFO - Extracting Page Source
+2025-06-26 22:15:52,536 - INFO - Searching for KFC near Julau, Sarawak:
+2025-06-26 22:16:01,092 - INFO - Found. Scrolling search results
+2025-06-26 22:16:11,563 - INFO - Searching for KFC near Kanowit, Sarawak:
+2025-06-26 22:16:20,975 - INFO - Found. Scrolling search results
+2025-06-26 22:16:31,278 - INFO - Searching for KFC near Lanang, Sarawak:
+2025-06-26 22:16:39,718 - INFO - Found. Scrolling search results
+2025-06-26 22:16:51,173 - INFO - Searching for KFC near Sibu, Sarawak:
+2025-06-26 22:17:00,370 - INFO - Found. Scrolling search results
+2025-06-26 22:17:10,689 - INFO - Searching for KFC near Mukah, Sarawak:
+2025-06-26 22:17:21,874 - INFO - Element Not found. Only One Available Result
+2025-06-26 22:17:23,875 - INFO - Extracting Page Source
+2025-06-26 22:17:24,004 - INFO - Searching for KFC near Selangau, Sarawak:
+2025-06-26 22:17:33,008 - INFO - Found. Scrolling search results
+2025-06-26 22:17:47,588 - INFO - Searching for KFC near Kapit, Sarawak:
