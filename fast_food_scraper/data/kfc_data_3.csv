@@ -5,48 +5,48 @@ Johor,Labis,1
 Johor,Pagoh,2
 Johor,Ledang,1
 Johor,Bakri,10
-Johor,Muar,6
+Johor,Muar,7
 Johor,Parit Sulong,1
 Johor,Ayer Hitam,1
 Johor,Sri Gading,7
-Johor,Batu Pahat,7
+Johor,Batu Pahat,6
 Johor,Simpang Renggam,1
 Johor,Kluang,6
 Johor,Sembrong,10
 Johor,Mersing,3
 Johor,Tenggara,3
-Johor,Kota Tinggi,6
+Johor,Kota Tinggi,3
 Johor,Pengerang,10
 Johor,Tebrau,10
 Johor,Pasir Gudang,5
 Johor,Johor Bahru,10
 Johor,Pulai,10
-Johor,Iskandar Puteri,7
-Johor,Kulai,10
-Johor,Pontian,10
+Johor,Iskandar Puteri,6
+Johor,Kulai,6
+Johor,Pontian,2
 Johor,Tanjung Piai,10
-Kedah,Langkawi,4
+Kedah,Langkawi,6
 Kedah,Jerlun,1
 Kedah,Kubang Pasu,7
 Kedah,Padang Terap,10
 Kedah,Pokok Sena,1
 Kedah,Alor Setar,7
 Kedah,Kuala Kedah,1
-Kedah,Pendang,3
+Kedah,Pendang,2
 Kedah,Jerai,10
 Kedah,Sik,1
-Kedah,Merbok,1
-Kedah,Sungai Petani,7
+Kedah,Merbok,7
+Kedah,Sungai Petani,10
 Kedah,Baling,1
 Kedah,Padang Serai,1
 Kedah,Kulim-Bandar Baharu,6
 Kelantan,Tumpat,1
 Kelantan,Pengkalan Chepa,1
 Kelantan,Kota Bharu,7
-Kelantan,Pasir Mas,1
+Kelantan,Pasir Mas,3
 Kelantan,Rantau Panjang,1
 Kelantan,Kubang Kerian,1
-Kelantan,Bachok,6
+Kelantan,Bachok,1
 Kelantan,Ketereh,1
 Kelantan,Tanah Merah,1
 Kelantan,Pasir Puteh,1
@@ -58,10 +58,10 @@ Melaka,Masjid Tanah,1
 Melaka,Alor Gajah,1
 Melaka,Tangga Batu,10
 Melaka,Hang Tuah Jaya,10
-Melaka,Kota Melaka,10
-Melaka,Jasin,10
+Melaka,Kota Melaka,7
+Melaka,Jasin,6
 Negeri Sembilan,Jelebu,1
-Negeri Sembilan,Jempol,7
+Negeri Sembilan,Jempol,4
 Negeri Sembilan,Seremban,10
 Negeri Sembilan,Kuala Pilah,1
 Negeri Sembilan,Rasah,7
@@ -113,20 +113,20 @@ Pulau Pinang,Kepala Batas,3
 Pulau Pinang,Tasek Gelugor,10
 Pulau Pinang,Bagan,7
 Pulau Pinang,Permatang Pauh,2
-Pulau Pinang,Bukit Mertajam,9
+Pulau Pinang,Bukit Mertajam,7
 Pulau Pinang,Batu Kawan,2
 Pulau Pinang,Nibong Tebal,1
 Pulau Pinang,Bukit Bendera,7
 Pulau Pinang,Tanjong,2
-Pulau Pinang,Jelutong,7
+Pulau Pinang,Jelutong,8
 Pulau Pinang,Bukit Gelugor,10
-Pulau Pinang,Bayan Baru,9
-Pulau Pinang,Balik Pulau,3
-Sabah,Kudat,2
+Pulau Pinang,Bayan Baru,5
+Pulau Pinang,Balik Pulau,2
+Sabah,Kudat,1
 Sabah,Kota Marudu,2
-Sabah,Kota Belud,2
+Sabah,Kota Belud,1
 Sabah,Tuaran,3
-Sabah,Sepanggar,2
+Sabah,Sepanggar,1
 Sabah,Kota Kinabalu,10
 Sabah,Putatan,1
 Sabah,Penampang,3
@@ -143,7 +143,81 @@ Sabah,Libaran,1
 Sabah,Batu Sapi,7
 Sabah,Sandakan,5
 Sabah,Kinabatangan,1
-Sabah,Lahad Datu,4
+Sabah,Lahad Datu,3
 Sabah,Semporna,2
 Sabah,Tawau,9
 Sabah,Kalabakan,10
+Sarawak,Mas Gading,7
+Sarawak,Santubong,10
+Sarawak,Petra Jaya,3
+Sarawak,Bandar Kuching,10
+Sarawak,Stampin,10
+Sarawak,Kota Samarahan,4
+Sarawak,Puncak Borneo,10
+Sarawak,Serian,3
+Sarawak,Batang Sadong,26
+Sarawak,Batang Lupar,18
+Sarawak,Sri Aman,1
+Sarawak,Lubok Antu,4
+Sarawak,Betong,1
+Sarawak,Saratok,1
+Sarawak,Tanjong Manis,7
+Sarawak,Igan,7
+Sarawak,Sarikei,1
+Sarawak,Julau,7
+Sarawak,Kanowit,10
+Sarawak,Lanang,10
+Sarawak,Sibu,9
+Sarawak,Mukah,1
+Sarawak,Selangau,13
+Sarawak,Kapit,1
+Sarawak,Hulu Rajang,1
+Sarawak,Bintulu,7
+Sarawak,Sibuti,20
+Sarawak,Miri,8
+Sarawak,Baram,2
+Sarawak,Limbang,1
+Sarawak,Lawas,1
+Selangor,Sabak Bernam,1
+Selangor,Sungai Besar,1
+Selangor,Hulu Selangor,120
+Selangor,Tanjong Karang,1
+Selangor,Kuala Selangor,2
+Selangor,Selayang,4
+Selangor,Gombak,4
+Selangor,Ampang,41
+Selangor,Pandan,85
+Selangor,Hulu Langat,18
+Selangor,Bangi,6
+Selangor,Puchong,16
+Selangor,Subang,19
+Selangor,Petaling Jaya,38
+Selangor,Damansara,49
+Selangor,Sungai Buloh,22
+Selangor,Shah Alam,40
+Selangor,Kapar,1
+Selangor,Klang,10
+Selangor,Kota Raja,10
+Selangor,Kuala Langat,10
+Selangor,Sepang,10
+Terengganu,Besut,1
+Terengganu,Setiu,1
+Terengganu,Kuala Nerus,7
+Terengganu,Kuala Terengganu,8
+Terengganu,Marang,1
+Terengganu,Hulu Terengganu,7
+Terengganu,Dungun,2
+Terengganu,Kemaman,4
+W.P. Kuala Lumpur,Kepong,7
+W.P. Kuala Lumpur,Batu,10
+W.P. Kuala Lumpur,Wangsa Maju,4
+W.P. Kuala Lumpur,Segambut,1
+W.P. Kuala Lumpur,Setiawangsa,2
+W.P. Kuala Lumpur,Titiwangsa,10
+W.P. Kuala Lumpur,Bukit Bintang,8
+W.P. Kuala Lumpur,Lembah Pantai,10
+W.P. Kuala Lumpur,Seputeh,10
+W.P. Kuala Lumpur,Cheras,7
+W.P. Kuala Lumpur,Bandar Tun Razak,10
+W.P. Labuan,Labuan,3
+W.P. Putrajaya,Putrajaya,2
