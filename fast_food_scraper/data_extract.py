@@ -58,6 +58,6 @@ def extract_data(page_sources):
     #print(store_data) 
 
 #print(extract_source(["W.P. Labuan", "W.P. Putrajaya"]))
-extract_data(extract_source(["W.P. Kuala Lumpur"]))
+extract_data(extract_source())
 
 #print(html_page_sources[221])
