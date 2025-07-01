@@ -1,0 +1,1564 @@
+State,Area,Store Name,Rating,Review Count
+Johor,Segamat,KFC One Segamat,3.8,(153)
+Johor,Segamat,KFC Segamat,4.0,"(1,019)"
+Johor,Segamat,KFC Segamat DT,3.9,(873)
+Johor,Sekijang,KFC Seri Gelam DT,3.9,"(1,914)"
+Johor,Sekijang,KFC Johor Jaya,3.4,(424)
+Johor,Sekijang,KFC Kulai,3.8,(616)
+Johor,Sekijang,KFC Segamat,4.0,"(1,019)"
+Johor,Sekijang,KFC AEON Kulaijaya,3.2,(325)
+Johor,Sekijang,KFC Segamat DT,3.9,(873)
+Johor,Sekijang,KFC Puteri Wangsa DT,4.0,"(1,515)"
+Johor,Sekijang,KFC Stulang Laut,4.1,"(3,205)"
+Johor,Sekijang,KFC Mutiara Rini DT,3.7,"(1,692)"
+Johor,Sekijang,KFC One Segamat,3.8,(153)
+Johor,Sekijang,KFC Plaza Angsana,4.2,(295)
+Johor,Sekijang,KFC Seri Alam DT,3.7,"(1,383)"
+Johor,Sekijang,KFC Labis,3.9,(566)
+Johor,Sekijang,KFC JB Sentral,2.6,(258)
+Johor,Sekijang,KFC Paradigm Mall,2.5,(240)
+Johor,Sekijang,KFC Kota Tinggi,3.9,(779)
+Johor,Sekijang,KFC Jementah,3.9,(334)
+Johor,Sekijang,KFC MID VALLEY SOUTHKEY,3.2,(191)
+Johor,Sekijang,KFC Tangkak,3.9,(816)
+Johor,Sekijang,KFC Bukit Gambir,4.1,(650)
+Johor,Sekijang,KFC Parit Raja,4.0,(918)
+Johor,Sekijang,"KFC @ Labis, Johor",0,0
+Johor,Labis,KFC Labis,3.9,(566)
+Johor,Pagoh,KFC Bandar Universiti Pagoh DT,4.1,(306)
+Johor,Pagoh,KFC RSA Pagoh,4.0,(737)
+Johor,Ledang,KFC Tangkak,3.9,(816)
+Johor,Bakri,KFC Muar 2,3.9,(826)
+Johor,Bakri,KFC Muar 1,3.8,(624)
+Johor,Bakri,KFC K Mart Muar,4.1,(470)
+Johor,Bakri,KFC Pekan Bukit Pasir Muar,4.0,(698)
+Johor,Bakri,KFC NSK Muar,3.6,(251)
+Johor,Bakri,KFC Puteri Wangsa DT,4.0,"(1,515)"
+Johor,Bakri,KFC RSA Pagoh,4.0,(737)
+Johor,Bakri,KFC Bandar Universiti Pagoh DT,4.1,(306)
+Johor,Muar,KFC Muar 1,3.8,(624)
+Johor,Muar,KFC Muar 2,3.9,(826)
+Johor,Muar,KFC K Mart Muar,4.1,(470)
+Johor,Muar,KFC NSK Muar,3.6,(251)
+Johor,Muar,KFC Pekan Bukit Pasir Muar,4.0,(698)
+Johor,Muar,KFC Bukit Gambir,4.1,(650)
+Johor,Parit Sulong,KFC Parit Sulong,3.9,(305)
+Johor,Ayer Hitam,KFC Bandar Baru Ayer Hitam Johor,4.0,(933)
+Johor,Sri Gading,KFC Shell Parit Raja,3.9,(600)
+Johor,Sri Gading,KFC Batu Pahat DT,3.9,(922)
+Johor,Sri Gading,KFC Batu Pahat 1,4.2,(961)
+Johor,Sri Gading,KFC Tongkang Pechah,3.7,(125)
+Johor,Batu Pahat,KFC Batu Pahat DT,3.9,(922)
+Johor,Batu Pahat,KFC Batu Pahat 1,4.2,(961)
+Johor,Batu Pahat,KFC Riverside Business Park,4.3,(268)
+Johor,Batu Pahat,"KFC Bukit Pasir, BP3",3.9,(599)
+Johor,Batu Pahat,KFC AEON Big Batu Pahat,4.2,(333)
+Johor,Batu Pahat,KFC Tongkang Pechah,3.7,(125)
+Johor,Simpang Renggam,KFC Shell Simpang Renggam DT,4.1,(826)
+Johor,Kluang,KFC Kluang 1,4.0,(862)
+Johor,Kluang,KFC SERI IMPIAN KLUANG DT,3.8,(561)
+Johor,Kluang,KFC Kluang Mall 2,4.0,(401)
+Johor,Kluang,KFC Kluang 2,3.9,(422)
+Johor,Kluang,KFC Kluang Parade,4.3,(107)
+Johor,Kluang,KFC Shell Simpang Renggam DT,4.1,(826)
+Johor,Kluang,KFC Versis Kluang,3.8,(83)
+Johor,Sembrong,KFC SERI IMPIAN KLUANG DT,3.8,(561)
+Johor,Sembrong,KFC Shell Simpang Renggam DT,4.1,(826)
+Johor,Sembrong,KFC Kluang 1,4.0,(862)
+Johor,Sembrong,KFC Kluang Parade,4.3,(107)
+Johor,Sembrong,KFC Kluang 2,3.9,(422)
+Johor,Sembrong,KFC Kluang Mall 2,4.0,(401)
+Johor,Sembrong,KFC Versis Kluang,3.8,(83)
+Johor,Sembrong,KFC Bandar Baru Ayer Hitam Johor,4.0,(933)
+Johor,Sembrong,KFC Bandar Tenggara,3.8,(829)
+Johor,Sembrong,KFC Yong Peng,3.9,(965)
+Johor,Sembrong,KFC Seri Alam DT,3.7,"(1,383)"
+Johor,Sembrong,KFC Stulang Laut,4.1,"(3,205)"
+Johor,Sembrong,KFC Shell Parit Raja,3.9,(600)
+Johor,Sembrong,KFC Taman Molek,3.6,(618)
+Johor,Sembrong,KFC JB Sentral,2.6,(258)
+Johor,Sembrong,KFC Paradigm Mall,2.5,(240)
+Johor,Sembrong,KFC Benut,3.7,(180)
+Johor,Sembrong,KFC Johor Jaya,3.4,(424)
+Johor,Sembrong,KFC Petronas Taman University DT,3.6,(871)
+Johor,Mersing,KFC MERSING HARBOUR DT,3.3,(24)
+Johor,Mersing,KFC Mersing,4.1,"(1,287)"
+Johor,Mersing,KFC Tanjung Leman Kiosk,4.1,(325)
+Johor,Tenggara,KFC Bandar Tenggara,3.8,(829)
+Johor,Kota Tinggi,KFC SERI IMPIAN KLUANG DT,3.8,(561)
+Johor,Kota Tinggi,KFC Kota Tinggi,3.9,(779)
+Johor,Kota Tinggi,KFC KIP Mart Kota Tinggi,3.2,(22)
+Johor,Pengerang,KFC Desaru,3.7,"(1,232)"
+Johor,Pengerang,KFC Kota Tinggi,3.9,(779)
+Johor,Pengerang,KFC Stulang Laut,4.1,"(3,205)"
+Johor,Pengerang,KFC Seri Gelam DT,3.9,"(1,914)"
+Johor,Pengerang,KFC Petron Dato Onn DT,3.4,(623)
+Johor,Pengerang,KFC Johor Jaya,3.4,(424)
+Johor,Pengerang,KFC Taman Molek,3.6,(618)
+Johor,Pengerang,KFC Seri Alam DT,3.7,"(1,383)"
+Johor,Pengerang,KFC Rengit,3.9,(409)
+Johor,Pengerang,KFC PETRON PENGERANG,3.5,(478)
+Johor,Tebrau,KFC Toppen Mall,2.2,(91)
+Johor,Tebrau,KFC Puteri Wangsa DT,4.0,"(1,515)"
+Johor,Tebrau,KFC AEON Tebrau City,2.5,(262)
+Johor,Pasir Gudang,KFC Pasir Gudang DT,3.8,"(1,423)"
+Johor,Pasir Gudang,KFC Pasir Gudang,3.8,(150)
+Johor,Pasir Gudang,KFC KOTA MASAI,3.8,(332)
+Johor,Pasir Gudang,KFC- Petron Taman Cahaya Masai,3.8,(115)
+Johor,Pasir Gudang,KFC Taman Cahaya Masai,4.0,(625)
+Johor,Johor Bahru,KFC Johor Jaya,3.4,(424)
+Johor,Johor Bahru,KFC Damansara Aliff DT,4.0,"(1,454)"
+Johor,Johor Bahru,KFC Setia Tropika DT,3.5,"(1,438)"
+Johor,Johor Bahru,KFC Stulang Laut,4.1,"(3,205)"
+Johor,Johor Bahru,KFC JB Sentral,2.6,(258)
+Johor,Johor Bahru,"KFC KSL City Mall, Johor",3.8,(742)
+Johor,Johor Bahru,KFC Petronas Taman University DT,3.6,(871)
+Johor,Johor Bahru,KFC Larkin,3.7,(601)
+Johor,Johor Bahru,KFC Petron Dato Onn DT,3.4,(623)
+Johor,Johor Bahru,KFC Paradigm Mall,2.5,(240)
+Johor,Johor Bahru,KFC AEON Taman Universiti,3.5,(212)
+Johor,Johor Bahru,KFC Taman Perling DT,3.7,"(1,786)"
+Johor,Johor Bahru,KFC Seri Gelam DT,3.9,"(1,914)"
+Johor,Johor Bahru,KFC Taman Daya,3.6,(965)
+Johor,Johor Bahru,KFC Shell Mount Austin DT,3.8,(979)
+Johor,Johor Bahru,KFC Taman Molek,3.6,(618)
+Johor,Johor Bahru,KFC Terminal Larkin DT,3.9,"(1,772)"
+Johor,Johor Bahru,KFC Senai Impian Johor Drive Thru,3.8,"(1,459)"
+Johor,Johor Bahru,KFC Tun Aminah,3.7,(765)
+Johor,Johor Bahru,KFC Nusa Bestari,3.7,(873)
+Johor,Johor Bahru,KFC AEON Bukit Indah,2.8,(515)
+Johor,Johor Bahru,KFC Puteri Wangsa DT,4.0,"(1,515)"
+Johor,Johor Bahru,KFC Kulai DT,3.4,"(1,034)"
+Johor,Johor Bahru,KFC Permas Jaya,3.8,(899)
+Johor,Johor Bahru,KFC Plaza Angsana,4.2,(295)
+Johor,Johor Bahru,KFC AEON Kulaijaya,3.2,(325)
+Johor,Johor Bahru,KFC Taman Bukit Tiram (Ulu Tiram),4.0,(878)
+Johor,Johor Bahru,KFC City Square,2.5,(324)
+Johor,Johor Bahru,KFC STADIUM JDT,4.5,(182)
+Johor,Johor Bahru,KFC Petronas Senai Airport DT,3.6,(380)
+Johor,Johor Bahru,KFC Sutera Mall Skudai,3.2,(260)
+Johor,Johor Bahru,KFC MID VALLEY SOUTHKEY,3.2,(191)
+Johor,Johor Bahru,KFC Mutiara Rini DT,3.7,"(1,692)"
+Johor,Johor Bahru,KFC Seri Alam DT,3.7,"(1,383)"
+Johor,Johor Bahru,KFC Galleria Kota Raya,3.2,(120)
+Johor,Johor Bahru,KFC Senai Airport,2.8,(131)
+Johor,Johor Bahru,KFC Kulai,3.8,(616)
+Johor,Johor Bahru,KFC Nusa Perintis Gelang Patah,3.8,"(1,776)"
+Johor,Johor Bahru,KFC Toppen Mall,2.2,(91)
+Johor,Johor Bahru,KFC Taman Gaya (ULU TIRAM),3.6,(641)
+Johor,Johor Bahru,"KFC Lotus's Seri Alam, JB",3.7,(220)
+Johor,Johor Bahru,KFC JBCC,2.8,(23)
+Johor,Pulai,KFC Petronas Taman University DT,3.6,(871)
+Johor,Pulai,KFC Damansara Aliff DT,4.0,"(1,454)"
+Johor,Pulai,KFC Paradigm Mall,2.5,(240)
+Johor,Pulai,KFC Puteri Wangsa DT,4.0,"(1,515)"
+Johor,Pulai,KFC Nusa Bestari,3.7,(873)
+Johor,Pulai,KFC Tun Aminah,3.7,(765)
+Johor,Pulai,KFC Mutiara Rini DT,3.7,"(1,692)"
+Johor,Pulai,KFC Kulai,3.8,(616)
+Johor,Pulai,KFC Plaza Angsana,4.2,(295)
+Johor,Pulai,KFC Stulang Laut,4.1,"(3,205)"
+Johor,Pulai,KFC Teluk Pulai,3.7,(956)
+Johor,Pulai,KFC Taman Perling DT,3.7,"(1,786)"
+Johor,Pulai,KFC Caltex Nusajaya DT,2.9,(191)
+Johor,Iskandar Puteri,KFC Iskandar Puteri,3.5,(768)
+Johor,Iskandar Puteri,KFC Medini Mall,2.7,(333)
+Johor,Iskandar Puteri,KFC Caltex Nusajaya DT,2.9,(191)
+Johor,Iskandar Puteri,KFC Petron Bukit Indah DT,2.4,(360)
+Johor,Kulai,KFC Kulai,3.8,(616)
+Johor,Kulai,KFC Taman Impiana Kulai,4.0,(60)
+Johor,Kulai,"KFC SHELL LAGENDA PUTRA DT, KULAI",3.6,(196)
+Johor,Kulai,KFC Kulai DT,3.4,"(1,034)"
+Johor,Kulai,KFC AEON Kulaijaya,3.2,(325)
+Johor,Kulai,KFC Kulai 2 IOI Mall,2.6,(61)
+Johor,Pontian,KFC Benut,3.7,(180)
+Johor,Pontian,KFC Pontian Drive Thru,3.8,(727)
+Johor,Pontian,KFC Pontian,3.9,(225)
+Johor,Tanjung Piai,KFC Pontian Drive Thru,3.8,(727)
+Johor,Tanjung Piai,KFC Pontian,3.9,(225)
+Johor,Tanjung Piai,KFC Benut,3.7,(180)
+Johor,Tanjung Piai,KFC Senai Impian Johor Drive Thru,3.8,"(1,459)"
+Johor,Tanjung Piai,KFC SHELL PEKAN NANAS DRIVE THRU,3.2,(77)
+Johor,Tanjung Piai,KFC Nusa Perintis Gelang Patah,3.8,"(1,776)"
+Johor,Tanjung Piai,KFC,0,0
+Johor,Tanjung Piai,KFC Petronas Senai Airport DT,3.6,(380)
+Johor,Tanjung Piai,KFC STADIUM JDT,4.5,(182)
+Johor,Tanjung Piai,KFC Kulai DT,3.4,"(1,034)"
+Kedah,Langkawi,"KFC Kuah, Langkawi",3.9,"(1,533)"
+Kedah,Langkawi,KFC Langkawi,3.2,(154)
+Kedah,Langkawi,"KFC PADANG MAT SIRAT, LANGKAWI",3.8,(113)
+Kedah,Langkawi,KFC Cenang Mall Langkawi,3.6,(909)
+Kedah,Jerlun,KFC Jerlun,4.0,(478)
+Kedah,Kubang Pasu,KFC Jitra,4.1,"(1,018)"
+Kedah,Kubang Pasu,KFC Bandar Darulaman Jaya Jitra,4.1,"(1,111)"
+Kedah,Kubang Pasu,KFC Jalan Stadium (Alor Star) DT,4.2,"(1,739)"
+Kedah,Kubang Pasu,KFC Caltex Alor Mengkudu DT,3.8,(762)
+Kedah,Kubang Pasu,KFC Changlun,4.0,"(1,307)"
+Kedah,Kubang Pasu,KFC Kuala Kedah,3.9,(354)
+Kedah,Kubang Pasu,KFC Anak Bukit,4.2,(301)
+Kedah,Padang Terap,KFC Kuala Nerang,4.2,(672)
+Kedah,Padang Terap,KFC Guar Chempedak,4.0,(733)
+Kedah,Padang Terap,KFC Simpang Perdana,3.8,(296)
+Kedah,Padang Terap,KFC Pokok Sena,3.9,(825)
+Kedah,Padang Terap,KFC Jalan Stadium (Alor Star) DT,4.2,"(1,739)"
+Kedah,Padang Terap,KFC Padang Serai,3.6,(988)
+Kedah,Padang Terap,KFC Limbong Kapal DT,4.0,"(1,152)"
+Kedah,Padang Terap,KFC Kuala Kedah,3.9,(354)
+Kedah,Pokok Sena,KFC Pokok Sena,3.9,(825)
+Kedah,Alor Setar,KFC Jalan Stadium (Alor Star) DT,4.2,"(1,739)"
+Kedah,Alor Setar,KFC Caltex Alor Mengkudu DT,3.8,(762)
+Kedah,Alor Setar,KFC Lotus's Alor Setar (Mergong),4.0,(397)
+Kedah,Alor Setar,KFC Alor Star Mall,3.9,(157)
+Kedah,Alor Setar,KFC Limbong Kapal DT,4.0,"(1,152)"
+Kedah,Alor Setar,KFC Simpang Perdana,3.8,(296)
+Kedah,Alor Setar,KFC Aman Central,4.2,(207)
+Kedah,Alor Setar,KFC Guar Chempedak,4.0,(733)
+Kedah,Alor Setar,KFC Pokok Sena,3.9,(825)
+Kedah,Alor Setar,KFC Shahab Perdana,4.0,(406)
+Kedah,Alor Setar,KFC Anak Bukit,4.2,(301)
+Kedah,Kuala Kedah,KFC Kuala Nerang,4.2,(672)
+Kedah,Kuala Kedah,KFC Kuala Kedah,3.9,(354)
+Kedah,Pendang,KFC DT Caltex Pendang,4.4,(86)
+Kedah,Pendang,KFC Pendang Kedah,4.1,(465)
+Kedah,Jerai,KFC Guar Chempedak,4.0,(733)
+Kedah,Jerai,KFC Jalan Stadium (Alor Star) DT,4.2,"(1,739)"
+Kedah,Jerai,KFC Aman Central,4.2,(207)
+Kedah,Jerai,KFC Caltex Alor Mengkudu DT,3.8,(762)
+Kedah,Jerai,KFC Limbong Kapal DT,4.0,"(1,152)"
+Kedah,Jerai,KFC Alor Star Mall,3.9,(157)
+Kedah,Jerai,KFC Simpang Perdana,3.8,(296)
+Kedah,Jerai,KFC Lotus's Alor Setar (Mergong),4.0,(397)
+Kedah,Jerai,"KFC Gurun , Kedah",3.9,(628)
+Kedah,Jerai,KFC Jerlun,4.0,(478)
+Kedah,Jerai,KFC Kuala Kedah,3.9,(354)
+Kedah,Jerai,KFC Jitra,4.1,"(1,018)"
+Kedah,Jerai,KFC Anak Bukit,4.2,(301)
+Kedah,Jerai,KFC Shahab Perdana,4.0,(406)
+Kedah,Jerai,KFC Aman Jaya DT,3.8,"(2,378)"
+Kedah,Jerai,KFC Padang Serai,3.6,(988)
+Kedah,Jerai,"KFC Central Square, Sungai Petani",3.7,(356)
+Kedah,Jerai,KFC Sungai Petani 1,4.0,"(1,020)"
+Kedah,Sik,KFC Pokok Sena,3.9,(825)
+Kedah,Sik,KFC Guar Chempedak,4.0,(733)
+Kedah,Sik,KFC Jalan Stadium (Alor Star) DT,4.2,"(1,739)"
+Kedah,Sik,KFC Changlun,4.0,"(1,307)"
+Kedah,Sik,"KFC Gurun , Kedah",3.9,(628)
+Kedah,Sik,KFC Limbong Kapal DT,4.0,"(1,152)"
+Kedah,Sik,KFC Shahab Perdana,4.0,(406)
+Kedah,Sik,KFC Kuala Kedah,3.9,(354)
+Kedah,Sik,KFC Jitra,4.1,"(1,018)"
+Kedah,Sik,"KFC Sik, Kedah",4.0,(594)
+Kedah,Sik,KFC,5.0,(1)
+Kedah,Merbok,KFC Sungai Petani 1,4.0,"(1,020)"
+Kedah,Merbok,KFC Aman Jaya DT,3.8,"(2,378)"
+Kedah,Merbok,KFC Taman Sejati,3.9,(691)
+Kedah,Merbok,KFC Tuanku Haminah Sungai Petani,3.7,(572)
+Kedah,Merbok,KFC Bandar Puteri Jaya DT,3.7,"(1,801)"
+Kedah,Merbok,"KFC Gurun , Kedah",3.9,(628)
+Kedah,Merbok,KFC Kuala Kedah,3.9,(354)
+Kedah,Sungai Petani,KFC Aman Jaya DT,3.8,"(2,378)"
+Kedah,Sungai Petani,KFC Bandar Puteri Jaya DT,3.7,"(1,801)"
+Kedah,Sungai Petani,KFC Sungai Petani 1,4.0,"(1,020)"
+Kedah,Sungai Petani,"KFC Central Square, Sungai Petani",3.7,(356)
+Kedah,Sungai Petani,KFC Lotus's Sungai Petani Mutiara Plaza,4.1,(185)
+Kedah,Sungai Petani,KFC Tuanku Haminah Sungai Petani,3.7,(572)
+Kedah,Sungai Petani,KFC LOTUS SG PETANI,4.0,(435)
+Kedah,Sungai Petani,KFC Taman Sejati,3.9,(691)
+Kedah,Sungai Petani,KFC Guar Chempedak,4.0,(733)
+Kedah,Sungai Petani,KFC Simpang Perdana,3.8,(296)
+Kedah,Sungai Petani,KFC TF Value-Mart Sungai Petani,4.1,(240)
+Kedah,Baling,KFC Baling,4.0,(999)
+Kedah,Padang Serai,KFC Padang Serai,3.6,(988)
+Kedah,Kulim-Bandar Baharu,KFC Kulim 1,3.9,"(1,006)"
+Kedah,Kulim-Bandar Baharu,KFC Landmark Kulim,3.6,(365)
+Kedah,Kulim-Bandar Baharu,KFC Lotus's Kulim,3.8,(160)
+Kedah,Kulim-Bandar Baharu,KFC Taman Semarak,3.8,(543)
+Kedah,Kulim-Bandar Baharu,KFC Petron Kulim DT,3.5,(583)
+Kedah,Kulim-Bandar Baharu,KFC Bandar Serdang Kedah,3.9,(481)
+Kelantan,Tumpat,KFC Tumpat,4.0,(423)
+Kelantan,Pengkalan Chepa,KFC Stadium Kota Bharu DT,3.9,"(1,321)"
+Kelantan,Pengkalan Chepa,KFC PETRON SALOR DT,4.9,(57)
+Kelantan,Pengkalan Chepa,KFC Kota Bharu Mall,4.1,(124)
+Kelantan,Pengkalan Chepa,KFC AEON Mall Kota Bharu,3.8,(82)
+Kelantan,Pengkalan Chepa,KFC Kubang Kerian DT,4.0,"(1,788)"
+Kelantan,Pengkalan Chepa,KFC Jelawat,4.0,(106)
+Kelantan,Pengkalan Chepa,KFC Tumpat,4.0,(423)
+Kelantan,Pengkalan Chepa,KFC Tanah Merah,4.0,(790)
+Kelantan,Pengkalan Chepa,KFC Pengkalan Chepa Drive Thru,3.8,"(1,212)"
+Kelantan,Pengkalan Chepa,KFC Kota Bharu,3.8,(416)
+Kelantan,Kota Bharu,KFC Stadium Kota Bharu DT,3.9,"(1,321)"
+Kelantan,Kota Bharu,KFC Kota Bharu Mall,4.1,(124)
+Kelantan,Kota Bharu,KFC PETRON SALOR DT,4.9,(57)
+Kelantan,Kota Bharu,KFC AEON Mall Kota Bharu,3.8,(82)
+Kelantan,Kota Bharu,KFC Jelawat,4.0,(106)
+Kelantan,Kota Bharu,KFC Kubang Kerian DT,4.0,"(1,788)"
+Kelantan,Kota Bharu,KFC Kota Bharu,3.8,(416)
+Kelantan,Pasir Mas,KFC Pasir Mas,4.0,(614)
+Kelantan,Rantau Panjang,KFC Gua Musang Drive Thru,4.0,"(1,664)"
+Kelantan,Rantau Panjang,KFC Rantau Panjang Drive Thru,4.1,(559)
+Kelantan,Kubang Kerian,KFC Kubang Kerian DT,4.0,"(1,788)"
+Kelantan,Bachok,KFC Gua Musang Drive Thru,4.0,"(1,664)"
+Kelantan,Bachok,KFC Jelawat,4.0,(106)
+Kelantan,Bachok,KFC Bachok Drive Thru,3.8,"(1,112)"
+Kelantan,Ketereh,KFC Tumpat,4.0,(423)
+Kelantan,Ketereh,KFC Tanah Merah,4.0,(790)
+Kelantan,Ketereh,KFC Stadium Kota Bharu DT,3.9,"(1,321)"
+Kelantan,Ketereh,KFC PLAZA BUKIT BUNGA,4.2,(30)
+Kelantan,Ketereh,KFC Kota Bharu Mall,4.1,(124)
+Kelantan,Ketereh,KFC Machang,3.9,(556)
+Kelantan,Ketereh,KFC Kuala Krai,3.9,(669)
+Kelantan,Ketereh,MARYAM FRIED CHICKEN,4.7,(187)
+Kelantan,Ketereh,My's Fried Chicken & Coffee,4.6,(12)
+Kelantan,Ketereh,Bandar Ketereh,0,0
+Kelantan,Ketereh,Edlee Fried Chicken Kadok,3.8,(16)
+Kelantan,Ketereh,McDonald's Kok Lanas DT,4.0,"(2,683)"
+Kelantan,Ketereh,KFC Kok Lanas Drive Thru,3.9,(894)
+Kelantan,Tanah Merah,KFC Tanah Merah,4.0,(790)
+Kelantan,Pasir Puteh,KFC Shell Pasir Puteh DT drive-thru,3.9,(786)
+Kelantan,Machang,KFC Gua Musang Drive Thru,4.0,"(1,664)"
+Kelantan,Machang,KFC Shell Machang DT,4.3,(204)
+Kelantan,Machang,KFC Machang,3.9,(556)
+Kelantan,Jeli,KFC Jeli,4.0,(558)
+Kelantan,Kuala Krai,KFC Gua Musang Drive Thru,4.0,"(1,664)"
+Kelantan,Kuala Krai,KFC Five Kuala Krai DT,3.5,(77)
+Kelantan,Kuala Krai,KFC Kuala Krai,3.9,(669)
+Kelantan,Gua Musang,KFC Gua Musang Drive Thru,4.0,"(1,664)"
+Melaka,Masjid Tanah,KFC Mahkota Parade,4.1,(195)
+Melaka,Masjid Tanah,KFC Dataran Pahlawan,4.0,(228)
+Melaka,Masjid Tanah,KFC Plaza Melaka,3.9,"(1,283)"
+Melaka,Masjid Tanah,KFC Masjid Tanah,3.9,"(1,541)"
+Melaka,Alor Gajah,KFC Prima Alor Gajah,3.9,"(1,606)"
+Melaka,Tangga Batu,KFC Mahkota Parade,4.1,(195)
+Melaka,Tangga Batu,KFC Dataran Pahlawan,4.0,(228)
+Melaka,Tangga Batu,KFC Plaza Melaka,3.9,"(1,283)"
+Melaka,Tangga Batu,KFC The Shore Melaka,3.9,(147)
+Melaka,Tangga Batu,KFC Batu Berendam,3.8,(962)
+Melaka,Tangga Batu,KFC Kota Syahbandar,4.0,(505)
+Melaka,Tangga Batu,KFC @Lotus's Melaka,3.7,(122)
+Melaka,Tangga Batu,KFC Malim Jaya,4.0,(653)
+Melaka,Tangga Batu,KFC Semabok,3.9,"(1,783)"
+Melaka,Tangga Batu,KFC @Ayer Keroh DT,3.9,"(2,167)"
+Melaka,Tangga Batu,KFC Lotus's Cheng,3.7,(215)
+Melaka,Tangga Batu,KFC Klebang,3.9,(589)
+Melaka,Tangga Batu,KFC Petron Gangsa DT,3.9,(756)
+Melaka,Tangga Batu,KFC Shell Sungai Rambai DT,4.1,(590)
+Melaka,Tangga Batu,KFC Petron Bukit Katil DT,4.0,(746)
+Melaka,Tangga Batu,Nasi Kukus Ayam Berempah Al-tirah,0,0
+Melaka,Tangga Batu,KFC Sungai Udang Melaka,4.0,"(1,064)"
+Melaka,Tangga Batu,KFC Masjid Tanah,3.9,"(1,541)"
+Melaka,Hang Tuah Jaya,KFC Mahkota Parade,4.1,(195)
+Melaka,Hang Tuah Jaya,KFC Dataran Pahlawan,4.0,(228)
+Melaka,Hang Tuah Jaya,KFC Plaza Melaka,3.9,"(1,283)"
+Melaka,Hang Tuah Jaya,KFC Kota Syahbandar,4.0,(505)
+Melaka,Hang Tuah Jaya,KFC @Lotus's Melaka,3.7,(122)
+Melaka,Hang Tuah Jaya,KFC The Shore Melaka,3.9,(147)
+Melaka,Hang Tuah Jaya,KFC @Ayer Keroh DT,3.9,"(2,167)"
+Melaka,Hang Tuah Jaya,KFC Semabok,3.9,"(1,783)"
+Melaka,Hang Tuah Jaya,KFC Malim Jaya,4.0,(653)
+Melaka,Hang Tuah Jaya,KFC Ayer Keroh - AEON,3.4,(330)
+Melaka,Hang Tuah Jaya,KFC Lotus's Cheng,3.7,(215)
+Melaka,Hang Tuah Jaya,KFC Batu Berendam,3.8,(962)
+Melaka,Hang Tuah Jaya,KFC Klebang,3.9,(589)
+Melaka,Hang Tuah Jaya,KFC Petron Bukit Katil DT,4.0,(746)
+Melaka,Hang Tuah Jaya,Asam Pedas Lauk Kampung,4.4,(579)
+Melaka,Hang Tuah Jaya,KFC Freeport A'Famosa Melaka,3.9,"(1,016)"
+Melaka,Kota Melaka,KFC Dataran Pahlawan,4.0,(228)
+Melaka,Kota Melaka,KFC Kota Syahbandar,4.0,(505)
+Melaka,Kota Melaka,KFC Mahkota Parade,4.1,(195)
+Melaka,Kota Melaka,KFC The Shore Melaka,3.9,(147)
+Melaka,Kota Melaka,KFC Plaza Melaka,3.9,"(1,283)"
+Melaka,Kota Melaka,KFC @Lotus's Melaka,3.7,(122)
+Melaka,Kota Melaka,KFC Malim Jaya,4.0,(653)
+Melaka,Kota Melaka,KFC Semabok,3.9,"(1,783)"
+Melaka,Kota Melaka,KFC Ayer Keroh - AEON,3.4,(330)
+Melaka,Kota Melaka,KFC Batu Berendam,3.8,(962)
+Melaka,Kota Melaka,KFC Lotus's Cheng,3.7,(215)
+Melaka,Kota Melaka,KFC @Ayer Keroh DT,3.9,"(2,167)"
+Melaka,Kota Melaka,KFC Petron Bukit Katil DT,4.0,(746)
+Melaka,Kota Melaka,KFC Klebang,3.9,(589)
+Melaka,Kota Melaka,KFC Sungai Udang Melaka,4.0,"(1,064)"
+Melaka,Kota Melaka,KFC Petron Gangsa DT,3.9,(756)
+Melaka,Kota Melaka,KFC Shell Sungai Rambai DT,4.1,(590)
+Melaka,Kota Melaka,KFC Freeport A'Famosa Melaka,3.9,"(1,016)"
+Melaka,Kota Melaka,KFC Masjid Tanah,3.9,"(1,541)"
+Melaka,Jasin,KFC Dataran Pahlawan,4.0,(228)
+Melaka,Jasin,KFC JASIN,4.0,(873)
+Melaka,Jasin,KFC Bemban,3.9,(347)
+Negeri Sembilan,Jelebu,KFC Kuala Klawang,3.8,(848)
+Negeri Sembilan,Jempol,KFC IOI Bahau DT,3.5,(417)
+Negeri Sembilan,Jempol,KFC Bahau,3.9,"(1,084)"
+Negeri Sembilan,Seremban,KFC Seremban,4.1,(702)
+Negeri Sembilan,Seremban,KFC Seremban 2 Drive Thru,3.9,(585)
+Negeri Sembilan,Seremban,KFC Wisma Gerakan,3.9,(672)
+Negeri Sembilan,Seremban,KFC Seremban Drive Thru,3.8,(908)
+Negeri Sembilan,Seremban,KFC Senawang,4.1,(850)
+Negeri Sembilan,Seremban,"KFC CENTRE POINT MALL, SEREMBAN",3.5,(202)
+Negeri Sembilan,Seremban,KFC KIPMall Senawang DT,3.9,(264)
+Negeri Sembilan,Seremban,KFC Lotus's Seremban 2,3.7,(316)
+Negeri Sembilan,Seremban,KFC AEON Seremban 2,3.6,(263)
+Negeri Sembilan,Seremban,KFC Rasah Jaya,3.7,"(1,018)"
+Negeri Sembilan,Seremban,KFC Caltex Mambau DT,3.8,(75)
+Negeri Sembilan,Seremban,KFC Sendayan Drive-Thru,3.9,(973)
+Negeri Sembilan,Seremban,KFC Giant Senawang,3.9,(387)
+Negeri Sembilan,Seremban,KFC S2 City Park,3.9,(893)
+Negeri Sembilan,Seremban,"KFC Restaurant R&R, Labu, Negeri Sembilan.",3.7,(560)
+Negeri Sembilan,Kuala Pilah,KFC Kuala Pilah,4.0,(931)
+Negeri Sembilan,Rasah,KFC Caltex Mambau DT,3.8,(75)
+Negeri Sembilan,Rasah,KFC Rasah Jaya,3.7,"(1,018)"
+Negeri Sembilan,Rasah,KFC Seremban 2 Drive Thru,3.9,(585)
+Negeri Sembilan,Rasah,KFC Seremban,4.1,(702)
+Negeri Sembilan,Rembau,KFC Rembau,3.9,"(1,143)"
+Negeri Sembilan,Port Dickson,KFC Port Dickson Drive Thru,3.9,"(1,555)"
+Negeri Sembilan,Port Dickson,KFC Port Dickson,3.8,"(1,109)"
+Negeri Sembilan,Port Dickson,KFC Lukut,3.6,(870)
+Negeri Sembilan,Tampin,KFC Tampin Square,4.0,(987)
+Pahang,Cameron Highlands,"KFC Brinchang, Cameron",3.8,(999)
+Pahang,Lipis,KFC Kuala Lipis 2,3.5,"(1,074)"
+Pahang,Raub,KFC Raub,3.8,(676)
+Pahang,Raub,KFC Raub 2,3.6,(911)
+Pahang,Jerantut,KFC Jerantut,3.9,(662)
+Pahang,Indera Mahkota,KFC Indera Mahkota Drive Thru,3.9,"(1,533)"
+Pahang,Indera Mahkota,KFC The Radiance Kuantan,3.9,(492)
+Pahang,Kuantan,KFC Kuantan 1,3.7,(670)
+Pahang,Kuantan,KFC Giant Kuantan,3.0,(121)
+Pahang,Kuantan,KFC Kuantan 2,3.9,(669)
+Pahang,Kuantan,KFC The Radiance Kuantan,3.9,(492)
+Pahang,Kuantan,KFC Balok,3.6,"(1,203)"
+Pahang,Kuantan,KFC Kuantan City Mall,3.5,(166)
+Pahang,Kuantan,KFC Palm Beach Teluk Cempedak,3.7,(987)
+Pahang,Kuantan,KFC Indera Mahkota Drive Thru,3.9,"(1,533)"
+Pahang,Kuantan,KFC Taman Tas Kuantan,3.8,"(1,364)"
+Pahang,Kuantan,KFC Megamall Kuantan,3.3,(38)
+Pahang,Kuantan,KFC Bukit Goh,3.7,(549)
+Pahang,Kuantan,KFC Beserah,3.7,(671)
+Pahang,Kuantan,"KFC East Coast Mall, Kuantan",3.5,(289)
+Pahang,Kuantan,KFC Kuantan Parade,3.7,(130)
+Pahang,Paya Besar,KFC Kuantan 1,3.7,(670)
+Pahang,Paya Besar,KFC Kuantan 2,3.9,(669)
+Pahang,Paya Besar,KFC Balok,3.6,"(1,203)"
+Pahang,Paya Besar,KFC Jerantut,3.9,(662)
+Pahang,Paya Besar,KFC Beserah,3.7,(671)
+Pahang,Paya Besar,KFC Taman Tas Kuantan,3.8,"(1,364)"
+Pahang,Pekan,KFC Pekan,3.8,(703)
+Pahang,Pekan,KFC Serambi Pekan,4.0,(246)
+Pahang,Maran,KFC Maran,4.0,(546)
+Pahang,Kuala Krau,KFC Jerantut,3.9,(662)
+Pahang,Kuala Krau,KFC Temerloh,3.8,(633)
+Pahang,Kuala Krau,KFC Mentakab,4.0,(246)
+Pahang,Kuala Krau,KFC Raub 2,3.6,(911)
+Pahang,Kuala Krau,KFC Karak,3.7,(530)
+Pahang,Kuala Krau,KFC Mentakab Star Mall,3.7,(309)
+Pahang,Temerloh,KFC Temerloh,3.8,(633)
+Pahang,Temerloh,KFC Temerloh Drive Thru,3.6,(941)
+Pahang,Bentong,KFC Bentong,3.6,"(1,139)"
+Pahang,Bentong,KFC,3.7,"(1,261)"
+Pahang,Bentong,KFC Petronas Bentong Drive Thru,3.4,(675)
+Pahang,Bera,KFC Jerantut,3.9,(662)
+Pahang,Bera,KFC Triang Drive Thru,3.6,(669)
+Pahang,Bera,KFC Jengka,3.8,(550)
+Pahang,Bera,KFC Mentakab,4.0,(246)
+Pahang,Bera,KFC Temerloh,3.8,(633)
+Pahang,Bera,KFC Raub 2,3.6,(911)
+Pahang,Bera,KFC Kemayan,3.7,(402)
+Pahang,Bera,KFC Temerloh Drive Thru,3.6,(941)
+Pahang,Bera,KFC Mentakab Star Mall,3.7,(309)
+Pahang,Bera,KFC Maran,4.0,(546)
+Pahang,Rompin,KFC Rompin,3.8,(505)
+Perak,Gerik,KFC Gerik,4.2,"(1,122)"
+Perak,Lenggong,KFC Taiping,3.9,"(1,134)"
+Perak,Lenggong,KFC Gerik,4.2,"(1,122)"
+Perak,Lenggong,Tok Ali Fried Chicken Lenggong,4.4,(15)
+Perak,Lenggong,KFC Batu Kurau,4.7,(13)
+Perak,Lenggong,"KFC Taman Lavender, Kuala Kangsar",3.8,(744)
+Perak,Lenggong,KFC Bagan Serai,4.0,(823)
+Perak,Lenggong,KFC Ipoh Garden,3.9,(858)
+Perak,Lenggong,KFC Tasek Ipoh Drive Thru,3.7,"(1,238)"
+Perak,Lenggong,KFC Gopeng,3.7,(385)
+Perak,Lenggong,LENGGONG STATION WESTERN & SIZZLING,4.4,(5)
+Perak,Lenggong,KFC Batu Gajah,3.8,"(1,156)"
+Perak,Larut,KFC Lotus's Taiping,3.3,(50)
+Perak,Larut,KFC Taiping,3.9,"(1,134)"
+Perak,Larut,KFC Taiping Lake Garden DT,3.8,(372)
+Perak,Larut,KFC Simpang Taiping Drive Thru,3.8,"(1,737)"
+Perak,Parit Buntar,"KFC Komplek Parit Buntar ( Parit Buntar, Perak )",3.1,(122)
+Perak,Parit Buntar,KFC Parit Buntar 2,3.8,"(1,067)"
+Perak,Parit Buntar,KFC Taman Wawasan,3.9,(848)
+Perak,Bagan Serai,KFC Bagan Serai,4.0,(823)
+Perak,Bukit Gantang,KFC Lotus's Taiping,3.3,(50)
+Perak,Bukit Gantang,KFC Taiping,3.9,"(1,134)"
+Perak,Bukit Gantang,KFC Taiping Lake Garden DT,3.8,(372)
+Perak,Bukit Gantang,KFC Simpang Taiping Drive Thru,3.8,"(1,737)"
+Perak,Bukit Gantang,KFC The Store Kamunting,3.9,(476)
+Perak,Bukit Gantang,KFC TF Value-Mart Taiping,3.1,(116)
+Perak,Bukit Gantang,KFC Kamunting,4.1,(361)
+Perak,Bukit Gantang,KFC RSA Gunung Semanggol,3.8,(644)
+Perak,Bukit Gantang,KFC Ipoh Garden,3.9,(858)
+Perak,Bukit Gantang,KFC Gunung Rapat Drive Thru,3.8,"(2,277)"
+Perak,Bukit Gantang,"Bukit Gantang Lay-By ( Southbound, Bukit Gantang, Perak )",4.1,"(5,213)"
+Perak,Bukit Gantang,KFC Bercham,3.8,(765)
+Perak,Bukit Gantang,KFC Bagan Serai,4.0,(823)
+Perak,Bukit Gantang,KFC Cockman,3.7,"(1,182)"
+Perak,Taiping,KFC Taiping,3.9,"(1,134)"
+Perak,Taiping,KFC Taiping Lake Garden DT,3.8,(372)
+Perak,Taiping,KFC Lotus's Taiping,3.3,(50)
+Perak,Taiping,KFC The Store Kamunting,3.9,(476)
+Perak,Taiping,KFC Simpang Taiping Drive Thru,3.8,"(1,737)"
+Perak,Taiping,Domino's Taiping,4.1,(372)
+Perak,Taiping,KFC TF Value-Mart Taiping,3.1,(116)
+Perak,Padang Rengas,KFC Taiping,3.9,"(1,134)"
+Perak,Padang Rengas,KFC Kuala Kangsar,4.0,(911)
+Perak,Padang Rengas,"KFC Taman Lavender, Kuala Kangsar",3.8,(744)
+Perak,Padang Rengas,KFC Kamunting,4.1,(361)
+Perak,Padang Rengas,KFC Bagan Serai,4.0,(823)
+Perak,Padang Rengas,KFC Tasek Ipoh Drive Thru,3.7,"(1,238)"
+Perak,Padang Rengas,"KFC Pantai Remis ( Pantai Remis, Perak )",3.5,(499)
+Perak,Padang Rengas,KFC Sungai Siput,3.8,(886)
+Perak,Padang Rengas,KFC Batu Kurau,4.7,(13)
+Perak,Padang Rengas,KFC Ipoh Garden,3.9,(858)
+Perak,Padang Rengas,KFC Gopeng,3.7,(385)
+Perak,Padang Rengas,KFC Gunung Rapat Drive Thru,3.8,"(2,277)"
+Perak,Padang Rengas,KFC Langkap,3.8,(568)
+Perak,Padang Rengas,Warung Pak Menawer (Mee Bandung Udang Galah),4.6,(34)
+Perak,Padang Rengas,KFC Hutan Melintang Perak,3.9,(753)
+Perak,Padang Rengas,Sham StarBurger,5.0,(3)
+Perak,Padang Rengas,KFC Bercham,3.8,(765)
+Perak,Padang Rengas,KFC Gerik,4.2,"(1,122)"
+Perak,Padang Rengas,KFC Ayer Tawar,3.7,(288)
+Perak,Padang Rengas,KFC Batu Gajah,3.8,"(1,156)"
+Perak,Sungai Siput,KFC Sungai Siput,3.8,(886)
+Perak,Tambun,KFC Sunway Tambun,3.7,"(1,024)"
+Perak,Ipoh Timor,KFC Ipoh Garden,3.9,(858)
+Perak,Ipoh Timor,"KFC Meru Raya Drive Thru, Ipoh",3.7,"(1,438)"
+Perak,Ipoh Timor,KFC Lotus's Ipoh,3.7,(82)
+Perak,Ipoh Timor,KFC Tasek Ipoh Drive Thru,3.7,"(1,238)"
+Perak,Ipoh Timor,"KFC AEON Pasir Putih, Perak",1.9,(121)
+Perak,Ipoh Timor,KFC Cockman,3.7,"(1,182)"
+Perak,Ipoh Timor,KFC Gunung Rapat Drive Thru,3.8,"(2,277)"
+Perak,Ipoh Timor,KFC Silibin DT,3.1,(212)
+Perak,Ipoh Timor,Kopitiam Macho,3.6,(566)
+Perak,Ipoh Timor,KFC Lotus's Pasir Putih Perak,3.6,(151)
+Perak,Ipoh Timor,KFC Bercham,3.8,(765)
+Perak,Ipoh Timor,KFC Sunway Tambun,3.7,"(1,024)"
+Perak,Ipoh Timor,KFC Silibin,3.6,(999)
+Perak,Ipoh Timor,KFC Jelapang Square,3.5,(151)
+Perak,Ipoh Barat,KFC Ipoh Garden,3.9,(858)
+Perak,Ipoh Barat,KFC Gunung Rapat Drive Thru,3.8,"(2,277)"
+Perak,Ipoh Barat,"KFC Meru Raya Drive Thru, Ipoh",3.7,"(1,438)"
+Perak,Ipoh Barat,KFC Lotus's Ipoh,3.7,(82)
+Perak,Ipoh Barat,KFC Tasek Ipoh Drive Thru,3.7,"(1,238)"
+Perak,Ipoh Barat,KFC Cockman,3.7,"(1,182)"
+Perak,Ipoh Barat,KFC Bercham,3.8,(765)
+Perak,Ipoh Barat,KFC Sunway Tambun,3.7,"(1,024)"
+Perak,Ipoh Barat,Kopitiam Macho,3.6,(566)
+Perak,Ipoh Barat,KFC Silibin,3.6,(999)
+Perak,Ipoh Barat,"KFC AEON Pasir Putih, Perak",1.9,(121)
+Perak,Ipoh Barat,KFC Lotus's Pasir Putih Perak,3.6,(151)
+Perak,Ipoh Barat,KFC Jelapang Square,3.5,(151)
+Perak,Ipoh Barat,KFC Kuala Kangsar,4.0,(911)
+Perak,Batu Gajah,KFC Batu Gajah,3.8,"(1,156)"
+Perak,Kuala Kangsar,KFC Kuala Kangsar,4.0,(911)
+Perak,Kuala Kangsar,"KFC Taman Lavender, Kuala Kangsar",3.8,(744)
+Perak,Beruas,"KFC Pantai Remis ( Pantai Remis, Perak )",3.5,(499)
+Perak,Parit,"KFC Komplek Parit Buntar ( Parit Buntar, Perak )",3.1,(122)
+Perak,Parit,KFC Parit Buntar 2,3.8,"(1,067)"
+Perak,Parit,KFC Taman Wawasan,3.9,(848)
+Perak,Kampar,KFC Kampar,4.0,(485)
+Perak,Kampar,KFC BHP Kampar Drive Thru,3.6,(743)
+Perak,Kampar,KFC Lotus's Kampar,2.9,(83)
+Perak,Gopeng,KFC Gopeng,3.7,(385)
+Perak,Gopeng,KFC RTC Gopeng Drive Thru,3.7,(597)
+Perak,Tapah,KFC Tapah,3.7,(972)
+Perak,Tapah,KFC R&R Tapah,3.8,"(1,193)"
+Perak,Pasir Salak,KFC Lotus's Pasir Putih Perak,3.6,(151)
+Perak,Pasir Salak,KFC Silibin DT,3.1,(212)
+Perak,Pasir Salak,KFC Silibin,3.6,(999)
+Perak,Pasir Salak,KFC Lumut,3.8,(889)
+Perak,Pasir Salak,Kopitiam Macho,3.6,(566)
+Perak,Pasir Salak,KFC Bercham,3.8,(765)
+Perak,Pasir Salak,KFC Gerik,4.2,"(1,122)"
+Perak,Pasir Salak,KFC Kampar,4.0,(485)
+Perak,Pasir Salak,KFC Seri Iskandar Drive Thru,3.4,"(1,379)"
+Perak,Pasir Salak,"KFC AEON Pasir Putih, Perak",1.9,(121)
+Perak,Pasir Salak,"KFC TF Value Mart Manjung ( Seri Manjung, Perak )",3.8,(411)
+Perak,Pasir Salak,KFC Gunung Rapat Drive Thru,3.8,"(2,277)"
+Perak,Pasir Salak,KFC Taman Wawasan,3.9,(848)
+Perak,Pasir Salak,KFC Parit Buntar 2,3.8,"(1,067)"
+Perak,Lumut,KFC Lumut,3.8,(889)
+Perak,Bagan Datuk,KFC Bagan Serai,4.0,(823)
+Perak,Bagan Datuk,KFC Hutan Melintang Perak,3.9,(753)
+Perak,Bagan Datuk,KFC Batu Kurau,4.7,(13)
+Perak,Bagan Datuk,KFC Batu Gajah,3.8,"(1,156)"
+Perak,Teluk Intan,KFC Teluk Intan,4.1,"(1,139)"
+Perak,Teluk Intan,KFC Teluk Intan DT,3.7,(817)
+Perak,Tanjong Malim,KFC Tanjung Malim,3.9,(899)
+Perak,Tanjong Malim,KFC BHPetrol Tanjung Malim,3.6,"(1,162)"
+Perlis,Padang Besar,KFC Padang Besar,3.8,(373)
+Perlis,Kangar,KFC Kangar,4.1,"(1,012)"
+Perlis,Kangar,KFC Kangar 2 - Jalan Penjara,4.2,(940)
+Perlis,Kangar,KFC @ Kangar Jaya DT,3.9,(657)
+Perlis,Arau,KFC Arau,4.1,"(1,572)"
+Pulau Pinang,Kepala Batas,KFC Kepala Batas 2,3.9,(859)
+Pulau Pinang,Kepala Batas,KFC Bertam DT,3.8,"(1,308)"
+Pulau Pinang,Kepala Batas,KFC Amanputra Kepala Batas,3.9,(348)
+Pulau Pinang,Tasek Gelugor,KFC Simpang Ampat,3.7,(945)
+Pulau Pinang,Tasek Gelugor,KFC Sungai Bakap,3.8,(901)
+Pulau Pinang,Tasek Gelugor,KFC Batu Kawan DT,2.8,(253)
+Pulau Pinang,Tasek Gelugor,KFC Sungai Dua,3.7,"(1,663)"
+Pulau Pinang,Tasek Gelugor,KFC Bertam DT,3.8,"(1,308)"
+Pulau Pinang,Tasek Gelugor,KFC Kepala Batas 2,3.9,(859)
+Pulau Pinang,Tasek Gelugor,KFC Lotus's Jelutong,3.7,(472)
+Pulau Pinang,Tasek Gelugor,KFC Inderawasih,3.6,(581)
+Pulau Pinang,Tasek Gelugor,KFC Jalan Raja Uda Butterworth,3.5,(719)
+Pulau Pinang,Tasek Gelugor,KFC Greenlane DT,3.7,"(2,077)"
+Pulau Pinang,Tasek Gelugor,KFC Desa Ria Sungai Ara Penang,3.5,(853)
+Pulau Pinang,Tasek Gelugor,KFC Queensbay Mall,3.6,(310)
+Pulau Pinang,Tasek Gelugor,Darwis Fried Chicken (DFC) Tasek Gelugor,2.0,(7)
+Pulau Pinang,Tasek Gelugor,KFC Batu Lanchang,3.7,(926)
+Pulau Pinang,Tasek Gelugor,"KFC R2 Avenue, Sungai Dua",4.0,(943)
+Pulau Pinang,Tasek Gelugor,KFC Gurney Plaza,2.7,(115)
+Pulau Pinang,Tasek Gelugor,KFC Bayan Baru,3.7,"(1,923)"
+Pulau Pinang,Tasek Gelugor,KFC Penang Sentral,3.3,(370)
+Pulau Pinang,Tasek Gelugor,KFC Bagan Ajam DT,3.2,(522)
+Pulau Pinang,Tasek Gelugor,KFC Giant Bayan Baru,3.5,(419)
+Pulau Pinang,Tasek Gelugor,KFC Komtar,3.8,(720)
+Pulau Pinang,Tasek Gelugor,KFC Butterworth,3.8,(710)
+Pulau Pinang,Bagan,KFC Bagan Ajam DT,3.2,(522)
+Pulau Pinang,Bagan,KFC Butterworth,3.8,(710)
+Pulau Pinang,Bagan,KFC Jalan Raja Uda Butterworth,3.5,(719)
+Pulau Pinang,Bagan,KFC Penang Sentral,3.3,(370)
+Pulau Pinang,Bagan,"KFC R2 Avenue, Sungai Dua",4.0,(943)
+Pulau Pinang,Bagan,KFC Inderawasih,3.6,(581)
+Pulau Pinang,Permatang Pauh,KFC Lotus's Bukit Mertajam,3.1,(285)
+Pulau Pinang,Permatang Pauh,KFC Jalan Baru DT,3.6,"(1,847)"
+Pulau Pinang,Permatang Pauh,KFC Bukit Mertajam DT,3.2,"(1,054)"
+Pulau Pinang,Permatang Pauh,KFC Padang Lallang,3.9,(457)
+Pulau Pinang,Permatang Pauh,KFC Sunway Wellesley,3.8,(651)
+Pulau Pinang,Permatang Pauh,KFC Megamall Pinang,3.4,(21)
+Pulau Pinang,Permatang Pauh,KFC Inderawasih,3.6,(581)
+Pulau Pinang,Permatang Pauh,KFC Jalan Raja Uda Butterworth,3.5,(719)
+Pulau Pinang,Permatang Pauh,KFC Lotus's Prai,3.8,(200)
+Pulau Pinang,Permatang Pauh,"KFC R2 Avenue, Sungai Dua",4.0,(943)
+Pulau Pinang,Permatang Pauh,KFC Bertam DT,3.8,"(1,308)"
+Pulau Pinang,Permatang Pauh,KFC Petronas Seberang Jaya Drive Thru,3.9,"(1,110)"
+Pulau Pinang,Permatang Pauh,KFC Butterworth,3.8,(710)
+Pulau Pinang,Permatang Pauh,KFC Penang Sentral,3.3,(370)
+Pulau Pinang,Permatang Pauh,KFC Kepala Batas 2,3.9,(859)
+Pulau Pinang,Permatang Pauh,KFC Sungai Dua,3.7,"(1,663)"
+Pulau Pinang,Bukit Mertajam,KFC Lotus's Bukit Mertajam,3.1,(285)
+Pulau Pinang,Bukit Mertajam,KFC Alma Bukit Mertajam,3.5,(374)
+Pulau Pinang,Bukit Mertajam,KFC Taman Bukit Minyak,3.5,(581)
+Pulau Pinang,Bukit Mertajam,KFC Bukit Mertajam DT,3.2,"(1,054)"
+Pulau Pinang,Bukit Mertajam,KFC Juru Auto City,3.6,"(1,075)"
+Pulau Pinang,Bukit Mertajam,KFC Jalan Baru DT,3.6,"(1,847)"
+Pulau Pinang,Bukit Mertajam,KFC RSA Setia Sentral Juru Drive Thru,3.9,(799)
+Pulau Pinang,Bukit Mertajam,KFC Simpang Ampat,3.7,(945)
+Pulau Pinang,Bukit Mertajam,KFC Padang Lallang,3.9,(457)
+Pulau Pinang,Bukit Mertajam,KFC Sunway Wellesley,3.8,(651)
+Pulau Pinang,Batu Kawan,KFC Design Village Batu Kawan,3.6,(706)
+Pulau Pinang,Batu Kawan,KFC Batu Kawan DT,2.8,(253)
+Pulau Pinang,Nibong Tebal,KFC Nibong Tebal,3.6,(932)
+Pulau Pinang,Bukit Bendera,KFC Bandar Baru Farlim,3.8,(955)
+Pulau Pinang,Bukit Bendera,KFC Bukit Mertajam DT,3.2,"(1,054)"
+Pulau Pinang,Bukit Bendera,KFC Jalan Baru DT,3.6,"(1,847)"
+Pulau Pinang,Bukit Bendera,KFC Giant Bayan Baru,3.5,(419)
+Pulau Pinang,Bukit Bendera,KFC Penang Sentral,3.3,(370)
+Pulau Pinang,Bukit Bendera,KFC Gurney Plaza,2.7,(115)
+Pulau Pinang,Bukit Bendera,KFC Bayan Baru,3.7,"(1,923)"
+Pulau Pinang,Bukit Bendera,KFC Midlands,3.7,(469)
+Pulau Pinang,Bukit Bendera,KFC Inderawasih,3.6,(581)
+Pulau Pinang,Bukit Bendera,KFC Komtar,3.8,(720)
+Pulau Pinang,Bukit Bendera,KFC Bukit Jambul,3.5,(341)
+Pulau Pinang,Bukit Bendera,KFC Kepala Batas 2,3.9,(859)
+Pulau Pinang,Bukit Bendera,KFC Butterworth,3.8,(710)
+Pulau Pinang,Bukit Bendera,KFC Teluk Kumbar,3.5,(574)
+Pulau Pinang,Bukit Bendera,KFC Queensbay Mall,3.6,(310)
+Pulau Pinang,Bukit Bendera,KFC Sungai Dua,3.7,"(1,663)"
+Pulau Pinang,Bukit Bendera,KFC Bagan Ajam DT,3.2,(522)
+Pulau Pinang,Bukit Bendera,Marrybrown Penang Hill,4.1,(316)
+Pulau Pinang,Tanjong,KFC Tanjong Tokong,3.6,(855)
+Pulau Pinang,Tanjong,KFC Lotus's Tanjung Pinang,2.9,(186)
+Pulau Pinang,Jelutong,KFC Shell Jelutong DT,2.4,(44)
+Pulau Pinang,Jelutong,KFC Juru Auto City,3.6,"(1,075)"
+Pulau Pinang,Jelutong,KFC Jelutong,0,0
+Pulau Pinang,Jelutong,KFC Jelutong,3.6,(762)
+Pulau Pinang,Jelutong,KFC Lotus's Jelutong,3.7,(472)
+Pulau Pinang,Jelutong,KFC Batu Lanchang,3.7,(926)
+Pulau Pinang,Jelutong,KFC Greenlane DT,3.7,"(2,077)"
+Pulau Pinang,Bukit Gelugor,KFC Sungai Dua,3.7,"(1,663)"
+Pulau Pinang,Bayan Baru,KFC Giant Bayan Baru,3.5,(419)
+Pulau Pinang,Bayan Baru,KFC Bayan Baru,3.7,"(1,923)"
+Pulau Pinang,Bayan Baru,KFC Queensbay Mall,3.6,(310)
+Pulau Pinang,Bayan Baru,KFC Desa Ria Sungai Ara Penang,3.5,(853)
+Pulau Pinang,Balik Pulau,KFC Juru Auto City,3.6,"(1,075)"
+Pulau Pinang,Balik Pulau,KFC Balik Pulau,4.0,(799)
+Pulau Pinang,Balik Pulau,KFC Design Village Batu Kawan,3.6,(706)
+Pulau Pinang,Balik Pulau,KFC Sungai Bakap,3.8,(901)
+Pulau Pinang,Balik Pulau,KFC Balik Pulau Drive Thru,3.6,(357)
+Sabah,Kudat,KFC Telupid,3.8,(461)
+Sabah,Kudat,KFC Kudat,4.0,(805)
+Sabah,Kota Marudu,KFC Kota Marudu,4.2,(862)
+Sabah,Kota Marudu,KFC Langkon,4.2,(70)
+Sabah,Kota Belud,KFC Telupid,3.8,(461)
+Sabah,Kota Belud,KFC Kota Belud,4.3,(653)
+Sabah,Tuaran,KFC RUGADING,3.0,(26)
+Sabah,Tuaran,KFC Tuaran,4.2,"(1,244)"
+Sabah,Tuaran,"KFC Plaza CKS Tuaran branch, Sabah.",4.2,(481)
+Sabah,Sepanggar,KFC Sepanggar,4.1,"(1,332)"
+Sabah,Sepanggar,KFC Sulaman Drive Thru,4.2,"(2,084)"
+Sabah,Kota Kinabalu,KFC Telupid,3.8,(461)
+Sabah,Kota Kinabalu,"KFC Taipan, Inanam",4.3,"(1,120)"
+Sabah,Kota Kinabalu,KFC KK Times Square,3.5,(91)
+Sabah,Kota Kinabalu,KFC Wawasan Plaza,4.2,(291)
+Sabah,Kota Kinabalu,KFC Tanjung Aru,4.5,(969)
+Sabah,Kota Kinabalu,KFC Shell KKIP Telipok Drive-thru,4.8,(36)
+Sabah,Kota Kinabalu,KFC Bandar Sierra,4.3,"(1,095)"
+Sabah,Kota Kinabalu,KFC Sulaman Drive Thru,4.2,"(2,084)"
+Sabah,Kota Kinabalu,KFC Bandaran KK Utara DT (Tuaran Bypass),4.3,"(2,233)"
+Sabah,Kota Kinabalu,KFC Sepanggar,4.1,"(1,332)"
+Sabah,Kota Kinabalu,KFC KKIA (T1),3.3,(176)
+Sabah,Kota Kinabalu,KFC Grand Millenium,4.1,(603)
+Sabah,Kota Kinabalu,KFC Waterfront,4.0,(358)
+Sabah,Kota Kinabalu,KFC Wisma Merdeka,4.2,(105)
+Sabah,Kota Kinabalu,KFC Suria Sabah,3.9,(263)
+Sabah,Kota Kinabalu,KFC Pavilion Bundusan,4.2,"(1,296)"
+Sabah,Kota Kinabalu,KFC Bandaran Berjaya,4.2,"(1,110)"
+Sabah,Kota Kinabalu,KFC Bornion Centre,4.1,(577)
+Sabah,Kota Kinabalu,KFC Emart Lintas Jaya,4.0,(339)
+Sabah,Kota Kinabalu,KFC City Mall,4.1,(316)
+Sabah,Kota Kinabalu,KFC Centre Point,4.1,(178)
+Sabah,Kota Kinabalu,KFC Lido,4.0,(483)
+Sabah,Kota Kinabalu,KFC (Sabah) Sdn Bhd,4.3,(12)
+Sabah,Kota Kinabalu,KFC Suria Inanam,4.3,(334)
+Sabah,Kota Kinabalu,KFC Tuaran,4.2,"(1,244)"
+Sabah,Kota Kinabalu,KFC Kompleks Karamunsing,4.1,(450)
+Sabah,Kota Kinabalu,Wisma KFC Sabah,4.0,(46)
+Sabah,Kota Kinabalu,KFC Plaza Juta,4.1,(545)
+Sabah,Kota Kinabalu,KFC One Borneo,3.8,(151)
+Sabah,Kota Kinabalu,KFC Putatan Plaza,4.0,"(1,424)"
+Sabah,Kota Kinabalu,KFC Bataras Kolombong,3.5,(94)
+Sabah,Kota Kinabalu,KFC Kota Belud,4.3,(653)
+Sabah,Putatan,KFC Putatan Plaza,4.0,"(1,424)"
+Sabah,Penampang,KFC Donggongon,4.1,(667)
+Sabah,Penampang,KFC Pavilion Bundusan,4.2,"(1,296)"
+Sabah,Penampang,KFC Grand Millenium,4.1,(603)
+Sabah,Papar,KFC Papar,4.3,"(1,005)"
+Sabah,Papar,KFC Kinarut,4.2,"(1,158)"
+Sabah,Papar,KFC Benoni Drive Thru Papar,4.2,"(1,128)"
+Sabah,Kimanis,KFC Kinarut,4.2,"(1,158)"
+Sabah,Kimanis,KFC Benoni Drive Thru Papar,4.2,"(1,128)"
+Sabah,Kimanis,KFC Papar,4.3,"(1,005)"
+Sabah,Kimanis,KFC Keningau,4.3,"(1,747)"
+Sabah,Kimanis,KFC Sepanggar,4.1,"(1,332)"
+Sabah,Kimanis,KFC (Sabah) Sdn Bhd,4.3,(12)
+Sabah,Kimanis,KFC Tanjung Aru,4.5,(969)
+Sabah,Kimanis,KFC Kundasang,4.0,(841)
+Sabah,Kimanis,KFC KKIA (T1),3.3,(176)
+Sabah,Kimanis,"KFC Taipan, Inanam",4.3,"(1,120)"
+Sabah,Kimanis,KFC One Borneo,3.8,(151)
+Sabah,Kimanis,KFC Shell KKIP Telipok Drive-thru,4.8,(36)
+Sabah,Kimanis,KFC Kunak,3.8,(313)
+Sabah,Kimanis,KFC Kompleks Karamunsing,4.1,(450)
+Sabah,Beaufort,KFC Telupid,3.8,(461)
+Sabah,Beaufort,KFC Beaufort,4.2,"(1,180)"
+Sabah,Sipitang,KFC Sipitang,4.0,(515)
+Sabah,Ranau,KFC Telupid,3.8,(461)
+Sabah,Ranau,KFC Ranau,4.1,"(1,746)"
+Sabah,Keningau,KFC Padang Bandaran Keningau 2,5.0,(26)
+Sabah,Keningau,KFC Keningau,4.3,"(1,747)"
+Sabah,Tenom,KFC Tenom,4.0,(479)
+Sabah,Pensiangan,KFC Telupid,3.8,(461)
+Sabah,Pensiangan,KFC Tambunan,4.1,(130)
+Sabah,Pensiangan,KFC Padang Bandaran Keningau 2,5.0,(26)
+Sabah,Pensiangan,KFC Keningau,4.3,"(1,747)"
+Sabah,Pensiangan,KFC Beluran,4.4,(51)
+Sabah,Pensiangan,KFC Kundasang,4.0,(841)
+Sabah,Pensiangan,KFC Sepanggar,4.1,"(1,332)"
+Sabah,Pensiangan,KFC Ranau,4.1,"(1,746)"
+Sabah,Pensiangan,KFC Pavilion Bundusan,4.2,"(1,296)"
+Sabah,Pensiangan,KFC Sipitang,4.0,(515)
+Sabah,Pensiangan,KFC Donggongon,4.1,(667)
+Sabah,Pensiangan,KFC Kinarut,4.2,"(1,158)"
+Sabah,Pensiangan,"KFC Taipan, Inanam",4.3,"(1,120)"
+Sabah,Pensiangan,KFC Tuaran,4.2,"(1,244)"
+Sabah,Pensiangan,KFC Tanjung Aru,4.5,(969)
+Sabah,Beluran,KFC Telupid,3.8,(461)
+Sabah,Beluran,KFC Beluran,4.4,(51)
+Sabah,Libaran,KFC Telupid,3.8,(461)
+Sabah,Batu Sapi,KFC Telupid,3.8,(461)
+Sabah,Batu Sapi,KFC Sandakan Bataras,4.3,(225)
+Sabah,Batu Sapi,KFC Bandar Perdana Sandakan,4.1,(381)
+Sabah,Batu Sapi,KFC Sandakan 3 Sibuga Jaya (Mile 8),4.0,(436)
+Sabah,Batu Sapi,"KFC Sandakan, Mile 4",4.1,"(1,043)"
+Sabah,Batu Sapi,KFC Sandakan 1 Jalan Pasar,4.2,(594)
+Sabah,Batu Sapi,KFC Bandar Sierra,4.3,"(1,095)"
+Sabah,Batu Sapi,KFC Sepanggar,4.1,"(1,332)"
+Sabah,Batu Sapi,KFC Kinabatangan,4.0,(802)
+Sabah,Batu Sapi,KFC Shell KKIP Telipok Drive-thru,4.8,(36)
+Sabah,Batu Sapi,KFC Beluran,4.4,(51)
+Sabah,Batu Sapi,KFC Tuaran,4.2,"(1,244)"
+Sabah,Batu Sapi,KFC (Sabah) Sdn Bhd,4.3,(12)
+Sabah,Batu Sapi,KFC Pavilion Bundusan,4.2,"(1,296)"
+Sabah,Batu Sapi,KFC Centre Point,4.1,(178)
+Sabah,Batu Sapi,KFC Ranau,4.1,"(1,746)"
+Sabah,Sandakan,KFC Telupid,3.8,(461)
+Sabah,Sandakan,KFC Sandakan 1 Jalan Pasar,4.2,(594)
+Sabah,Sandakan,KFC Bandar Perdana Sandakan,4.1,(381)
+Sabah,Sandakan,"KFC Sandakan, Mile 4",4.1,"(1,043)"
+Sabah,Sandakan,KFC Sandakan 3 Sibuga Jaya (Mile 8),4.0,(436)
+Sabah,Sandakan,KFC Sandakan Bataras,4.3,(225)
+Sabah,Kinabatangan,KFC Telupid,3.8,(461)
+Sabah,Kinabatangan,KFC Kinabatangan,4.0,(802)
+Sabah,Lahad Datu,KFC Telupid,3.8,(461)
+Sabah,Lahad Datu,KFC Darvel Bay,4.1,(760)
+Sabah,Lahad Datu,KFC D'Perdana Lahad Datu,4.0,(365)
+Sabah,Lahad Datu,KFC iPeak Lahad Datu,4.3,(43)
+Sabah,Semporna,KFC Semporna,3.7,(996)
+Sabah,Semporna,KFC Seafest Semporna,4.3,(113)
+Sabah,Tawau,KFC Telupid,3.8,(461)
+Sabah,Tawau,KFC bandar sri indah,4.2,(98)
+Sabah,Tawau,"KFC Jalan Masjid, Tawau",4.2,(789)
+Sabah,Tawau,KFC GARDEN CITY TAWAU,4.6,(63)
+Sabah,Tawau,KFC Drive Thru Batu 2 Jalan Apas,4.8,(59)
+Sabah,Tawau,"KFC Fajar, Tawau",4.2,(693)
+Sabah,Tawau,"KFC Empire Building, Tawau",4.2,(121)
+Sabah,Tawau,KOFII AER,4.2,(715)
+Sabah,Tawau,KFC Semarak Tawau,4.2,(409)
+Sabah,Tawau,"KFC Balung, Tawau",4.1,(348)
+Sabah,Kalabakan,"KFC Empire Building, Tawau",4.2,(121)
+Sabah,Kalabakan,KFC Drive Thru Batu 2 Jalan Apas,4.8,(59)
+Sabah,Kalabakan,KFC Semarak Tawau,4.2,(409)
+Sabah,Kalabakan,"KFC Fajar, Tawau",4.2,(693)
+Sabah,Kalabakan,KOFII AER,4.2,(715)
+Sabah,Kalabakan,"KFC Balung, Tawau",4.1,(348)
+Sabah,Kalabakan,KFC GARDEN CITY TAWAU,4.6,(63)
+Sabah,Kalabakan,KFC bandar sri indah,4.2,(98)
+Sabah,Kalabakan,"KFC Jalan Masjid, Tawau",4.2,(789)
+Sabah,Kalabakan,KFC iPeak Lahad Datu,4.3,(43)
+Sabah,Kalabakan,KFC Tuaran,4.2,"(1,244)"
+Sabah,Kalabakan,KFC Shell KKIP Telipok Drive-thru,4.8,(36)
+Sabah,Kalabakan,KFC D'Perdana Lahad Datu,4.0,(365)
+Sabah,Kalabakan,KFC Kompleks Karamunsing,4.1,(450)
+Sabah,Kalabakan,KFC Semporna,3.7,(996)
+Sabah,Kalabakan,KFC Sandakan Bataras,4.3,(225)
+Sabah,Kalabakan,LFC Sabah,4.8,(149)
+Sabah,Kalabakan,KFC Wawasan Plaza,4.2,(291)
+Sarawak,Mas Gading,KFC Satok,4.2,"(1,012)"
+Sarawak,Mas Gading,KFC Samariang,3.8,(69)
+Sarawak,Mas Gading,KFC Matang,4.6,"(1,054)"
+Sarawak,Mas Gading,KFC Premier 101,4.0,(439)
+Sarawak,Mas Gading,KFC Bako Drive Thru,4.0,"(1,204)"
+Sarawak,Mas Gading,KFC KIS,4.1,(226)
+Sarawak,Mas Gading,KFC Tabuan Jaya,4.0,"(1,003)"
+Sarawak,Mas Gading,KFC Shell DT Jalan Stephen Yong,3.7,(404)
+Sarawak,Mas Gading,KFC Restaurant @ eco-mall Petrajaya,4.0,(267)
+Sarawak,Mas Gading,KFC Sarawak Plaza,3.9,(491)
+Sarawak,Mas Gading,KFC Bau,3.7,(323)
+Sarawak,Mas Gading,KFC Vivacity,3.6,(300)
+Sarawak,Mas Gading,KFC Emart Batu Kawa,3.9,"(1,546)"
+Sarawak,Mas Gading,KFC Batu Kawa,3.9,(573)
+Sarawak,Mas Gading,KFC Metrocity Drive Thru,3.8,"(1,280)"
+Sarawak,Mas Gading,KFC The Spring,3.8,(337)
+Sarawak,Mas Gading,KFC Rock Road,4.0,(829)
+Sarawak,Mas Gading,KFC Betong,3.8,(381)
+Sarawak,Mas Gading,KFC Kuching Sentral,3.6,(235)
+Sarawak,Mas Gading,KFC Plaza Merdeka,4.2,(190)
+Sarawak,Mas Gading,KFC KIA,3.8,(80)
+Sarawak,Mas Gading,KFC Petronas Batu Kawa DT,4.2,(409)
+Sarawak,Mas Gading,KFC KOTA SENTOSA,3.9,(731)
+Sarawak,Santubong,KFC Satok,4.2,"(1,012)"
+Sarawak,Santubong,KFC Samariang,3.8,(69)
+Sarawak,Santubong,KFC Matang,4.6,"(1,054)"
+Sarawak,Santubong,KFC Tabuan Jaya,4.0,"(1,003)"
+Sarawak,Santubong,KFC PETROS Darul Hana DT,3.1,(66)
+Sarawak,Santubong,KFC Emart Batu Kawa,3.9,"(1,546)"
+Sarawak,Santubong,KFC Bako Drive Thru,4.0,"(1,204)"
+Sarawak,Santubong,KFC Metrocity Drive Thru,3.8,"(1,280)"
+Sarawak,Santubong,KFC The Spring,3.8,(337)
+Sarawak,Santubong,KFC Restaurant @ eco-mall Petrajaya,4.0,(267)
+Sarawak,Santubong,KFC Sarawak Plaza,3.9,(491)
+Sarawak,Santubong,KFC Rock Road,4.0,(829)
+Sarawak,Santubong,KFC Shell DT Jalan Stephen Yong,3.7,(404)
+Sarawak,Santubong,KFC Vivacity,3.6,(300)
+Sarawak,Santubong,KFC Boulevard Mall,3.4,(135)
+Sarawak,Santubong,KFC Tabuan Tranquility DT,3.9,"(1,500)"
+Sarawak,Santubong,KFC KOTA SENTOSA,3.9,(731)
+Sarawak,Santubong,KFC Bau,3.7,(323)
+Sarawak,Santubong,KFC Sri Aman,3.8,(735)
+Sarawak,Santubong,KFC Betong,3.8,(381)
+Sarawak,Santubong,KFC Plaza Merdeka,4.2,(190)
+Sarawak,Santubong,KFC Wisma Sanyan,3.8,(154)
+Sarawak,Petra Jaya,KFC Restaurant @ eco-mall Petrajaya,4.0,(267)
+Sarawak,Petra Jaya,KFC Samariang,3.8,(69)
+Sarawak,Petra Jaya,KFC PETROS Darul Hana DT,3.1,(66)
+Sarawak,Bandar Kuching,KFC Samariang,3.8,(69)
+Sarawak,Bandar Kuching,KFC Sarawak Plaza,3.9,(491)
+Sarawak,Bandar Kuching,KFC Batu Kawa,3.9,(573)
+Sarawak,Bandar Kuching,KFC Kuching Sentral,3.6,(235)
+Sarawak,Bandar Kuching,KFC Vivacity,3.6,(300)
+Sarawak,Bandar Kuching,KFC The Spring,3.8,(337)
+Sarawak,Bandar Kuching,KFC Satok,4.2,"(1,012)"
+Sarawak,Bandar Kuching,KFC Tabuan Jaya,4.0,"(1,003)"
+Sarawak,Bandar Kuching,KFC KOTA SENTOSA,3.9,(731)
+Sarawak,Bandar Kuching,KFC Boulevard Mall,3.4,(135)
+Sarawak,Bandar Kuching,KFC Premier 101,4.0,(439)
+Sarawak,Bandar Kuching,KFC Rock Road,4.0,(829)
+Sarawak,Bandar Kuching,KFC Shell DT Jalan Stephen Yong,3.7,(404)
+Sarawak,Bandar Kuching,KFC Matang,4.6,"(1,054)"
+Sarawak,Bandar Kuching,KFC Metrocity Drive Thru,3.8,"(1,280)"
+Sarawak,Bandar Kuching,KFC KIA,3.8,(80)
+Sarawak,Bandar Kuching,KFC PETROS Darul Hana DT,3.1,(66)
+Sarawak,Bandar Kuching,KFC Emart Batu Kawa,3.9,"(1,546)"
+Sarawak,Bandar Kuching,KFC Bako Drive Thru,4.0,"(1,204)"
+Sarawak,Bandar Kuching,KFC Restaurant @ eco-mall Petrajaya,4.0,(267)
+Sarawak,Bandar Kuching,KFC Tabuan Tranquility DT,3.9,"(1,500)"
+Sarawak,Bandar Kuching,KFC Plaza Merdeka,4.2,(190)
+Sarawak,Stampin,KFC Satok,4.2,"(1,012)"
+Sarawak,Stampin,KFC Sarawak Plaza,3.9,(491)
+Sarawak,Stampin,KFC The Spring,3.8,(337)
+Sarawak,Stampin,KFC Vivacity,3.6,(300)
+Sarawak,Stampin,KFC Premier 101,4.0,(439)
+Sarawak,Stampin,KFC Samariang,3.8,(69)
+Sarawak,Stampin,KFC Metrocity Drive Thru,3.8,"(1,280)"
+Sarawak,Stampin,KFC Tabuan Jaya,4.0,"(1,003)"
+Sarawak,Stampin,KFC KIS,4.1,(226)
+Sarawak,Stampin,KFC Bako Drive Thru,4.0,"(1,204)"
+Sarawak,Stampin,KFC Shell DT Jalan Stephen Yong,3.7,(404)
+Sarawak,Stampin,KFC Tabuan Tranquility DT,3.9,"(1,500)"
+Sarawak,Stampin,KFC PETROS Darul Hana DT,3.1,(66)
+Sarawak,Stampin,KFC Matang,4.6,"(1,054)"
+Sarawak,Stampin,KFC Restaurant @ eco-mall Petrajaya,4.0,(267)
+Sarawak,Stampin,KFC Emart Batu Kawa,3.9,"(1,546)"
+Sarawak,Stampin,KFC KOTA SENTOSA,3.9,(731)
+Sarawak,Stampin,KFC Plaza Merdeka,4.2,(190)
+Sarawak,Stampin,KFC Rock Road,4.0,(829)
+Sarawak,Stampin,KFC Sarikei,4.0,(772)
+Sarawak,Stampin,KFC Wisma Sanyan,3.8,(154)
+Sarawak,Stampin,KFC Sibu Jaya,3.9,(557)
+Sarawak,Stampin,KFC Tanahmas,4.0,(920)
+Sarawak,Stampin,KFC Sibu 1,4.1,(548)
+Sarawak,Kota Samarahan,KFC Kota Samarahan Drive Thru,3.7,(911)
+Sarawak,Kota Samarahan,KFC Summer Mall,4.0,(470)
+Sarawak,Kota Samarahan,KFC Aiman Mall,4.0,(903)
+Sarawak,Puncak Borneo,KFC Bau,3.7,(323)
+Sarawak,Puncak Borneo,KFC Satok,4.2,"(1,012)"
+Sarawak,Puncak Borneo,KFC Siburan,3.5,(382)
+Sarawak,Puncak Borneo,KFC Emart Batu Kawa,3.9,"(1,546)"
+Sarawak,Puncak Borneo,KFC Tabuan Jaya,4.0,"(1,003)"
+Sarawak,Puncak Borneo,KFC Sarawak Plaza,3.9,(491)
+Sarawak,Puncak Borneo,KFC Sri Aman,3.8,(735)
+Sarawak,Puncak Borneo,KFC Vivacity,3.6,(300)
+Sarawak,Puncak Borneo,KFC KOTA SENTOSA,3.9,(731)
+Sarawak,Puncak Borneo,KFC Betong,3.8,(381)
+Sarawak,Puncak Borneo,KFC KIA,3.8,(80)
+Sarawak,Puncak Borneo,KFC Restaurant @ eco-mall Petrajaya,4.0,(267)
+Sarawak,Puncak Borneo,KFC Shell DT Jalan Stephen Yong,3.7,(404)
+Sarawak,Puncak Borneo,KFC Rock Road,4.0,(829)
+Sarawak,Puncak Borneo,KFC Bako Drive Thru,4.0,"(1,204)"
+Sarawak,Puncak Borneo,KFC Matang,4.6,"(1,054)"
+Sarawak,Puncak Borneo,KFC Emart Miri,3.9,"(1,040)"
+Sarawak,Puncak Borneo,KFC Plaza Merdeka,4.2,(190)
+Sarawak,Puncak Borneo,KFC Kuching Sentral,3.6,(235)
+Sarawak,Puncak Borneo,KFC Metrocity Drive Thru,3.8,"(1,280)"
+Sarawak,Puncak Borneo,KFC The Spring,3.8,(337)
+Sarawak,Puncak Borneo,KFC Bintang Plaza,3.7,(111)
+Sarawak,Puncak Borneo,KFC MARINA PARKCITY,3.9,(807)
+Sarawak,Serian,KFC Louis Junction,3.8,(255)
+Sarawak,Serian,KFC Serian Baru,3.9,(374)
+Sarawak,Batang Sadong,KFC Tabuan Jaya,4.0,"(1,003)"
+Sarawak,Batang Sadong,KFC Matang,4.6,"(1,054)"
+Sarawak,Batang Sadong,KFC Samariang,3.8,(69)
+Sarawak,Batang Sadong,KFC Satok,4.2,"(1,012)"
+Sarawak,Batang Sadong,KFC Sarawak Plaza,3.9,(491)
+Sarawak,Batang Sadong,KFC Kota Samarahan Drive Thru,3.7,(911)
+Sarawak,Batang Sadong,KFC Aiman Mall,4.0,(903)
+Sarawak,Batang Sadong,KFC Restaurant @ eco-mall Petrajaya,4.0,(267)
+Sarawak,Batang Sadong,KFC Emart Batu Kawa,3.9,"(1,546)"
+Sarawak,Batang Sadong,KFC Betong,3.8,(381)
+Sarawak,Batang Sadong,KFC KOTA SENTOSA,3.9,(731)
+Sarawak,Batang Sadong,KFC Siburan,3.5,(382)
+Sarawak,Batang Sadong,KFC PETROS Darul Hana DT,3.1,(66)
+Sarawak,Batang Sadong,KFC Bako Drive Thru,4.0,"(1,204)"
+Sarawak,Batang Sadong,KFC The Spring,3.8,(337)
+Sarawak,Batang Sadong,KFC Vivacity,3.6,(300)
+Sarawak,Batang Sadong,KFC Kuching Sentral,3.6,(235)
+Sarawak,Batang Sadong,KFC KIA,3.8,(80)
+Sarawak,Batang Sadong,KFC Shell DT Jalan Stephen Yong,3.7,(404)
+Sarawak,Batang Sadong,KFC Plaza Merdeka,4.2,(190)
+Sarawak,Batang Sadong,KFC Serian Baru,3.9,(374)
+Sarawak,Batang Sadong,KFC Bau,3.7,(323)
+Sarawak,Batang Sadong,KFC Rock Road,4.0,(829)
+Sarawak,Batang Lupar,KFC Tatau,4.0,(127)
+Sarawak,Batang Lupar,KFC Kapit,3.9,(367)
+Sarawak,Batang Lupar,KFC Kidurong,3.8,(566)
+Sarawak,Batang Lupar,KFC Betong,3.8,(381)
+Sarawak,Batang Lupar,KFC Sarawak Plaza,3.9,(491)
+Sarawak,Batang Lupar,KFC Saratok,3.6,(287)
+Sarawak,Batang Lupar,KFC Siburan,3.5,(382)
+Sarawak,Batang Lupar,KFC Tabuan Jaya,4.0,"(1,003)"
+Sarawak,Batang Lupar,KFC PETROS Darul Hana DT,3.1,(66)
+Sarawak,Batang Lupar,KFC Satok,4.2,"(1,012)"
+Sarawak,Batang Lupar,KFC Matang,4.6,"(1,054)"
+Sarawak,Batang Lupar,KFC Tabuan Tranquility DT,3.9,"(1,500)"
+Sarawak,Batang Lupar,KFC Boulevard Mall,3.4,(135)
+Sarawak,Batang Lupar,KFC Emart Batu Kawa,3.9,"(1,546)"
+Sarawak,Batang Lupar,KFC Bako Drive Thru,4.0,"(1,204)"
+Sarawak,Batang Lupar,KFC Sri Aman,3.8,(735)
+Sarawak,Sri Aman,KFC Sri Aman,3.8,(735)
+Sarawak,Lubok Antu,KFC Tatau,4.0,(127)
+Sarawak,Lubok Antu,KFC Kidurong,3.8,(566)
+Sarawak,Lubok Antu,KFC Sri Aman,3.8,(735)
+Sarawak,Betong,KFC Betong,3.8,(381)
+Sarawak,Saratok,KFC Saratok,3.6,(287)
+Sarawak,Tanjong Manis,KFC Tatau,4.0,(127)
+Sarawak,Tanjong Manis,KFC Kapit,3.9,(367)
+Sarawak,Tanjong Manis,KFC Kidurong,3.8,(566)
+Sarawak,Tanjong Manis,KFC Taman Selera Drive Thru,3.6,(751)
+Sarawak,Tanjong Manis,KFC Sarawak Plaza,3.9,(491)
+Sarawak,Tanjong Manis,KFC Satok,4.2,"(1,012)"
+Sarawak,Igan,KFC Mukah,3.8,(849)
+Sarawak,Igan,KFC Kapit,3.9,(367)
+Sarawak,Igan,KFC Sibu Jaya,3.9,(557)
+Sarawak,Igan,KFC Sibu 1,4.1,(548)
+Sarawak,Igan,KFC Tanahmas,4.0,(920)
+Sarawak,Igan,KFC Wisma Sanyan,3.8,(154)
+Sarawak,Igan,KFC LKC Sibu,4.0,(415)
+Sarawak,Igan,KFC Niah,4.0,(327)
+Sarawak,Igan,KFC Sing Kwong,3.7,(510)
+Sarawak,Igan,KFC Bau,3.7,(323)
+Sarawak,Igan,KFC KIS,4.1,(226)
+Sarawak,Igan,KFC Sri Aman,3.8,(735)
+Sarawak,Igan,KFC Sarawak Plaza,3.9,(491)
+Sarawak,Igan,KFC Aiman Mall,4.0,(903)
+Sarawak,Igan,KFC Betong,3.8,(381)
+Sarawak,Igan,KFC KIA,3.8,(80)
+Sarawak,Igan,KFC Sarikei,4.0,(772)
+Sarawak,Igan,KFC Emart Riam Miri,3.6,(450)
+Sarawak,Igan,KFC Samariang,3.8,(69)
+Sarawak,Igan,KFC Emart Batu Kawa,3.9,"(1,546)"
+Sarawak,Igan,KFC Saratok,3.6,(287)
+Sarawak,Sarikei,KFC Sarikei,4.0,(772)
+Sarawak,Julau,KFC Tatau,4.0,(127)
+Sarawak,Julau,KFC Sarikei,4.0,(772)
+Sarawak,Julau,KFC Kapit,3.9,(367)
+Sarawak,Julau,KFC Mukah,3.8,(849)
+Sarawak,Julau,JULAU FOODCOURT,4.7,(6)
+Sarawak,Julau,KFC Sibu Jaya,3.9,(557)
+Sarawak,Kanowit,KFC Tatau,4.0,(127)
+Sarawak,Kanowit,SugarBun Kanowit,3.5,(46)
+Sarawak,Kanowit,KFC Kapit,3.9,(367)
+Sarawak,Kanowit,KFC Sibu Jaya,3.9,(557)
+Sarawak,Kanowit,KFC Wisma Sanyan,3.8,(154)
+Sarawak,Kanowit,Kanowit Food Court,3.5,(37)
+Sarawak,Kanowit,KFC Sibu 1,4.1,(548)
+Sarawak,Kanowit,KFC Tanahmas,4.0,(920)
+Sarawak,Kanowit,KFC Sing Kwong,3.7,(510)
+Sarawak,Kanowit,KFC LKC Sibu,4.0,(415)
+Sarawak,Kanowit,KFC Sibu Bus Terminal,3.9,(316)
+Sarawak,Kanowit,KFC Sri Aman,3.8,(735)
+Sarawak,Kanowit,KFC Kidurong,3.8,(566)
+Sarawak,Kanowit,KFC Betong,3.8,(381)
+Sarawak,Kanowit,CCK Fresh Mart (Kanowit Branch),0,0
+Sarawak,Kanowit,KFC Saratok,3.6,(287)
+Sarawak,Kanowit,KFC Mukah,3.8,(849)
+Sarawak,Kanowit,KFC Sarikei,4.0,(772)
+Sarawak,Kanowit,Family W Mart Kanowit,4.0,(17)
+Sarawak,Kanowit,KFC Delta Mall,3.9,(326)
+Sarawak,Lanang,KFC Sibu Jaya,3.9,(557)
+Sarawak,Lanang,KFC Tanahmas,4.0,(920)
+Sarawak,Lanang,KFC LKC Sibu,4.0,(415)
+Sarawak,Lanang,KFC Wisma Sanyan,3.8,(154)
+Sarawak,Lanang,KFC Sibu 1,4.1,(548)
+Sarawak,Lanang,KFC Sing Kwong,3.7,(510)
+Sarawak,Lanang,KFC Sibu Bus Terminal,3.9,(316)
+Sarawak,Lanang,KFC Delta Mall,3.9,(326)
+Sarawak,Sibu,KFC Sibu 1,4.1,(548)
+Sarawak,Sibu,KFC LKC Sibu,4.0,(415)
+Sarawak,Sibu,KFC Sibu Jaya,3.9,(557)
+Sarawak,Sibu,KFC Delta Mall,3.9,(326)
+Sarawak,Sibu,KFC Sing Kwong,3.7,(510)
+Sarawak,Sibu,KFC Tanahmas,4.0,(920)
+Sarawak,Sibu,KFC Wisma Sanyan,3.8,(154)
+Sarawak,Sibu,KFC Sibu Bus Terminal,3.9,(316)
+Sarawak,Mukah,KFC Mukah,3.8,(849)
+Sarawak,Selangau,KFC Sibu Jaya,3.9,(557)
+Sarawak,Selangau,KFC Kidurong,3.8,(566)
+Sarawak,Selangau,KFC Tanahmas,4.0,(920)
+Sarawak,Selangau,KFC Sibu 1,4.1,(548)
+Sarawak,Selangau,KFC LKC Sibu,4.0,(415)
+Sarawak,Selangau,KFC Sri Aman,3.8,(735)
+Sarawak,Selangau,KFC Wisma Sanyan,3.8,(154)
+Sarawak,Selangau,KFC Kapit,3.9,(367)
+Sarawak,Selangau,KFC Sarikei,4.0,(772)
+Sarawak,Selangau,KFC Sing Kwong,3.7,(510)
+Sarawak,Selangau,KFC Sibu Bus Terminal,3.9,(316)
+Sarawak,Selangau,KFC Delta Mall,3.9,(326)
+Sarawak,Selangau,KFC Mukah,3.8,(849)
+Sarawak,Selangau,KFC Saratok,3.6,(287)
+Sarawak,Selangau,KFC Louis Junction,3.8,(255)
+Sarawak,Selangau,KFC Betong,3.8,(381)
+Sarawak,Kapit,KFC Kapit,3.9,(367)
+Sarawak,Hulu Rajang,KFC Tatau,4.0,(127)
+Sarawak,Bintulu,KFC Tatau,4.0,(127)
+Sarawak,Bintulu,KFC Paragon Bintulu,4.0,(702)
+Sarawak,Bintulu,KFC Medan Jaya,4.0,"(1,530)"
+Sarawak,Bintulu,KFC Times Square,3.8,(317)
+Sarawak,Bintulu,KFC Spring Bintulu,3.1,(57)
+Sarawak,Bintulu,KFC Kidurong,3.8,(566)
+Sarawak,Sibuti,KFC Kapit,3.9,(367)
+Sarawak,Sibuti,KFC Niah,4.0,(327)
+Sarawak,Sibuti,KFC Sibu Jaya,3.9,(557)
+Sarawak,Sibuti,KFC Boulevard,3.8,(339)
+Sarawak,Sibuti,KFC Senadin,3.3,(43)
+Sarawak,Sibuti,KFC Bau,3.7,(323)
+Sarawak,Sibuti,KFC Emart Miri,3.9,"(1,040)"
+Sarawak,Sibuti,KFC Emart Riam Miri,3.6,(450)
+Sarawak,Sibuti,KFC Mukah,3.8,(849)
+Sarawak,Sibuti,KFC Sibu 1,4.1,(548)
+Sarawak,Sibuti,KFC Taman Selera Drive Thru,3.6,(751)
+Sarawak,Sibuti,KFC LKC Sibu,4.0,(415)
+Sarawak,Miri,KFC Emart Miri,3.9,"(1,040)"
+Sarawak,Miri,KFC Emart Riam Miri,3.6,(450)
+Sarawak,Miri,KFC MARINA PARKCITY,3.9,(807)
+Sarawak,Miri,KFC Senadin,3.3,(43)
+Sarawak,Miri,KFC Boulevard,3.8,(339)
+Sarawak,Miri,KFC Bintang Plaza,3.7,(111)
+Sarawak,Miri,KFC Imperial Mall,3.9,(101)
+Sarawak,Miri,KFC Niah,4.0,(327)
+Sarawak,Miri,KFC Medan Jaya,4.0,"(1,530)"
+Sarawak,Miri,KFC Taman Selera Drive Thru,3.6,(751)
+Sarawak,Baram,KFC Niah,4.0,(327)
+Sarawak,Baram,KFC Sri Aman,3.8,(735)
+Sarawak,Baram,KFC Senadin,3.3,(43)
+Sarawak,Baram,KFC Bau,3.7,(323)
+Sarawak,Baram,KFC Emart Riam Miri,3.6,(450)
+Sarawak,Baram,KFC Taman Selera Drive Thru,3.6,(751)
+Sarawak,Baram,KFC Boulevard,3.8,(339)
+Sarawak,Baram,KFC MARINA PARKCITY,3.9,(807)
+Sarawak,Baram,KFC Sarawak Plaza,3.9,(491)
+Sarawak,Baram,KFC Serian Baru,3.9,(374)
+Sarawak,Baram,KFC Emart Miri,3.9,"(1,040)"
+Sarawak,Baram,KFC Aiman Mall,4.0,(903)
+Sarawak,Baram,KFC Tanahmas,4.0,(920)
+Sarawak,Baram,KFC Bako Drive Thru,4.0,"(1,204)"
+Sarawak,Baram,KFC Imperial Mall,3.9,(101)
+Sarawak,Baram,KFC Samariang,3.8,(69)
+Sarawak,Baram,KFC Betong,3.8,(381)
+Sarawak,Baram,KFC Emart Batu Kawa,3.9,"(1,546)"
+Sarawak,Baram,KFC PETROS Darul Hana DT,3.1,(66)
+Sarawak,Baram,KFC Sarikei,4.0,(772)
+Sarawak,Baram,KFC Mukah,3.8,(849)
+Sarawak,Baram,KFC Bintang Plaza,3.7,(111)
+Sarawak,Limbang,KFC Limbang,3.6,(323)
+Sarawak,Lawas,KFC Lawas,4.0,(495)
+Selangor,Sabak Bernam,KFC Sabak Bernam,3.9,(619)
+Selangor,Sungai Besar,KFC Sungai Besar,4.0,"(1,037)"
+Selangor,Hulu Selangor,KFC BHPetrol Tanjung Malim,3.6,"(1,162)"
+Selangor,Hulu Selangor,KFC Shell Bukit Beruntung Drive Thru,3.6,(206)
+Selangor,Hulu Selangor,KFC Caltex Ulu Yam Drive Thru,3.2,(208)
+Selangor,Hulu Selangor,KFC IJOK,3.9,(860)
+Selangor,Hulu Selangor,KFC Bukit Sentosa Rawang,3.5,"(1,233)"
+Selangor,Hulu Selangor,KFC Pusat Bandar Rawang,3.6,(478)
+Selangor,Hulu Selangor,KFC Batang Kali,3.9,"(1,350)"
+Selangor,Hulu Selangor,KFC Kuala Kubu Baru,4.1,(468)
+Selangor,Hulu Selangor,KFC Rawang New Town,3.7,(999)
+Selangor,Hulu Selangor,KFC Petron Hulu Langat Drive Thru,3.7,(357)
+Selangor,Tanjong Karang,KFC Tanjong Karang,4.0,(616)
+Selangor,Kuala Selangor,KFC Kuala Selangor,4.0,(867)
+Selangor,Kuala Selangor,KFC Tanjong Karang,4.0,(616)
+Selangor,Kuala Selangor,KFC Lotus's Kuala Selangor,3.3,(81)
+Selangor,Selayang,KFC Selayang,3.7,"(1,085)"
+Selangor,Selayang,KFC Selayang Mall,3.0,(382)
+Selangor,Selayang,KFC Bandar Baru Selayang,3.5,(830)
+Selangor,Selayang,KFC Sri Gombak,3.7,"(1,694)"
+Selangor,Selayang,KFC Lotus's Extra Selayang,2.5,(197)
+Selangor,Gombak,KFC Kuala Selangor,4.0,(867)
+Selangor,Gombak,KFC Sri Gombak,3.7,"(1,694)"
+Selangor,Gombak,KFC @ TF Value-Mart Batu Caves,3.0,(258)
+Selangor,Gombak,KFC Bandar Baru Selayang,3.5,(830)
+Selangor,Ampang,KFC Kuala Selangor,4.0,(867)
+Selangor,Ampang,KFC Ampang Point,3.8,(545)
+Selangor,Ampang,KFC Ampang 2,3.7,"(1,205)"
+Selangor,Ampang,KFC AEON BiG Ampang,3.7,(391)
+Selangor,Ampang,KFC Lotus's Ampang,2.7,(203)
+Selangor,Ampang,KFC Tasik Puteri Drive-thru,3.2,(682)
+Selangor,Ampang,KFC Taman Cempaka (Axis Atrium),3.8,(380)
+Selangor,Ampang,KFC Taman Putra,3.8,(910)
+Selangor,Pandan,KFC @ Desa Pandan,4.1,"(1,342)"
+Selangor,Pandan,KFC Pandan Indah,3.5,(699)
+Selangor,Pandan,KFC SEKINCHAN,3.8,(496)
+Selangor,Pandan,KFC Lotus's Ampang,2.7,(203)
+Selangor,Pandan,KFC Taman Putra,3.8,(910)
+Selangor,Pandan,KFC Taman Cempaka (Axis Atrium),3.8,(380)
+Selangor,Hulu Langat,KFC Kuala Selangor,4.0,(867)
+Selangor,Hulu Langat,KFC Petron Hulu Langat Drive Thru,3.7,(357)
+Selangor,Bangi,KFC BANGI UTAMA,3.7,(929)
+Selangor,Bangi,KFC Southville City,3.3,(95)
+Selangor,Bangi,KFC Bandar Seri Putra Bangi,4.0,"(1,003)"
+Selangor,Bangi,KFC DE Centrum,3.0,(343)
+Selangor,Bangi,KFC PKNS Bangi,3.5,(825)
+Selangor,Puchong,KFC Kuala Selangor,4.0,(867)
+Selangor,Puchong,KFC,2.6,(359)
+Selangor,Puchong,KFC Puchong,3.2,(956)
+Selangor,Puchong,KFC Bukit Sentosa Rawang,3.5,"(1,233)"
+Selangor,Puchong,KFC,3.1,(924)
+Selangor,Puchong,KFC @Lotus's Puchong,3.3,(690)
+Selangor,Puchong,KFC,3.4,"(2,427)"
+Selangor,Puchong,KFC Sri Jati Puchong DT,3.4,"(1,613)"
+Selangor,Puchong,KFC Petronas Puchong Gateway Drive-Thru,3.7,(261)
+Selangor,Puchong,KFC Caltex Coalfields.,3.7,(754)
+Selangor,Puchong,KFC @ Giant Bandar Kinrara,3.0,(487)
+Selangor,Puchong,"KFC @ IOI Mall, Puchong",2.6,(173)
+Selangor,Subang,KFC AEON Big Subang,3.5,(453)
+Selangor,Subang,KFC SUBANG 2 DT,3.9,"(2,466)"
+Selangor,Subang,KFC Summit USJ,3.4,(221)
+Selangor,Subang,KFC,3.6,(862)
+Selangor,Subang,KFC @ Taipan Business Centre,3.6,(910)
+Selangor,Subang,KFC Petronas USJ 20 DT,3.9,"(1,357)"
+Selangor,Subang,KFC Mydin USJ,3.8,(199)
+Selangor,Subang,KFC Alam Megah,3.7,"(1,216)"
+Selangor,Subang,KFC Sunway Metro,2.4,(230)
+Selangor,Subang,KFC Da Men Mall,2.8,(164)
+Selangor,Petaling Jaya,"KFC @ Jalan Barat, Petaling Jaya",4.0,"(1,215)"
+Selangor,Petaling Jaya,KFC PJ State,3.9,(796)
+Selangor,Petaling Jaya,KFC Damansara Damai,3.6,(835)
+Selangor,Petaling Jaya,KFC Kota Damansara DT,3.7,"(1,058)"
+Selangor,Petaling Jaya,KFC Centerpoint Bandar Utama,3.7,(488)
+Selangor,Petaling Jaya,KFC Kota Damansara,3.8,"(1,138)"
+Selangor,Petaling Jaya,KFC Paradigm Mall PJ,2.0,(255)
+Selangor,Petaling Jaya,KFC SS6,3.5,(797)
+Selangor,Petaling Jaya,KFC Lotus Ara Damansara,3.3,(383)
+Selangor,Petaling Jaya,KFC IOI Mall Damansara,1.8,(124)
+Selangor,Petaling Jaya,KFC VSQ,3.9,(316)
+Selangor,Petaling Jaya,KFC @ Seapark,3.6,(852)
+Selangor,Petaling Jaya,KFC Jalan Universiti DT,3.9,"(3,256)"
+Selangor,Petaling Jaya,KFC Petronas Petaling Utama Drive Thru,3.4,(776)
+Selangor,Petaling Jaya,KFC @ Giant Kota Damansara,3.3,(183)
+Selangor,Petaling Jaya,KFC Bandar Utama,3.4,(562)
+Selangor,Petaling Jaya,KFC,3.4,(246)
+Selangor,Petaling Jaya,KFC,3.0,(253)
+Selangor,Petaling Jaya,KFC Sunway Metro,2.4,(230)
+Selangor,Petaling Jaya,KFC,2.8,(568)
+Selangor,Petaling Jaya,KFC Bandar Sri Damansara,3.5,(962)
+Selangor,Petaling Jaya,KFC Shell NKVE DT,3.9,(797)
+Selangor,Petaling Jaya,KFC • Sri Manja Square,3.5,(873)
+Selangor,Petaling Jaya,KFC Sunway Mentari,3.2,(626)
+Selangor,Petaling Jaya,KFC,4.0,(967)
+Selangor,Petaling Jaya,KFC R&R Jejantas Sungai Buloh (KFC OHB Sg Buloh),3.9,"(1,858)"
+Selangor,Petaling Jaya,KFC SUBANG 2 DT,3.9,"(2,466)"
+Selangor,Petaling Jaya,KFC Sunway Pyramid,3.6,"(1,211)"
+Selangor,Damansara,KFC Tanjong Karang,4.0,(616)
+Selangor,Damansara,KFC Kuala Selangor,4.0,(867)
+Selangor,Damansara,KFC Damansara Damai,3.6,(835)
+Selangor,Damansara,KFC Bukit Sentosa Rawang,3.5,"(1,233)"
+Selangor,Damansara,KFC BHPetrol Tanjung Malim,3.6,"(1,162)"
+Selangor,Damansara,KFC Bandar Country Homes,3.5,(875)
+Selangor,Damansara,KFC Kota Damansara DT,3.7,"(1,058)"
+Selangor,Damansara,KFC Tanjung Malim,3.9,(899)
+Selangor,Damansara,KFC Lotus Ara Damansara,3.3,(383)
+Selangor,Damansara,KFC Kota Damansara,3.8,"(1,138)"
+Selangor,Damansara,KFC IJOK,3.9,(860)
+Selangor,Damansara,KFC IOI Mall Damansara,1.8,(124)
+Selangor,Damansara,KFC Bandar Sri Damansara,3.5,(962)
+Selangor,Damansara,KFC Setia Rawang,3.8,(677)
+Selangor,Damansara,KFC Rawang New Town,3.7,(999)
+Selangor,Damansara,KFC,3.4,(246)
+Selangor,Damansara,KFC @ Giant Kota Damansara,3.3,(183)
+Selangor,Damansara,KFC Pusat Bandar Rawang,3.6,(478)
+Selangor,Damansara,KFC Shell NKVE DT,3.9,(797)
+Selangor,Damansara,KFC,3.0,(253)
+Selangor,Damansara,KFC,2.8,(568)
+Selangor,Damansara,KFC Saujana Utama Sungai Buloh,3.6,"(1,120)"
+Selangor,Damansara,KFC Lotus's Kuala Selangor,3.3,(81)
+Selangor,Damansara,KFC Bandar Baru Sungai Buloh (Sg Buloh 2),3.8,"(1,171)"
+Selangor,Damansara,KFC SS6,3.5,(797)
+Selangor,Damansara,KFC SEKINCHAN,3.8,(496)
+Selangor,Damansara,KFC Puncak Alam,3.8,"(1,386)"
+Selangor,Damansara,KFC Petronas Petaling Utama Drive Thru,3.4,(776)
+Selangor,Damansara,KFC @ Seapark,3.6,(852)
+Selangor,Damansara,KFC Sunway Metro,2.4,(230)
+Selangor,Damansara,"KFC @ Jalan Barat, Petaling Jaya",4.0,"(1,215)"
+Selangor,Damansara,KFC,4.0,(967)
+Selangor,Damansara,KFC SUBANG 2 DT,3.9,"(2,466)"
+Selangor,Damansara,KFC Bandar Utama,3.4,(562)
+Selangor,Damansara,KFC VSQ,3.9,(316)
+Selangor,Damansara,KFC • Sri Manja Square,3.5,(873)
+Selangor,Damansara,KFC Batang Kali,3.9,"(1,350)"
+Selangor,Damansara,KFC Desa Aman Puri,3.6,(615)
+Selangor,Damansara,KFC Petronas Puchong Gateway Drive-Thru,3.7,(261)
+Selangor,Sungai Buloh,KFC Sungai Buloh 1,3.7,(451)
+Selangor,Sungai Buloh,KFC Bandar Baru Sungai Buloh (Sg Buloh 2),3.8,"(1,171)"
+Selangor,Sungai Buloh,KFC R&R Jejantas Sungai Buloh (KFC OHB Sg Buloh),3.9,"(1,858)"
+Selangor,Sungai Buloh,KFC Saujana Utama Sungai Buloh,3.6,"(1,120)"
+Selangor,Sungai Buloh,KFC Caltex Coalfields.,3.7,(754)
+Selangor,Shah Alam,KFC Kuala Selangor,4.0,(867)
+Selangor,Shah Alam,KFC Puncak Alam,3.8,"(1,386)"
+Selangor,Shah Alam,KFC Giant Shah Alam,3.1,(115)
+Selangor,Shah Alam,KFC Section 20 Shah Alam,3.7,(678)
+Selangor,Shah Alam,KFC DT @ Setia Impian,3.7,"(1,758)"
+Selangor,Shah Alam,KFC Petron Setia Alam DT,3.6,(876)
+Selangor,Shah Alam,KFC Tanjung Malim,3.9,(899)
+Selangor,Shah Alam,KFC Shah Alam 1,4.1,(469)
+Selangor,Shah Alam,KFC SUBANG 2 DT,3.9,"(2,466)"
+Selangor,Shah Alam,KFC Extreme Park S13 Shah Alam,4.0,"(1,617)"
+Selangor,Shah Alam,KFC MSU SHAH ALAM,1.6,(41)
+Selangor,Shah Alam,KFC Bukit Sentosa Rawang,3.5,"(1,233)"
+Selangor,Shah Alam,KFC Lotus's Shah Alam,3.7,(151)
+Selangor,Shah Alam,KFC AEON Shah Alam,3.7,(488)
+Selangor,Shah Alam,KFC Denai Alam,3.4,"(1,030)"
+Selangor,Shah Alam,KFC Shah Alam 2,3.6,(895)
+Selangor,Shah Alam,KFC Shah Alam Section2 Drive Thru,3.8,"(1,161)"
+Selangor,Shah Alam,KFC Shah Alam Section 7 DT,3.9,"(2,074)"
+Selangor,Shah Alam,KFC Alam Impian,2.2,(79)
+Selangor,Shah Alam,KFC Alam Sentral,3.0,(41)
+Selangor,Shah Alam,KFC Alam Megah,3.7,"(1,216)"
+Selangor,Shah Alam,KFC Bukit Jelutong,3.7,(951)
+Selangor,Shah Alam,KFC Central i-City,2.5,(111)
+Selangor,Shah Alam,KFC Bukit Kemuning DriveThru,3.8,"(1,529)"
+Selangor,Shah Alam,KFC Saujana Utama Sungai Buloh,3.6,"(1,120)"
+Selangor,Shah Alam,KFC Sungai Buloh 1,3.7,(451)
+Selangor,Shah Alam,I-City Park - KFC,4.0,(638)
+Selangor,Shah Alam,KFC Taman Sri Muda,3.9,"(1,085)"
+Selangor,Shah Alam,KFC Bukit Raja DT,3.8,(914)
+Selangor,Shah Alam,KFC AEON BiG Bukit Rimau,3.4,(372)
+Selangor,Shah Alam,KFC Kota Kemuning,3.7,(929)
+Selangor,Kapar,KFC KAPAR,3.9,"(1,103)"
+Selangor,Kapar,KFC Petron Sementa DT,3.8,(200)
+Selangor,Kapar,KFC Aeon Big Kapar,3.9,"(1,815)"
+Selangor,Kapar,KFC Jalan Kapar,3.8,(669)
+Selangor,Klang,KFC Tanjong Karang,4.0,(616)
+Selangor,Klang,KFC Bukit Sentosa Rawang,3.5,"(1,233)"
+Selangor,Klang,KFC Bukit Raja DT,3.8,(914)
+Selangor,Klang,KFC,4.1,"(1,295)"
+Selangor,Klang,KFC Klang Utama,3.4,(379)
+Selangor,Klang,KFC - Bandar Sentosa,3.6,"(2,201)"
+Selangor,Klang,KFC @ Jalan Meru,3.9,(532)
+Selangor,Klang,KFC Teluk Pulai,3.7,(956)
+Selangor,Klang,KFC KAPAR,3.9,"(1,103)"
+Selangor,Klang,KFC Petron Sementa DT,3.8,(200)
+Selangor,Klang,KFC Pekan Meru,3.8,(636)
+Selangor,Klang,KFC AEON Mall Bukit Raja,3.8,(197)
+Selangor,Klang,KFC Aeon Big Kapar,3.9,"(1,815)"
+Selangor,Klang,KFC BHP BANDAR SULTAN SULAIMAN DT,3.9,(201)
+Selangor,Klang,"KFC Lotus's Bukit Tinggi, Klang",3.5,(378)
+Selangor,Klang,KFC Port Klang,3.8,"(1,163)"
+Selangor,Klang,KFC - Giant Bukit Tinggi,3.7,(471)
+Selangor,Klang,KFC Pandamaran,3.7,(903)
+Selangor,Klang,KFC Gravit8 Klang,3.5,(435)
+Selangor,Klang,KFC AEON Bukit Tinggi,3.6,(290)
+Selangor,Klang,KFC Jalan Kapar,3.8,(669)
+Selangor,Kota Raja,KFC Bukit Raja DT,3.8,(914)
+Selangor,Kota Raja,KFC AEON Mall Bukit Raja,3.8,(197)
+Selangor,Kota Raja,KFC BHP BANDAR SULTAN SULAIMAN DT,3.9,(201)
+Selangor,Kota Raja,KFC KAPAR,3.9,"(1,103)"
+Selangor,Kota Raja,KFC Pekan Meru,3.8,(636)
+Selangor,Kota Raja,KFC Klang Utama,3.4,(379)
+Selangor,Kota Raja,KFC Port Klang,3.8,"(1,163)"
+Selangor,Kota Raja,KFC - Bandar Sentosa,3.6,"(2,201)"
+Selangor,Kota Raja,KFC DT @ Setia Impian,3.7,"(1,758)"
+Selangor,Kota Raja,KFC Kota Damansara,3.8,"(1,138)"
+Selangor,Kota Raja,KFC,4.1,"(1,295)"
+Selangor,Kota Raja,KFC Kota Damansara DT,3.7,"(1,058)"
+Selangor,Kota Raja,"KFC Lotus's Bukit Tinggi, Klang",3.5,(378)
+Selangor,Kota Raja,KFC Raja Laut,3.9,"(2,346)"
+Selangor,Kuala Langat,KFC Kuala Selangor,4.0,(867)
+Selangor,Kuala Langat,KFC Lotus's Kuala Selangor,3.3,(81)
+Selangor,Kuala Langat,KFC Petron Hulu Langat Drive Thru,3.7,(357)
+Selangor,Kuala Langat,KFC Teluk Panglima Garang,3.9,(956)
+Selangor,Sepang,KFC Kota Warisan Drive-Thru,3.7,"(1,920)"
+Selangor,Sepang,KFC Sungai Pelek,3.6,(688)
+Selangor,Sepang,KFC Dengkil,3.7,"(1,473)"
+Selangor,Sepang,KFC @ Salak Tinggi,3.8,(960)
+Selangor,Sepang,KFC SALAK PERDANA,4.1,(417)
+Selangor,Sepang,KFC Cyber Valley DT,3.4,"(1,105)"
+Selangor,Sepang,KFC KLIA Terminal 2 Arrival,3.6,(386)
+Selangor,Sepang,KFC KLIA 1 ANJUNG,3.8,(634)
+Selangor,Sepang,KFC Taman Bunga Raya Sepang,3.6,(204)
+Terengganu,Besut,KFC Petron Kg Raja Besut,3.8,(708)
+Terengganu,Setiu,KFC Kuala Berang,3.8,(642)
+Terengganu,Setiu,KFC Bukit Payong,3.9,(324)
+Terengganu,Setiu,KFC Kuala Terengganu 1,3.9,"(1,074)"
+Terengganu,Setiu,Serbuk Cheese Kfc Kuala Nerus,4.5,(8)
+Terengganu,Setiu,KFC Giant Kuala Terengganu,3.7,(62)
+Terengganu,Setiu,KFC Petron Kg Raja Besut,3.8,(708)
+Terengganu,Setiu,KFC Jertih,4.0,"(1,052)"
+Terengganu,Setiu,KFC Setiu,3.7,(624)
+Terengganu,Kuala Nerus,KFC Kuala Berang,3.8,(642)
+Terengganu,Kuala Nerus,KFC Gong Badak Drive Thru,1.0,(1)
+Terengganu,Kuala Nerus,Serbuk Cheese Kfc Kuala Nerus,4.5,(8)
+Terengganu,Kuala Nerus,KFC Kuala Terengganu 1,3.9,"(1,074)"
+Terengganu,Kuala Nerus,KFC Mydin (Cabang Tiga),3.8,(73)
+Terengganu,Kuala Nerus,KFC Giant Kuala Terengganu,3.7,(62)
+Terengganu,Kuala Nerus,"KFC Paya Keladi, Terengganu",4.0,(599)
+Terengganu,Kuala Nerus,KFC Dataran Austin,4.1,(465)
+Terengganu,Kuala Nerus,KFC Gong Badak Drive Thru,3.9,"(1,277)"
+Terengganu,Kuala Terengganu,KFC Kuala Berang,3.8,(642)
+Terengganu,Kuala Terengganu,KFC Kuala Terengganu 1,3.9,"(1,074)"
+Terengganu,Kuala Terengganu,KFC Ajil,3.8,(84)
+Terengganu,Kuala Terengganu,"KFC Paya Keladi, Terengganu",4.0,(599)
+Terengganu,Kuala Terengganu,KFC Giant Kuala Terengganu,3.7,(62)
+Terengganu,Kuala Terengganu,KFC Mydin (Cabang Tiga),3.8,(73)
+Terengganu,Kuala Terengganu,KFC KTCC,3.3,(86)
+Terengganu,Kuala Terengganu,KFC Bukit Payong,3.9,(324)
+Terengganu,Marang,KFC Kuala Berang,3.8,(642)
+Terengganu,Marang,KFC Bukit Payong,3.9,(324)
+Terengganu,Marang,KFC Bukit Payung,1.0,(1)
+Terengganu,Marang,KFC Kuala Terengganu 1,3.9,"(1,074)"
+Terengganu,Marang,KFC Mydin (Cabang Tiga),3.8,(73)
+Terengganu,Marang,KFC Giant Kuala Terengganu,3.7,(62)
+Terengganu,Marang,KFC Marang,3.8,(619)
+Terengganu,Hulu Terengganu,KFC Kuala Berang,3.8,(642)
+Terengganu,Hulu Terengganu,KFC Ajil,3.8,(84)
+Terengganu,Hulu Terengganu,KFC Kuala Terengganu 1,3.9,"(1,074)"
+Terengganu,Hulu Terengganu,"KFC Paya Keladi, Terengganu",4.0,(599)
+Terengganu,Hulu Terengganu,KFC Giant Kuala Terengganu,3.7,(62)
+Terengganu,Hulu Terengganu,KFC Bukit Payong,3.9,(324)
+Terengganu,Hulu Terengganu,KFC Mydin (Cabang Tiga),3.8,(73)
+Terengganu,Hulu Terengganu,KFC KTCC,3.3,(86)
+Terengganu,Hulu Terengganu,KD Fried Chicken ( KDFC ),4.4,(667)
+Terengganu,Hulu Terengganu,KFC Gong Badak Drive Thru,1.0,(1)
+Terengganu,Hulu Terengganu,KFC Bukit Payung,1.0,(1)
+Terengganu,Dungun,KFC Petron Dungun Southbound Drivethru,4.3,(113)
+Terengganu,Dungun,KFC Dungun,3.8,"(1,088)"
+Terengganu,Kemaman,KFC Shell Kemaman DT,4.0,(163)
+Terengganu,Kemaman,KFC Shell Kemaman DT,2.5,(16)
+Terengganu,Kemaman,KFC Kemaman,3.7,"(1,052)"
+W.P. Kuala Lumpur,Kepong,KFC | ÆON BiG Kepong,3.7,(367)
+W.P. Kuala Lumpur,Kepong,KFC Lotus's Kepong,3.3,(400)
+W.P. Kuala Lumpur,Kepong,KFC AEON Metro Prima Kepong,3.1,(183)
+W.P. Kuala Lumpur,Kepong,KFC Desa Jaya,3.7,(753)
+W.P. Kuala Lumpur,Kepong,KFC Kepong 2 Drive Thru,3.5,"(1,877)"
+W.P. Kuala Lumpur,Batu,KFC • NU Sentral Mall,2.4,(228)
+W.P. Kuala Lumpur,Batu,KFC Pertama Complex,3.8,(678)
+W.P. Kuala Lumpur,Batu,KFC Bangsar,3.8,(355)
+W.P. Kuala Lumpur,Batu,KFC Jalan Sultan,3.6,(719)
+W.P. Kuala Lumpur,Batu,KFC Kok Lian,3.6,(591)
+W.P. Kuala Lumpur,Batu,KFC Raja Laut,3.9,"(2,346)"
+W.P. Kuala Lumpur,Batu,KFC | ÆON BiG Kepong,3.7,(367)
+W.P. Kuala Lumpur,Batu,KFC @ Avenue K,4.1,"(1,186)"
+W.P. Kuala Lumpur,Batu,KFC Sentul Raya,4.0,"(1,185)"
+W.P. Kuala Lumpur,Batu,KFC Petronas Metramac Cheras DT,3.6,"(1,278)"
+W.P. Kuala Lumpur,Batu,KFC Sri Gombak,3.7,"(1,694)"
+W.P. Kuala Lumpur,Batu,KFC Taman Danau Desa,3.6,(826)
+W.P. Kuala Lumpur,Batu,KFC @ TF Value-Mart Batu Caves,3.0,(258)
+W.P. Kuala Lumpur,Batu,KFC,3.7,"(1,212)"
+W.P. Kuala Lumpur,Batu,KFC Kepong 2 Drive Thru,3.5,"(1,877)"
+W.P. Kuala Lumpur,Batu,KFC Sentul Perdana,3.4,(604)
+W.P. Kuala Lumpur,Batu,KFC SUNWAY PUTRA,2.3,(212)
+W.P. Kuala Lumpur,Batu,"KFC @ Pavillion, Kuala Lumpur",3.0,"(1,067)"
+W.P. Kuala Lumpur,Batu,KFC Kuchai Lama DT,3.7,"(2,368)"
+W.P. Kuala Lumpur,Batu,KFC,3.7,(85)
+W.P. Kuala Lumpur,Batu,KFC Berjaya Times Square,2.7,(374)
+W.P. Kuala Lumpur,Batu,KFC Lotus's Extra Selayang,2.5,(197)
+W.P. Kuala Lumpur,Batu,KFC Mid Valley Megamall,3.5,(457)
+W.P. Kuala Lumpur,Batu,KFC,2.2,(152)
+W.P. Kuala Lumpur,Batu,KFC Sri Jati Puchong DT,3.4,"(1,613)"
+W.P. Kuala Lumpur,Batu,KFC Sri Hartamas,3.7,(866)
+W.P. Kuala Lumpur,Batu,KFC Wangsa Maju,3.7,(213)
+W.P. Kuala Lumpur,Batu,KFC Ampang 2,3.7,"(1,205)"
+W.P. Kuala Lumpur,Batu,KFC Balakong,3.8,(953)
+W.P. Kuala Lumpur,Batu,KFC Bandar Sri Damansara,3.5,(962)
+W.P. Kuala Lumpur,Batu,KFC Petronas TPM DT,3.4,"(1,310)"
+W.P. Kuala Lumpur,Wangsa Maju,KFC Wangsa Maju,3.8,(993)
+W.P. Kuala Lumpur,Wangsa Maju,KFC Wangsa Maju,3.7,(213)
+W.P. Kuala Lumpur,Wangsa Maju,KFC Aeon Big Wangsa Maju,4.0,"(1,704)"
+W.P. Kuala Lumpur,Wangsa Maju,KFC Taman Melawati,3.7,(509)
+W.P. Kuala Lumpur,Wangsa Maju,KFC Setiawangsa,3.8,(796)
+W.P. Kuala Lumpur,Wangsa Maju,KFC • NU Sentral Mall,2.4,(228)
+W.P. Kuala Lumpur,Wangsa Maju,KFC DT PETRONAS WANGSA MELAWATI,3.4,(465)
+W.P. Kuala Lumpur,Segambut,KFC,3.7,"(1,212)"
+W.P. Kuala Lumpur,Setiawangsa,"KFC AEON AU2, Setiawangsa",3.5,(213)
+W.P. Kuala Lumpur,Setiawangsa,KFC Setiawangsa,3.8,(796)
+W.P. Kuala Lumpur,Titiwangsa,KFC KL Sentral,2.7,(220)
+W.P. Kuala Lumpur,Titiwangsa,KFC • NU Sentral Mall,2.4,(228)
+W.P. Kuala Lumpur,Titiwangsa,KFC Raja Laut,3.9,"(2,346)"
+W.P. Kuala Lumpur,Titiwangsa,KFC Pertama Complex,3.8,(678)
+W.P. Kuala Lumpur,Titiwangsa,KFC Wisma Hualang,3.7,"(1,165)"
+W.P. Kuala Lumpur,Titiwangsa,KFC SUNWAY PUTRA,2.3,(212)
+W.P. Kuala Lumpur,Titiwangsa,KFC Sentul Raya,4.0,"(1,185)"
+W.P. Kuala Lumpur,Titiwangsa,KFC Tun Razak Exchange TRX,3.1,(293)
+W.P. Kuala Lumpur,Titiwangsa,KFC @ Avenue K,4.1,"(1,186)"
+W.P. Kuala Lumpur,Titiwangsa,KFC,3.7,(85)
+W.P. Kuala Lumpur,Titiwangsa,"KFC @ Pavillion, Kuala Lumpur",3.0,"(1,067)"
+W.P. Kuala Lumpur,Titiwangsa,KFC Setiawangsa,3.8,(796)
+W.P. Kuala Lumpur,Titiwangsa,KFC Berjaya Times Square,2.7,(374)
+W.P. Kuala Lumpur,Titiwangsa,KFC Jalan Universiti DT,3.9,"(3,256)"
+W.P. Kuala Lumpur,Titiwangsa,KFC Wangsa Maju,3.7,(213)
+W.P. Kuala Lumpur,Titiwangsa,KFC,2.2,(152)
+W.P. Kuala Lumpur,Titiwangsa,KFC Medan Niaga Sg Besi,3.7,(838)
+W.P. Kuala Lumpur,Titiwangsa,KFC Genting Klang,3.3,"(1,876)"
+W.P. Kuala Lumpur,Titiwangsa,KFC KL Gateway Mall,3.4,(372)
+W.P. Kuala Lumpur,Titiwangsa,KFC Petronas TPM DT,3.4,"(1,310)"
+W.P. Kuala Lumpur,Titiwangsa,KFC Viva Jalan Ipoh,3.7,(160)
+W.P. Kuala Lumpur,Bukit Bintang,"KFC @ Pavillion, Kuala Lumpur",3.0,"(1,067)"
+W.P. Kuala Lumpur,Bukit Bintang,KFC Low Yat Plaza,3.5,(845)
+W.P. Kuala Lumpur,Bukit Bintang,KFC KL Sentral,2.7,(220)
+W.P. Kuala Lumpur,Bukit Bintang,KFC Jalan Sultan,3.6,(719)
+W.P. Kuala Lumpur,Bukit Bintang,KFC • NU Sentral Mall,2.4,(228)
+W.P. Kuala Lumpur,Bukit Bintang,KFC Berjaya Times Square,2.7,(374)
+W.P. Kuala Lumpur,Bukit Bintang,KFC Bukit Bintang,4.0,(4)
+W.P. Kuala Lumpur,Bukit Bintang,KFC Bukit Bintang,3.9,"(4,441)"
+W.P. Kuala Lumpur,Lembah Pantai,KFC Menara UOA Bangsar,2.6,(118)
+W.P. Kuala Lumpur,Lembah Pantai,KFC Bangsar,3.8,(355)
+W.P. Kuala Lumpur,Lembah Pantai,KFC KL Sentral,2.7,(220)
+W.P. Kuala Lumpur,Lembah Pantai,KFC KL Gateway Mall,3.4,(372)
+W.P. Kuala Lumpur,Lembah Pantai,KFC • NU Sentral Mall,2.4,(228)
+W.P. Kuala Lumpur,Lembah Pantai,KFC Pertama Complex,3.8,(678)
+W.P. Kuala Lumpur,Lembah Pantai,KFC Mid Valley Megamall,3.5,(457)
+W.P. Kuala Lumpur,Lembah Pantai,KFC Jalan Universiti DT,3.9,"(3,256)"
+W.P. Kuala Lumpur,Lembah Pantai,KFC Raja Laut,3.9,"(2,346)"
+W.P. Kuala Lumpur,Lembah Pantai,KFC Petronas Metramac Cheras DT,3.6,"(1,278)"
+W.P. Kuala Lumpur,Lembah Pantai,"KFC @ Pavillion, Kuala Lumpur",3.0,"(1,067)"
+W.P. Kuala Lumpur,Lembah Pantai,KFC BANDAR PERMAISURI KL,3.6,"(1,298)"
+W.P. Kuala Lumpur,Lembah Pantai,KFC Medan Niaga Sg Besi,3.7,(838)
+W.P. Kuala Lumpur,Lembah Pantai,KFC Berjaya Times Square,2.7,(374)
+W.P. Kuala Lumpur,Lembah Pantai,KFC,2.2,(152)
+W.P. Kuala Lumpur,Lembah Pantai,KFC Sri Petaling,3.2,(206)
+W.P. Kuala Lumpur,Seputeh,KFC KL Sentral,2.7,(220)
+W.P. Kuala Lumpur,Seputeh,KFC • NU Sentral Mall,2.4,(228)
+W.P. Kuala Lumpur,Seputeh,KFC Mid Valley Megamall,3.5,(457)
+W.P. Kuala Lumpur,Seputeh,KFC Taman Danau Desa,3.6,(826)
+W.P. Kuala Lumpur,Seputeh,KFC Kuchai Lama DT,3.7,"(2,368)"
+W.P. Kuala Lumpur,Seputeh,KFC Pertama Complex,3.8,(678)
+W.P. Kuala Lumpur,Seputeh,KFC KL Gateway Mall,3.4,(372)
+W.P. Kuala Lumpur,Seputeh,KFC Raja Laut,3.9,"(2,346)"
+W.P. Kuala Lumpur,Seputeh,KFC Jalan Universiti DT,3.9,"(3,256)"
+W.P. Kuala Lumpur,Seputeh,KFC Medan Niaga Sg Besi,3.7,(838)
+W.P. Kuala Lumpur,Seputeh,KFC Berjaya Times Square,2.7,(374)
+W.P. Kuala Lumpur,Seputeh,KFC SUNWAY PUTRA,2.3,(212)
+W.P. Kuala Lumpur,Seputeh,"KFC @ Pavillion, Kuala Lumpur",3.0,"(1,067)"
+W.P. Kuala Lumpur,Seputeh,KFC Low Yat Plaza,3.5,(845)
+W.P. Kuala Lumpur,Seputeh,KFC Sri Hartamas,3.7,(866)
+W.P. Kuala Lumpur,Seputeh,KFC,2.2,(152)
+W.P. Kuala Lumpur,Seputeh,KFC Petronas TPM DT,3.4,"(1,310)"
+W.P. Kuala Lumpur,Seputeh,KFC Bandar Sri Damansara,3.5,(962)
+W.P. Kuala Lumpur,Cheras,KFC Taman Midah HUB,3.4,(108)
+W.P. Kuala Lumpur,Cheras,KFC Taman Pertama Cheras,3.7,"(1,305)"
+W.P. Kuala Lumpur,Cheras,KFC Sunway Velocity Mall,2.8,(488)
+W.P. Kuala Lumpur,Cheras,KFC Petronas Metramac Cheras DT,3.6,"(1,278)"
+W.P. Kuala Lumpur,Cheras,KFC • Taman Connaught,3.6,(926)
+W.P. Kuala Lumpur,Cheras,KFC AEON Taman Maluri,2.8,(450)
+W.P. Kuala Lumpur,Cheras,KFC KL Sentral,2.7,(220)
+W.P. Kuala Lumpur,Cheras,KFC BANDAR PERMAISURI KL,3.6,"(1,298)"
+W.P. Kuala Lumpur,Bandar Tun Razak,KFC Tun Razak Exchange TRX,3.1,(293)
+W.P. Kuala Lumpur,Bandar Tun Razak,KFC KL Sentral,2.7,(220)
+W.P. Kuala Lumpur,Bandar Tun Razak,KFC Jalan Sultan,3.6,(719)
+W.P. Kuala Lumpur,Bandar Tun Razak,KFC Razak City Sungai Besi,4.1,(102)
+W.P. Kuala Lumpur,Bandar Tun Razak,KFC • NU Sentral Mall,2.4,(228)
+W.P. Kuala Lumpur,Bandar Tun Razak,KFC Intermark Mall,3.2,(158)
+W.P. Kuala Lumpur,Bandar Tun Razak,KFC Jalan Tun Perak,3.7,(849)
+W.P. Kuala Lumpur,Bandar Tun Razak,KFC BANDAR PERMAISURI KL,3.6,"(1,298)"
+W.P. Kuala Lumpur,Bandar Tun Razak,KFC Bangsar,3.8,(355)
+W.P. Kuala Lumpur,Bandar Tun Razak,KFC @ Avenue K,4.1,"(1,186)"
+W.P. Kuala Lumpur,Bandar Tun Razak,KFC Taman Pertama Cheras,3.7,"(1,305)"
+W.P. Kuala Lumpur,Bandar Tun Razak,KFC,3.7,(85)
+W.P. Kuala Lumpur,Bandar Tun Razak,KFC Berjaya Times Square,2.7,(374)
+W.P. Kuala Lumpur,Bandar Tun Razak,KFC Petronas Metramac Cheras DT,3.6,"(1,278)"
+W.P. Kuala Lumpur,Bandar Tun Razak,KFC Raja Laut,3.9,"(2,346)"
+W.P. Kuala Lumpur,Bandar Tun Razak,KFC,2.2,(152)
+W.P. Kuala Lumpur,Bandar Tun Razak,KFC,4.0,(967)
+W.P. Kuala Lumpur,Bandar Tun Razak,"KFC @ Pavillion, Kuala Lumpur",3.0,"(1,067)"
+W.P. Labuan,Labuan,KFC Labuan 1,4.1,(785)
+W.P. Labuan,Labuan,"KFC Utama Jaya, Labuan 3",4.1,(693)
+W.P. Labuan,Labuan,"KFC Financial Park, Labuan",4.1,(226)
+W.P. Putrajaya,Putrajaya,KFC Presint 15,3.6,"(1,083)"
+W.P. Putrajaya,Putrajaya,KFC IOI City Mall Putrajaya,3.0,(413)

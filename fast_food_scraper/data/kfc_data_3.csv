@@ -1,223 +1,223 @@
-State,Area,Count
-Johor,Segamat,3
-Johor,Sekijang,10
-Johor,Labis,1
-Johor,Pagoh,2
-Johor,Ledang,1
-Johor,Bakri,10
-Johor,Muar,7
-Johor,Parit Sulong,1
-Johor,Ayer Hitam,1
-Johor,Sri Gading,7
-Johor,Batu Pahat,6
-Johor,Simpang Renggam,1
-Johor,Kluang,6
-Johor,Sembrong,10
-Johor,Mersing,3
-Johor,Tenggara,3
-Johor,Kota Tinggi,3
-Johor,Pengerang,10
-Johor,Tebrau,10
-Johor,Pasir Gudang,5
-Johor,Johor Bahru,10
-Johor,Pulai,10
-Johor,Iskandar Puteri,6
-Johor,Kulai,6
-Johor,Pontian,2
-Johor,Tanjung Piai,10
-Kedah,Langkawi,6
-Kedah,Jerlun,1
-Kedah,Kubang Pasu,7
-Kedah,Padang Terap,10
-Kedah,Pokok Sena,1
-Kedah,Alor Setar,7
-Kedah,Kuala Kedah,1
-Kedah,Pendang,2
-Kedah,Jerai,10
-Kedah,Sik,1
-Kedah,Merbok,7
-Kedah,Sungai Petani,10
-Kedah,Baling,1
-Kedah,Padang Serai,1
-Kedah,Kulim-Bandar Baharu,6
-Kelantan,Tumpat,1
-Kelantan,Pengkalan Chepa,1
-Kelantan,Kota Bharu,7
-Kelantan,Pasir Mas,3
-Kelantan,Rantau Panjang,1
-Kelantan,Kubang Kerian,1
-Kelantan,Bachok,1
-Kelantan,Ketereh,1
-Kelantan,Tanah Merah,1
-Kelantan,Pasir Puteh,1
-Kelantan,Machang,2
-Kelantan,Jeli,1
-Kelantan,Kuala Krai,2
-Kelantan,Gua Musang,1
-Melaka,Masjid Tanah,1
-Melaka,Alor Gajah,1
-Melaka,Tangga Batu,10
-Melaka,Hang Tuah Jaya,10
-Melaka,Kota Melaka,7
-Melaka,Jasin,6
-Negeri Sembilan,Jelebu,1
-Negeri Sembilan,Jempol,4
-Negeri Sembilan,Seremban,10
-Negeri Sembilan,Kuala Pilah,1
-Negeri Sembilan,Rasah,7
-Negeri Sembilan,Rembau,1
-Negeri Sembilan,Port Dickson,3
-Negeri Sembilan,Tampin,1
-Pahang,Cameron Highlands,1
-Pahang,Lipis,1
-Pahang,Raub,2
-Pahang,Jerantut,1
-Pahang,Indera Mahkota,2
-Pahang,Kuantan,10
-Pahang,Paya Besar,10
-Pahang,Pekan,2
-Pahang,Maran,1
-Pahang,Kuala Krau,7
-Pahang,Temerloh,2
-Pahang,Bentong,3
-Pahang,Bera,1
-Pahang,Rompin,1
-Perak,Gerik,1
-Perak,Lenggong,10
-Perak,Larut,10
-Perak,Parit Buntar,3
-Perak,Bagan Serai,1
-Perak,Bukit Gantang,10
-Perak,Taiping,6
-Perak,Padang Rengas,10
-Perak,Sungai Siput,1
-Perak,Tambun,1
-Perak,Ipoh Timor,10
-Perak,Ipoh Barat,10
-Perak,Batu Gajah,1
-Perak,Kuala Kangsar,2
-Perak,Beruas,10
-Perak,Parit,10
-Perak,Kampar,3
-Perak,Gopeng,2
-Perak,Tapah,2
-Perak,Pasir Salak,10
-Perak,Lumut,1
-Perak,Bagan Datuk,10
-Perak,Teluk Intan,2
-Perak,Tanjong Malim,2
-Perlis,Padang Besar,1
-Perlis,Kangar,3
-Perlis,Arau,1
-Pulau Pinang,Kepala Batas,3
-Pulau Pinang,Tasek Gelugor,10
-Pulau Pinang,Bagan,7
-Pulau Pinang,Permatang Pauh,2
-Pulau Pinang,Bukit Mertajam,7
-Pulau Pinang,Batu Kawan,2
-Pulau Pinang,Nibong Tebal,1
-Pulau Pinang,Bukit Bendera,7
-Pulau Pinang,Tanjong,2
-Pulau Pinang,Jelutong,8
-Pulau Pinang,Bukit Gelugor,10
-Pulau Pinang,Bayan Baru,5
-Pulau Pinang,Balik Pulau,2
-Sabah,Kudat,1
-Sabah,Kota Marudu,2
-Sabah,Kota Belud,1
-Sabah,Tuaran,3
-Sabah,Sepanggar,1
-Sabah,Kota Kinabalu,10
-Sabah,Putatan,1
-Sabah,Penampang,3
-Sabah,Papar,3
-Sabah,Kimanis,10
-Sabah,Beaufort,1
-Sabah,Sipitang,1
-Sabah,Ranau,1
-Sabah,Keningau,1
-Sabah,Tenom,1
-Sabah,Pensiangan,1
-Sabah,Beluran,1
-Sabah,Libaran,1
-Sabah,Batu Sapi,7
-Sabah,Sandakan,5
-Sabah,Kinabatangan,1
-Sabah,Lahad Datu,3
-Sabah,Semporna,2
-Sabah,Tawau,9
-Sabah,Kalabakan,10
-Sarawak,Mas Gading,7
-Sarawak,Santubong,10
-Sarawak,Petra Jaya,3
-Sarawak,Bandar Kuching,10
-Sarawak,Stampin,10
-Sarawak,Kota Samarahan,4
-Sarawak,Puncak Borneo,10
-Sarawak,Serian,3
-Sarawak,Batang Sadong,26
-Sarawak,Batang Lupar,18
-Sarawak,Sri Aman,1
-Sarawak,Lubok Antu,4
-Sarawak,Betong,1
-Sarawak,Saratok,1
-Sarawak,Tanjong Manis,7
-Sarawak,Igan,7
-Sarawak,Sarikei,1
-Sarawak,Julau,7
-Sarawak,Kanowit,10
-Sarawak,Lanang,10
-Sarawak,Sibu,9
-Sarawak,Mukah,1
-Sarawak,Selangau,13
-Sarawak,Kapit,1
-Sarawak,Hulu Rajang,1
-Sarawak,Bintulu,7
-Sarawak,Sibuti,20
-Sarawak,Miri,8
-Sarawak,Baram,2
-Sarawak,Limbang,1
-Sarawak,Lawas,1
-Selangor,Sabak Bernam,1
-Selangor,Sungai Besar,1
-Selangor,Hulu Selangor,120
-Selangor,Tanjong Karang,1
-Selangor,Kuala Selangor,2
-Selangor,Selayang,4
-Selangor,Gombak,4
-Selangor,Ampang,41
-Selangor,Pandan,85
-Selangor,Hulu Langat,18
-Selangor,Bangi,6
-Selangor,Puchong,16
-Selangor,Subang,19
-Selangor,Petaling Jaya,38
-Selangor,Damansara,49
-Selangor,Sungai Buloh,22
-Selangor,Shah Alam,40
-Selangor,Kapar,1
-Selangor,Klang,10
-Selangor,Kota Raja,10
-Selangor,Kuala Langat,10
-Selangor,Sepang,10
-Terengganu,Besut,1
-Terengganu,Setiu,1
-Terengganu,Kuala Nerus,7
-Terengganu,Kuala Terengganu,8
-Terengganu,Marang,1
-Terengganu,Hulu Terengganu,7
-Terengganu,Dungun,2
-Terengganu,Kemaman,4
-W.P. Kuala Lumpur,Kepong,7
-W.P. Kuala Lumpur,Batu,10
-W.P. Kuala Lumpur,Wangsa Maju,4
-W.P. Kuala Lumpur,Segambut,1
-W.P. Kuala Lumpur,Setiawangsa,2
-W.P. Kuala Lumpur,Titiwangsa,10
-W.P. Kuala Lumpur,Bukit Bintang,8
-W.P. Kuala Lumpur,Lembah Pantai,10
-W.P. Kuala Lumpur,Seputeh,10
-W.P. Kuala Lumpur,Cheras,7
-W.P. Kuala Lumpur,Bandar Tun Razak,10
-W.P. Labuan,Labuan,3
-W.P. Putrajaya,Putrajaya,2
+State,Area,Count,Duration
+Johor,Segamat,3,33.35
+Johor,Sekijang,22,35.39
+Johor,Labis,1,26.03
+Johor,Pagoh,2,28.7
+Johor,Ledang,1,25.45
+Johor,Bakri,8,28.45
+Johor,Muar,6,28.96
+Johor,Parit Sulong,1,25.77
+Johor,Ayer Hitam,1,25.72
+Johor,Sri Gading,4,28.76
+Johor,Batu Pahat,6,29.5
+Johor,Simpang Renggam,1,25.95
+Johor,Kluang,7,29.23
+Johor,Sembrong,19,29.57
+Johor,Mersing,3,28.78
+Johor,Tenggara,1,25.55
+Johor,Kota Tinggi,3,28.71
+Johor,Pengerang,10,29.3
+Johor,Tebrau,3,28.83
+Johor,Pasir Gudang,5,28.81
+Johor,Johor Bahru,42,45.42
+Johor,Pulai,13,29.02
+Johor,Iskandar Puteri,4,28.88
+Johor,Kulai,6,28.79
+Johor,Pontian,3,28.85
+Johor,Tanjung Piai,10,28.83
+Kedah,Langkawi,4,28.99
+Kedah,Jerlun,1,25.45
+Kedah,Kubang Pasu,7,28.57
+Kedah,Padang Terap,8,28.73
+Kedah,Pokok Sena,1,25.56
+Kedah,Alor Setar,11,28.84
+Kedah,Kuala Kedah,2,28.99
+Kedah,Pendang,2,28.59
+Kedah,Jerai,18,34.79
+Kedah,Sik,11,28.88
+Kedah,Merbok,7,28.96
+Kedah,Sungai Petani,11,28.89
+Kedah,Baling,1,26.22
+Kedah,Padang Serai,1,25.6
+Kedah,Kulim-Bandar Baharu,6,28.86
+Kelantan,Tumpat,1,26.27
+Kelantan,Pengkalan Chepa,10,28.85
+Kelantan,Kota Bharu,7,28.9
+Kelantan,Pasir Mas,1,25.55
+Kelantan,Rantau Panjang,2,28.72
+Kelantan,Kubang Kerian,1,25.72
+Kelantan,Bachok,3,28.62
+Kelantan,Ketereh,13,28.93
+Kelantan,Tanah Merah,1,25.59
+Kelantan,Pasir Puteh,1,25.67
+Kelantan,Machang,3,28.46
+Kelantan,Jeli,1,25.75
+Kelantan,Kuala Krai,3,28.61
+Kelantan,Gua Musang,1,25.73
+Melaka,Masjid Tanah,4,29.28
+Melaka,Alor Gajah,1,26.05
+Melaka,Tangga Batu,18,35.28
+Melaka,Hang Tuah Jaya,16,34.51
+Melaka,Kota Melaka,19,34.64
+Melaka,Jasin,3,28.89
+Negeri Sembilan,Jelebu,1,25.84
+Negeri Sembilan,Jempol,2,29.11
+Negeri Sembilan,Seremban,15,34.24
+Negeri Sembilan,Kuala Pilah,1,25.94
+Negeri Sembilan,Rasah,4,28.66
+Negeri Sembilan,Rembau,1,30.83
+Negeri Sembilan,Port Dickson,3,29.01
+Negeri Sembilan,Tampin,1,25.45
+Pahang,Cameron Highlands,1,26.7
+Pahang,Lipis,1,25.66
+Pahang,Raub,2,28.85
+Pahang,Jerantut,1,25.2
+Pahang,Indera Mahkota,2,28.6
+Pahang,Kuantan,14,28.83
+Pahang,Paya Besar,6,28.91
+Pahang,Pekan,2,28.51
+Pahang,Maran,1,25.43
+Pahang,Kuala Krau,6,28.61
+Pahang,Temerloh,2,28.68
+Pahang,Bentong,3,28.53
+Pahang,Bera,10,28.76
+Pahang,Rompin,1,25.56
+Perak,Gerik,1,25.45
+Perak,Lenggong,11,28.86
+Perak,Larut,4,28.56
+Perak,Parit Buntar,3,28.71
+Perak,Bagan Serai,1,26.03
+Perak,Bukit Gantang,14,29.15
+Perak,Taiping,7,28.76
+Perak,Padang Rengas,20,28.95
+Perak,Sungai Siput,1,25.68
+Perak,Tambun,1,25.54
+Perak,Ipoh Timor,14,28.97
+Perak,Ipoh Barat,14,29.09
+Perak,Batu Gajah,1,25.54
+Perak,Kuala Kangsar,2,28.87
+Perak,Beruas,1,25.7
+Perak,Parit,3,29.12
+Perak,Kampar,3,28.72
+Perak,Gopeng,2,28.59
+Perak,Tapah,2,28.81
+Perak,Pasir Salak,14,29.1
+Perak,Lumut,1,25.73
+Perak,Bagan Datuk,4,29.68
+Perak,Teluk Intan,2,28.7
+Perak,Tanjong Malim,2,28.62
+Perlis,Padang Besar,1,26.01
+Perlis,Kangar,3,28.75
+Perlis,Arau,1,26.1
+Pulau Pinang,Kepala Batas,3,29.03
+Pulau Pinang,Tasek Gelugor,22,34.64
+Pulau Pinang,Bagan,6,28.83
+Pulau Pinang,Permatang Pauh,16,29.44
+Pulau Pinang,Bukit Mertajam,10,29.13
+Pulau Pinang,Batu Kawan,2,28.72
+Pulau Pinang,Nibong Tebal,1,25.77
+Pulau Pinang,Bukit Bendera,18,34.86
+Pulau Pinang,Tanjong,2,28.72
+Pulau Pinang,Jelutong,7,28.8
+Pulau Pinang,Bukit Gelugor,1,25.96
+Pulau Pinang,Bayan Baru,4,29.18
+Pulau Pinang,Balik Pulau,5,29.08
+Sabah,Kudat,2,28.95
+Sabah,Kota Marudu,2,28.84
+Sabah,Kota Belud,2,28.79
+Sabah,Tuaran,3,28.93
+Sabah,Sepanggar,2,28.93
+Sabah,Kota Kinabalu,32,39.74
+Sabah,Putatan,1,26.6
+Sabah,Penampang,3,29.06
+Sabah,Papar,3,28.92
+Sabah,Kimanis,14,28.71
+Sabah,Beaufort,2,28.69
+Sabah,Sipitang,1,26.01
+Sabah,Ranau,2,28.99
+Sabah,Keningau,2,29.29
+Sabah,Tenom,1,27.91
+Sabah,Pensiangan,15,30.29
+Sabah,Beluran,2,29.21
+Sabah,Libaran,1,26.32
+Sabah,Batu Sapi,16,34.58
+Sabah,Sandakan,6,29.41
+Sabah,Kinabatangan,2,29.25
+Sabah,Lahad Datu,4,28.99
+Sabah,Semporna,2,29.04
+Sabah,Tawau,10,29.02
+Sabah,Kalabakan,18,34.4
+Sarawak,Mas Gading,23,34.8
+Sarawak,Santubong,22,36.02
+Sarawak,Petra Jaya,3,28.88
+Sarawak,Bandar Kuching,22,34.8
+Sarawak,Stampin,24,35.74
+Sarawak,Kota Samarahan,3,29.31
+Sarawak,Puncak Borneo,23,34.88
+Sarawak,Serian,2,28.74
+Sarawak,Batang Sadong,23,34.57
+Sarawak,Batang Lupar,16,31.51
+Sarawak,Sri Aman,1,29.72
+Sarawak,Lubok Antu,3,28.97
+Sarawak,Betong,1,25.59
+Sarawak,Saratok,1,26.74
+Sarawak,Tanjong Manis,6,28.93
+Sarawak,Igan,21,34.46
+Sarawak,Sarikei,1,25.33
+Sarawak,Julau,6,29.03
+Sarawak,Kanowit,20,29.34
+Sarawak,Lanang,8,28.94
+Sarawak,Sibu,8,29.49
+Sarawak,Mukah,1,26.5
+Sarawak,Selangau,16,30.11
+Sarawak,Kapit,1,26.88
+Sarawak,Hulu Rajang,1,26.11
+Sarawak,Bintulu,6,29.05
+Sarawak,Sibuti,12,30.64
+Sarawak,Miri,10,29.4
+Sarawak,Baram,22,34.98
+Sarawak,Limbang,1,27.55
+Sarawak,Lawas,1,26.54
+Selangor,Sabak Bernam,1,27.11
+Selangor,Sungai Besar,1,26.09
+Selangor,Hulu Selangor,10,29.41
+Selangor,Tanjong Karang,1,26.25
+Selangor,Kuala Selangor,3,28.87
+Selangor,Selayang,5,30.25
+Selangor,Gombak,4,28.9
+Selangor,Ampang,8,29.08
+Selangor,Pandan,6,29.24
+Selangor,Hulu Langat,2,28.8
+Selangor,Bangi,5,28.88
+Selangor,Puchong,12,29.33
+Selangor,Subang,10,30.03
+Selangor,Petaling Jaya,28,39.67
+Selangor,Damansara,39,39.8
+Selangor,Sungai Buloh,5,29.24
+Selangor,Shah Alam,31,39.85
+Selangor,Kapar,4,28.78
+Selangor,Klang,21,34.96
+Selangor,Kota Raja,14,29.48
+Selangor,Kuala Langat,4,29.05
+Selangor,Sepang,9,29.37
+Terengganu,Besut,1,25.88
+Terengganu,Setiu,8,28.88
+Terengganu,Kuala Nerus,9,29.03
+Terengganu,Kuala Terengganu,8,28.97
+Terengganu,Marang,7,29.12
+Terengganu,Hulu Terengganu,11,29.24
+Terengganu,Dungun,2,28.9
+Terengganu,Kemaman,3,29.0
+W.P. Kuala Lumpur,Kepong,5,29.34
+W.P. Kuala Lumpur,Batu,31,39.85
+W.P. Kuala Lumpur,Wangsa Maju,7,29.51
+W.P. Kuala Lumpur,Segambut,1,28.0
+W.P. Kuala Lumpur,Setiawangsa,2,29.47
+W.P. Kuala Lumpur,Titiwangsa,21,34.93
+W.P. Kuala Lumpur,Bukit Bintang,8,29.95
+W.P. Kuala Lumpur,Lembah Pantai,16,34.99
+W.P. Kuala Lumpur,Seputeh,18,35.56
+W.P. Kuala Lumpur,Cheras,8,29.79
+W.P. Kuala Lumpur,Bandar Tun Razak,18,34.99
+W.P. Labuan,Labuan,3,29.03
+W.P. Putrajaya,Putrajaya,2,28.8
