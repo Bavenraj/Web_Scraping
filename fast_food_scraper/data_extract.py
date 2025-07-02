@@ -34,6 +34,22 @@ def extract_data(state, area):
         for store in classes:
             name = store.find(name= 'div', attrs={"class": "fontHeadlineSmall"})
             if name is not None:
+                if store.find(string='Open'):
+                    #print(store.find(string='Open').parent)
+                    store_status = 'Operating'
+                    #print(store_status)
+                elif store.find(string='Closed'):
+                    store_status = 'Operating'
+                    #print(store_status)
+                elif store.find(string='Permanently closed'): 
+                    #print(store.find(string='Permanently closed').parent)
+                    store_status = 'Closed'
+                    #print(store_status)
+                elif soup.find(string='Temporarily closed'):
+                    store_status = 'Temporarily Closed'
+                else:
+                    store_status = 'No status'
+
                 review_available = store.find(name= 'span', attrs={"class": "fontBodyMedium"})
                 if review_available is not None:
                     if review_available.text == "No reviews":
@@ -48,7 +64,8 @@ def extract_data(state, area):
                         'Area' : area,
                         'Store Name' : name.text,
                         'Rating' : ratings,
-                        'Review Count': review
+                        'Review Count': review,
+                        'Store Status': store_status                        
                     })
                 else: 
                     pass
@@ -56,6 +73,17 @@ def extract_data(state, area):
     else: 
         name = soup.find(name= "h1")
         if name is not None:
+            if soup.find(string='Open'):
+                store_status = 'Operating'
+            elif soup.find(string='Closed'):
+                store_status = 'Operating'
+            elif soup.find(string='Permanently closed'):
+                store_status = 'Permanently Closed'
+            elif soup.find(string='Temporarily closed'):
+                store_status = 'Temporarily Closed'
+            else:
+                store_status = 'No status'
+                
             if soup.find(name= 'div', attrs={"class": "dmRWX", "style": "display: none"}):
                 ratings = 0
                 review = 0
@@ -68,17 +96,18 @@ def extract_data(state, area):
                 'Area' : area,
                 'Store Name' : name.text,
                 'Rating' : ratings,
-                'Review Count': review
+                'Review Count': review,
+                'Store Status': store_status 
             })
 
     with open(csv_file, 'w', newline='') as file:
-        writer = csv.DictWriter(file, fieldnames=['State', 'Area', 'Store Name','Rating', 'Review Count'])
+        writer = csv.DictWriter(file, fieldnames=['State', 'Area', 'Store Name','Rating', 'Review Count', 'Store Status'])
         writer.writeheader()
         for row in store_data:
             writer.writerow(row)
     #print(store_data) 
 
 #print(extract_source(["W.P. Labuan", "W.P. Putrajaya"]))
-extract_source()#["W.P. Kuala Lumpur"]))
+extract_source()
 
 #print(html_page_sources[221])
