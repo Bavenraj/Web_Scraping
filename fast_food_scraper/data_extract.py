@@ -34,16 +34,11 @@ def extract_data(state, area):
         for store in classes:
             name = store.find(name= 'div', attrs={"class": "fontHeadlineSmall"})
             if name is not None:
-                if store.find(string='Open'):
-                    #print(store.find(string='Open').parent)
+                if store.find(string='Open') or store.find(string='Closed') or store.find(string='Open 24 hours'):
                     store_status = 'Operating'
-                    #print(store_status)
-                elif store.find(string='Closed'):
-                    store_status = 'Operating'
-                    #print(store_status)
                 elif store.find(string='Permanently closed'): 
                     #print(store.find(string='Permanently closed').parent)
-                    store_status = 'Closed'
+                    store_status = 'Permanently Closed'
                     #print(store_status)
                 elif soup.find(string='Temporarily closed'):
                     store_status = 'Temporarily Closed'
@@ -73,9 +68,7 @@ def extract_data(state, area):
     else: 
         name = soup.find(name= "h1")
         if name is not None:
-            if soup.find(string='Open'):
-                store_status = 'Operating'
-            elif soup.find(string='Closed'):
+            if soup.find(string='Open') or soup.find(string='Closed') or soup.find(string='Open 24 hours'):
                 store_status = 'Operating'
             elif soup.find(string='Permanently closed'):
                 store_status = 'Permanently Closed'

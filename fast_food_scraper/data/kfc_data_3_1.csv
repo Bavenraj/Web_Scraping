@@ -22,8 +22,8 @@ Johor,Sekijang,KFC Jementah,3.9,(334),Operating
 Johor,Sekijang,KFC MID VALLEY SOUTHKEY,3.2,(191),Operating
 Johor,Sekijang,KFC Tangkak,3.9,(816),Operating
 Johor,Sekijang,KFC Bukit Gambir,4.1,(650),Operating
-Johor,Sekijang,KFC Parit Raja,4.0,(918),Closed
-Johor,Sekijang,"KFC @ Labis, Johor",0,0,Closed
+Johor,Sekijang,KFC Parit Raja,4.0,(918),Permanently Closed
+Johor,Sekijang,"KFC @ Labis, Johor",0,0,Permanently Closed
 Johor,Labis,KFC Labis,3.9,(566),Operating
 Johor,Pagoh,KFC Bandar Universiti Pagoh DT,4.1,(306),Operating
 Johor,Pagoh,KFC RSA Pagoh,4.0,(737),Operating
@@ -96,11 +96,11 @@ Johor,Pengerang,KFC Petron Dato Onn DT,3.4,(623),Operating
 Johor,Pengerang,KFC Johor Jaya,3.4,(424),Operating
 Johor,Pengerang,KFC Taman Molek,3.6,(618),Operating
 Johor,Pengerang,KFC Seri Alam DT,3.7,"(1,383)",Operating
-Johor,Pengerang,KFC Rengit,3.9,(409),Closed
-Johor,Pengerang,KFC PETRON PENGERANG,3.5,(478),Closed
+Johor,Pengerang,KFC Rengit,3.9,(409),Permanently Closed
+Johor,Pengerang,KFC PETRON PENGERANG,3.5,(478),Permanently Closed
 Johor,Tebrau,KFC Toppen Mall,2.2,(91),Operating
 Johor,Tebrau,KFC Puteri Wangsa DT,4.0,"(1,515)",Operating
-Johor,Tebrau,KFC AEON Tebrau City,2.5,(262),Closed
+Johor,Tebrau,KFC AEON Tebrau City,2.5,(262),Permanently Closed
 Johor,Pasir Gudang,KFC Pasir Gudang DT,3.8,"(1,423)",Operating
 Johor,Pasir Gudang,KFC Pasir Gudang,3.8,(150),Operating
 Johor,Pasir Gudang,KFC KOTA MASAI,3.8,(332),Operating
@@ -219,7 +219,7 @@ Kedah,Alor Setar,KFC Anak Bukit,4.2,(301),Temporarily Closed
 Kedah,Kuala Kedah,KFC Kuala Nerang,4.2,(672),Operating
 Kedah,Kuala Kedah,KFC Kuala Kedah,3.9,(354),Operating
 Kedah,Pendang,KFC DT Caltex Pendang,4.4,(86),Operating
-Kedah,Pendang,KFC Pendang Kedah,4.1,(465),Closed
+Kedah,Pendang,KFC Pendang Kedah,4.1,(465),Permanently Closed
 Kedah,Jerai,KFC Guar Chempedak,4.0,(733),Operating
 Kedah,Jerai,KFC Jalan Stadium (Alor Star) DT,4.2,"(1,739)",Operating
 Kedah,Jerai,KFC Aman Central,4.2,(207),Operating
@@ -247,8 +247,8 @@ Kedah,Sik,KFC Limbong Kapal DT,4.0,"(1,152)",Operating
 Kedah,Sik,KFC Shahab Perdana,4.0,(406),Temporarily Closed
 Kedah,Sik,KFC Kuala Kedah,3.9,(354),Operating
 Kedah,Sik,KFC Jitra,4.1,"(1,018)",Operating
-Kedah,Sik,"KFC Sik, Kedah",4.0,(594),Closed
-Kedah,Sik,KFC,5.0,(1),Closed
+Kedah,Sik,"KFC Sik, Kedah",4.0,(594),Permanently Closed
+Kedah,Sik,KFC,5.0,(1),Permanently Closed
 Kedah,Merbok,KFC Sungai Petani 1,4.0,"(1,020)",Operating
 Kedah,Merbok,KFC Aman Jaya DT,3.8,"(2,378)",Operating
 Kedah,Merbok,KFC Taman Sejati,3.9,(691),Operating
@@ -284,22 +284,22 @@ Kelantan,Pengkalan Chepa,KFC Kubang Kerian DT,4.0,"(1,788)",Operating
 Kelantan,Pengkalan Chepa,KFC Jelawat,4.0,(106),Operating
 Kelantan,Pengkalan Chepa,KFC Tumpat,4.0,(423),Operating
 Kelantan,Pengkalan Chepa,KFC Tanah Merah,4.0,(790),Operating
-Kelantan,Pengkalan Chepa,KFC Pengkalan Chepa Drive Thru,3.8,"(1,212)",Closed
-Kelantan,Pengkalan Chepa,KFC Kota Bharu,3.8,(416),Closed
+Kelantan,Pengkalan Chepa,KFC Pengkalan Chepa Drive Thru,3.8,"(1,212)",Permanently Closed
+Kelantan,Pengkalan Chepa,KFC Kota Bharu,3.8,(416),Permanently Closed
 Kelantan,Kota Bharu,KFC Stadium Kota Bharu DT,3.9,"(1,321)",Operating
 Kelantan,Kota Bharu,KFC Kota Bharu Mall,4.1,(124),Operating
 Kelantan,Kota Bharu,KFC PETRON SALOR DT,4.9,(57),Operating
 Kelantan,Kota Bharu,KFC AEON Mall Kota Bharu,3.8,(82),Operating
 Kelantan,Kota Bharu,KFC Jelawat,4.0,(106),Operating
 Kelantan,Kota Bharu,KFC Kubang Kerian DT,4.0,"(1,788)",Operating
-Kelantan,Kota Bharu,KFC Kota Bharu,3.8,(416),Closed
+Kelantan,Kota Bharu,KFC Kota Bharu,3.8,(416),Permanently Closed
 Kelantan,Pasir Mas,KFC Pasir Mas,4.0,(614),Operating
 Kelantan,Rantau Panjang,KFC Gua Musang Drive Thru,4.0,"(1,664)",Operating
 Kelantan,Rantau Panjang,KFC Rantau Panjang Drive Thru,4.1,(559),Temporarily Closed
 Kelantan,Kubang Kerian,KFC Kubang Kerian DT,4.0,"(1,788)",Operating
 Kelantan,Bachok,KFC Gua Musang Drive Thru,4.0,"(1,664)",Operating
 Kelantan,Bachok,KFC Jelawat,4.0,(106),Operating
-Kelantan,Bachok,KFC Bachok Drive Thru,3.8,"(1,112)",Closed
+Kelantan,Bachok,KFC Bachok Drive Thru,3.8,"(1,112)",Permanently Closed
 Kelantan,Ketereh,KFC Tumpat,4.0,(423),Operating
 Kelantan,Ketereh,KFC Tanah Merah,4.0,(790),Operating
 Kelantan,Ketereh,KFC Stadium Kota Bharu DT,3.9,"(1,321)",Operating
@@ -312,7 +312,7 @@ Kelantan,Ketereh,My's Fried Chicken & Coffee,4.6,(12),Temporarily Closed
 Kelantan,Ketereh,Bandar Ketereh,0,0,Temporarily Closed
 Kelantan,Ketereh,Edlee Fried Chicken Kadok,3.8,(16),Operating
 Kelantan,Ketereh,McDonald's Kok Lanas DT,4.0,"(2,683)",Operating
-Kelantan,Ketereh,KFC Kok Lanas Drive Thru,3.9,(894),Closed
+Kelantan,Ketereh,KFC Kok Lanas Drive Thru,3.9,(894),Permanently Closed
 Kelantan,Tanah Merah,KFC Tanah Merah,4.0,(790),Operating
 Kelantan,Pasir Puteh,KFC Shell Pasir Puteh DT drive-thru,3.9,(786),Temporarily Closed
 Kelantan,Machang,KFC Gua Musang Drive Thru,4.0,"(1,664)",Operating
@@ -494,7 +494,7 @@ Perak,Bukit Gantang,KFC Kamunting,4.1,(361),Operating
 Perak,Bukit Gantang,KFC RSA Gunung Semanggol,3.8,(644),Operating
 Perak,Bukit Gantang,KFC Ipoh Garden,3.9,(858),Operating
 Perak,Bukit Gantang,KFC Gunung Rapat Drive Thru,3.8,"(2,277)",Operating
-Perak,Bukit Gantang,"Bukit Gantang Lay-By ( Southbound, Bukit Gantang, Perak )",4.1,"(5,213)",Temporarily Closed
+Perak,Bukit Gantang,"Bukit Gantang Lay-By ( Southbound, Bukit Gantang, Perak )",4.1,"(5,213)",Operating
 Perak,Bukit Gantang,KFC Bercham,3.8,(765),Operating
 Perak,Bukit Gantang,KFC Bagan Serai,4.0,(823),Operating
 Perak,Bukit Gantang,KFC Cockman,3.7,"(1,182)",Operating
@@ -618,11 +618,11 @@ Pulau Pinang,Tasek Gelugor,"KFC R2 Avenue, Sungai Dua",4.0,(943),Operating
 Pulau Pinang,Tasek Gelugor,KFC Gurney Plaza,2.7,(115),Operating
 Pulau Pinang,Tasek Gelugor,KFC Bayan Baru,3.7,"(1,923)",Operating
 Pulau Pinang,Tasek Gelugor,KFC Penang Sentral,3.3,(370),Operating
-Pulau Pinang,Tasek Gelugor,KFC Bagan Ajam DT,3.2,(522),No status
+Pulau Pinang,Tasek Gelugor,KFC Bagan Ajam DT,3.2,(522),Operating
 Pulau Pinang,Tasek Gelugor,KFC Giant Bayan Baru,3.5,(419),Operating
 Pulau Pinang,Tasek Gelugor,KFC Komtar,3.8,(720),Operating
 Pulau Pinang,Tasek Gelugor,KFC Butterworth,3.8,(710),Operating
-Pulau Pinang,Bagan,KFC Bagan Ajam DT,3.2,(522),No status
+Pulau Pinang,Bagan,KFC Bagan Ajam DT,3.2,(522),Operating
 Pulau Pinang,Bagan,KFC Butterworth,3.8,(710),Operating
 Pulau Pinang,Bagan,KFC Jalan Raja Uda Butterworth,3.5,(719),Operating
 Pulau Pinang,Bagan,KFC Penang Sentral,3.3,(370),Operating
@@ -673,7 +673,7 @@ Pulau Pinang,Bukit Bendera,KFC Butterworth,3.8,(710),Operating
 Pulau Pinang,Bukit Bendera,KFC Teluk Kumbar,3.5,(574),Operating
 Pulau Pinang,Bukit Bendera,KFC Queensbay Mall,3.6,(310),Operating
 Pulau Pinang,Bukit Bendera,KFC Sungai Dua,3.7,"(1,663)",Operating
-Pulau Pinang,Bukit Bendera,KFC Bagan Ajam DT,3.2,(522),No status
+Pulau Pinang,Bukit Bendera,KFC Bagan Ajam DT,3.2,(522),Operating
 Pulau Pinang,Bukit Bendera,Marrybrown Penang Hill,4.1,(316),Operating
 Pulau Pinang,Tanjong,KFC Tanjong Tokong,3.6,(855),Operating
 Pulau Pinang,Tanjong,KFC Lotus's Tanjung Pinang,2.9,(186),Operating
@@ -704,7 +704,7 @@ Sabah,Tuaran,KFC RUGADING,3.0,(26),Operating
 Sabah,Tuaran,KFC Tuaran,4.2,"(1,244)",Operating
 Sabah,Tuaran,"KFC Plaza CKS Tuaran branch, Sabah.",4.2,(481),Operating
 Sabah,Sepanggar,KFC Sepanggar,4.1,"(1,332)",Operating
-Sabah,Sepanggar,KFC Sulaman Drive Thru,4.2,"(2,084)",No status
+Sabah,Sepanggar,KFC Sulaman Drive Thru,4.2,"(2,084)",Operating
 Sabah,Kota Kinabalu,KFC Telupid,3.8,(461),Operating
 Sabah,Kota Kinabalu,"KFC Taipan, Inanam",4.3,"(1,120)",Operating
 Sabah,Kota Kinabalu,KFC KK Times Square,3.5,(91),Operating
@@ -712,10 +712,10 @@ Sabah,Kota Kinabalu,KFC Wawasan Plaza,4.2,(291),Operating
 Sabah,Kota Kinabalu,KFC Tanjung Aru,4.5,(969),Operating
 Sabah,Kota Kinabalu,KFC Shell KKIP Telipok Drive-thru,4.8,(36),Operating
 Sabah,Kota Kinabalu,KFC Bandar Sierra,4.3,"(1,095)",Operating
-Sabah,Kota Kinabalu,KFC Sulaman Drive Thru,4.2,"(2,084)",No status
-Sabah,Kota Kinabalu,KFC Bandaran KK Utara DT (Tuaran Bypass),4.3,"(2,233)",No status
+Sabah,Kota Kinabalu,KFC Sulaman Drive Thru,4.2,"(2,084)",Operating
+Sabah,Kota Kinabalu,KFC Bandaran KK Utara DT (Tuaran Bypass),4.3,"(2,233)",Operating
 Sabah,Kota Kinabalu,KFC Sepanggar,4.1,"(1,332)",Operating
-Sabah,Kota Kinabalu,KFC KKIA (T1),3.3,(176),No status
+Sabah,Kota Kinabalu,KFC KKIA (T1),3.3,(176),Operating
 Sabah,Kota Kinabalu,KFC Grand Millenium,4.1,(603),Operating
 Sabah,Kota Kinabalu,KFC Waterfront,4.0,(358),Operating
 Sabah,Kota Kinabalu,KFC Wisma Merdeka,4.2,(105),Operating
@@ -723,7 +723,7 @@ Sabah,Kota Kinabalu,KFC Suria Sabah,3.9,(263),Operating
 Sabah,Kota Kinabalu,KFC Pavilion Bundusan,4.2,"(1,296)",Operating
 Sabah,Kota Kinabalu,KFC Bandaran Berjaya,4.2,"(1,110)",Operating
 Sabah,Kota Kinabalu,KFC Bornion Centre,4.1,(577),Operating
-Sabah,Kota Kinabalu,KFC Emart Lintas Jaya,4.0,(339),No status
+Sabah,Kota Kinabalu,KFC Emart Lintas Jaya,4.0,(339),Operating
 Sabah,Kota Kinabalu,KFC City Mall,4.1,(316),Operating
 Sabah,Kota Kinabalu,KFC Centre Point,4.1,(178),Operating
 Sabah,Kota Kinabalu,KFC Lido,4.0,(483),Operating
@@ -752,7 +752,7 @@ Sabah,Kimanis,KFC Sepanggar,4.1,"(1,332)",Operating
 Sabah,Kimanis,KFC (Sabah) Sdn Bhd,4.3,(12),No status
 Sabah,Kimanis,KFC Tanjung Aru,4.5,(969),Operating
 Sabah,Kimanis,KFC Kundasang,4.0,(841),Operating
-Sabah,Kimanis,KFC KKIA (T1),3.3,(176),No status
+Sabah,Kimanis,KFC KKIA (T1),3.3,(176),Operating
 Sabah,Kimanis,"KFC Taipan, Inanam",4.3,"(1,120)",Operating
 Sabah,Kimanis,KFC One Borneo,3.8,(151),Operating
 Sabah,Kimanis,KFC Shell KKIP Telipok Drive-thru,4.8,(36),Operating
@@ -854,7 +854,7 @@ Sarawak,Mas Gading,KFC Restaurant @ eco-mall Petrajaya,4.0,(267),Operating
 Sarawak,Mas Gading,KFC Sarawak Plaza,3.9,(491),Operating
 Sarawak,Mas Gading,KFC Bau,3.7,(323),Operating
 Sarawak,Mas Gading,KFC Vivacity,3.6,(300),Operating
-Sarawak,Mas Gading,KFC Emart Batu Kawa,3.9,"(1,546)",No status
+Sarawak,Mas Gading,KFC Emart Batu Kawa,3.9,"(1,546)",Operating
 Sarawak,Mas Gading,KFC Batu Kawa,3.9,(573),Operating
 Sarawak,Mas Gading,KFC Metrocity Drive Thru,3.8,"(1,280)",Operating
 Sarawak,Mas Gading,KFC The Spring,3.8,(337),Operating
@@ -870,7 +870,7 @@ Sarawak,Santubong,KFC Samariang,3.8,(69),Operating
 Sarawak,Santubong,KFC Matang,4.6,"(1,054)",Operating
 Sarawak,Santubong,KFC Tabuan Jaya,4.0,"(1,003)",Operating
 Sarawak,Santubong,KFC PETROS Darul Hana DT,3.1,(66),Operating
-Sarawak,Santubong,KFC Emart Batu Kawa,3.9,"(1,546)",No status
+Sarawak,Santubong,KFC Emart Batu Kawa,3.9,"(1,546)",Operating
 Sarawak,Santubong,KFC Bako Drive Thru,4.0,"(1,204)",Operating
 Sarawak,Santubong,KFC Metrocity Drive Thru,3.8,"(1,280)",Operating
 Sarawak,Santubong,KFC The Spring,3.8,(337),Operating
@@ -880,10 +880,10 @@ Sarawak,Santubong,KFC Rock Road,4.0,(829),Operating
 Sarawak,Santubong,KFC Shell DT Jalan Stephen Yong,3.7,(404),Operating
 Sarawak,Santubong,KFC Vivacity,3.6,(300),Operating
 Sarawak,Santubong,KFC Boulevard Mall,3.4,(135),Operating
-Sarawak,Santubong,KFC Tabuan Tranquility DT,3.9,"(1,500)",No status
+Sarawak,Santubong,KFC Tabuan Tranquility DT,3.9,"(1,500)",Operating
 Sarawak,Santubong,KFC KOTA SENTOSA,3.9,(731),Operating
 Sarawak,Santubong,KFC Bau,3.7,(323),Operating
-Sarawak,Santubong,KFC Sri Aman,3.8,(735),No status
+Sarawak,Santubong,KFC Sri Aman,3.8,(735),Operating
 Sarawak,Santubong,KFC Betong,3.8,(381),Operating
 Sarawak,Santubong,KFC Plaza Merdeka,4.2,(190),Operating
 Sarawak,Santubong,KFC Wisma Sanyan,3.8,(154),Operating
@@ -907,10 +907,10 @@ Sarawak,Bandar Kuching,KFC Matang,4.6,"(1,054)",Operating
 Sarawak,Bandar Kuching,KFC Metrocity Drive Thru,3.8,"(1,280)",Operating
 Sarawak,Bandar Kuching,KFC KIA,3.8,(80),Operating
 Sarawak,Bandar Kuching,KFC PETROS Darul Hana DT,3.1,(66),Operating
-Sarawak,Bandar Kuching,KFC Emart Batu Kawa,3.9,"(1,546)",No status
+Sarawak,Bandar Kuching,KFC Emart Batu Kawa,3.9,"(1,546)",Operating
 Sarawak,Bandar Kuching,KFC Bako Drive Thru,4.0,"(1,204)",Operating
 Sarawak,Bandar Kuching,KFC Restaurant @ eco-mall Petrajaya,4.0,(267),Operating
-Sarawak,Bandar Kuching,KFC Tabuan Tranquility DT,3.9,"(1,500)",No status
+Sarawak,Bandar Kuching,KFC Tabuan Tranquility DT,3.9,"(1,500)",Operating
 Sarawak,Bandar Kuching,KFC Plaza Merdeka,4.2,(190),Operating
 Sarawak,Stampin,KFC Satok,4.2,"(1,012)",Operating
 Sarawak,Stampin,KFC Sarawak Plaza,3.9,(491),Operating
@@ -923,29 +923,29 @@ Sarawak,Stampin,KFC Tabuan Jaya,4.0,"(1,003)",Operating
 Sarawak,Stampin,KFC KIS,4.1,(226),Operating
 Sarawak,Stampin,KFC Bako Drive Thru,4.0,"(1,204)",Operating
 Sarawak,Stampin,KFC Shell DT Jalan Stephen Yong,3.7,(404),Operating
-Sarawak,Stampin,KFC Tabuan Tranquility DT,3.9,"(1,500)",No status
+Sarawak,Stampin,KFC Tabuan Tranquility DT,3.9,"(1,500)",Operating
 Sarawak,Stampin,KFC PETROS Darul Hana DT,3.1,(66),Operating
 Sarawak,Stampin,KFC Matang,4.6,"(1,054)",Operating
 Sarawak,Stampin,KFC Restaurant @ eco-mall Petrajaya,4.0,(267),Operating
-Sarawak,Stampin,KFC Emart Batu Kawa,3.9,"(1,546)",No status
+Sarawak,Stampin,KFC Emart Batu Kawa,3.9,"(1,546)",Operating
 Sarawak,Stampin,KFC KOTA SENTOSA,3.9,(731),Operating
 Sarawak,Stampin,KFC Plaza Merdeka,4.2,(190),Operating
 Sarawak,Stampin,KFC Rock Road,4.0,(829),Operating
-Sarawak,Stampin,KFC Sarikei,4.0,(772),No status
+Sarawak,Stampin,KFC Sarikei,4.0,(772),Operating
 Sarawak,Stampin,KFC Wisma Sanyan,3.8,(154),Operating
 Sarawak,Stampin,KFC Sibu Jaya,3.9,(557),Operating
-Sarawak,Stampin,KFC Tanahmas,4.0,(920),No status
+Sarawak,Stampin,KFC Tanahmas,4.0,(920),Operating
 Sarawak,Stampin,KFC Sibu 1,4.1,(548),Operating
 Sarawak,Kota Samarahan,KFC Kota Samarahan Drive Thru,3.7,(911),Operating
 Sarawak,Kota Samarahan,KFC Summer Mall,4.0,(470),Operating
-Sarawak,Kota Samarahan,KFC Aiman Mall,4.0,(903),No status
+Sarawak,Kota Samarahan,KFC Aiman Mall,4.0,(903),Operating
 Sarawak,Puncak Borneo,KFC Bau,3.7,(323),Operating
 Sarawak,Puncak Borneo,KFC Satok,4.2,"(1,012)",Operating
 Sarawak,Puncak Borneo,KFC Siburan,3.5,(382),Operating
-Sarawak,Puncak Borneo,KFC Emart Batu Kawa,3.9,"(1,546)",No status
+Sarawak,Puncak Borneo,KFC Emart Batu Kawa,3.9,"(1,546)",Operating
 Sarawak,Puncak Borneo,KFC Tabuan Jaya,4.0,"(1,003)",Operating
 Sarawak,Puncak Borneo,KFC Sarawak Plaza,3.9,(491),Operating
-Sarawak,Puncak Borneo,KFC Sri Aman,3.8,(735),No status
+Sarawak,Puncak Borneo,KFC Sri Aman,3.8,(735),Operating
 Sarawak,Puncak Borneo,KFC Vivacity,3.6,(300),Operating
 Sarawak,Puncak Borneo,KFC KOTA SENTOSA,3.9,(731),Operating
 Sarawak,Puncak Borneo,KFC Betong,3.8,(381),Operating
@@ -955,7 +955,7 @@ Sarawak,Puncak Borneo,KFC Shell DT Jalan Stephen Yong,3.7,(404),Operating
 Sarawak,Puncak Borneo,KFC Rock Road,4.0,(829),Operating
 Sarawak,Puncak Borneo,KFC Bako Drive Thru,4.0,"(1,204)",Operating
 Sarawak,Puncak Borneo,KFC Matang,4.6,"(1,054)",Operating
-Sarawak,Puncak Borneo,KFC Emart Miri,3.9,"(1,040)",No status
+Sarawak,Puncak Borneo,KFC Emart Miri,3.9,"(1,040)",Operating
 Sarawak,Puncak Borneo,KFC Plaza Merdeka,4.2,(190),Operating
 Sarawak,Puncak Borneo,KFC Kuching Sentral,3.6,(235),Operating
 Sarawak,Puncak Borneo,KFC Metrocity Drive Thru,3.8,"(1,280)",Operating
@@ -970,9 +970,9 @@ Sarawak,Batang Sadong,KFC Samariang,3.8,(69),Operating
 Sarawak,Batang Sadong,KFC Satok,4.2,"(1,012)",Operating
 Sarawak,Batang Sadong,KFC Sarawak Plaza,3.9,(491),Operating
 Sarawak,Batang Sadong,KFC Kota Samarahan Drive Thru,3.7,(911),Operating
-Sarawak,Batang Sadong,KFC Aiman Mall,4.0,(903),No status
+Sarawak,Batang Sadong,KFC Aiman Mall,4.0,(903),Operating
 Sarawak,Batang Sadong,KFC Restaurant @ eco-mall Petrajaya,4.0,(267),Operating
-Sarawak,Batang Sadong,KFC Emart Batu Kawa,3.9,"(1,546)",No status
+Sarawak,Batang Sadong,KFC Emart Batu Kawa,3.9,"(1,546)",Operating
 Sarawak,Batang Sadong,KFC Betong,3.8,(381),Operating
 Sarawak,Batang Sadong,KFC KOTA SENTOSA,3.9,(731),Operating
 Sarawak,Batang Sadong,KFC Siburan,3.5,(382),Operating
@@ -998,15 +998,15 @@ Sarawak,Batang Lupar,KFC Tabuan Jaya,4.0,"(1,003)",Operating
 Sarawak,Batang Lupar,KFC PETROS Darul Hana DT,3.1,(66),Operating
 Sarawak,Batang Lupar,KFC Satok,4.2,"(1,012)",Operating
 Sarawak,Batang Lupar,KFC Matang,4.6,"(1,054)",Operating
-Sarawak,Batang Lupar,KFC Tabuan Tranquility DT,3.9,"(1,500)",No status
+Sarawak,Batang Lupar,KFC Tabuan Tranquility DT,3.9,"(1,500)",Operating
 Sarawak,Batang Lupar,KFC Boulevard Mall,3.4,(135),Operating
-Sarawak,Batang Lupar,KFC Emart Batu Kawa,3.9,"(1,546)",No status
+Sarawak,Batang Lupar,KFC Emart Batu Kawa,3.9,"(1,546)",Operating
 Sarawak,Batang Lupar,KFC Bako Drive Thru,4.0,"(1,204)",Operating
-Sarawak,Batang Lupar,KFC Sri Aman,3.8,(735),No status
-Sarawak,Sri Aman,KFC Sri Aman,3.8,(735),No status
+Sarawak,Batang Lupar,KFC Sri Aman,3.8,(735),Operating
+Sarawak,Sri Aman,KFC Sri Aman,3.8,(735),Operating
 Sarawak,Lubok Antu,KFC Tatau,4.0,(127),Operating
 Sarawak,Lubok Antu,KFC Kidurong,3.8,(566),Operating
-Sarawak,Lubok Antu,KFC Sri Aman,3.8,(735),No status
+Sarawak,Lubok Antu,KFC Sri Aman,3.8,(735),Operating
 Sarawak,Betong,KFC Betong,3.8,(381),Operating
 Sarawak,Saratok,KFC Saratok,3.6,(287),Operating
 Sarawak,Tanjong Manis,KFC Tatau,4.0,(127),Operating
@@ -1019,26 +1019,26 @@ Sarawak,Igan,KFC Mukah,3.8,(849),Operating
 Sarawak,Igan,KFC Kapit,3.9,(367),Operating
 Sarawak,Igan,KFC Sibu Jaya,3.9,(557),Operating
 Sarawak,Igan,KFC Sibu 1,4.1,(548),Operating
-Sarawak,Igan,KFC Tanahmas,4.0,(920),No status
+Sarawak,Igan,KFC Tanahmas,4.0,(920),Operating
 Sarawak,Igan,KFC Wisma Sanyan,3.8,(154),Operating
 Sarawak,Igan,KFC LKC Sibu,4.0,(415),Operating
 Sarawak,Igan,KFC Niah,4.0,(327),Operating
 Sarawak,Igan,KFC Sing Kwong,3.7,(510),Operating
 Sarawak,Igan,KFC Bau,3.7,(323),Operating
 Sarawak,Igan,KFC KIS,4.1,(226),Operating
-Sarawak,Igan,KFC Sri Aman,3.8,(735),No status
+Sarawak,Igan,KFC Sri Aman,3.8,(735),Operating
 Sarawak,Igan,KFC Sarawak Plaza,3.9,(491),Operating
-Sarawak,Igan,KFC Aiman Mall,4.0,(903),No status
+Sarawak,Igan,KFC Aiman Mall,4.0,(903),Operating
 Sarawak,Igan,KFC Betong,3.8,(381),Operating
 Sarawak,Igan,KFC KIA,3.8,(80),Operating
-Sarawak,Igan,KFC Sarikei,4.0,(772),No status
+Sarawak,Igan,KFC Sarikei,4.0,(772),Operating
 Sarawak,Igan,KFC Emart Riam Miri,3.6,(450),Operating
 Sarawak,Igan,KFC Samariang,3.8,(69),Operating
-Sarawak,Igan,KFC Emart Batu Kawa,3.9,"(1,546)",No status
+Sarawak,Igan,KFC Emart Batu Kawa,3.9,"(1,546)",Operating
 Sarawak,Igan,KFC Saratok,3.6,(287),Operating
-Sarawak,Sarikei,KFC Sarikei,4.0,(772),No status
+Sarawak,Sarikei,KFC Sarikei,4.0,(772),Operating
 Sarawak,Julau,KFC Tatau,4.0,(127),Operating
-Sarawak,Julau,KFC Sarikei,4.0,(772),No status
+Sarawak,Julau,KFC Sarikei,4.0,(772),Operating
 Sarawak,Julau,KFC Kapit,3.9,(367),Operating
 Sarawak,Julau,KFC Mukah,3.8,(849),Operating
 Sarawak,Julau,JULAU FOODCOURT,4.7,(6),Operating
@@ -1050,21 +1050,21 @@ Sarawak,Kanowit,KFC Sibu Jaya,3.9,(557),Operating
 Sarawak,Kanowit,KFC Wisma Sanyan,3.8,(154),Operating
 Sarawak,Kanowit,Kanowit Food Court,3.5,(37),No status
 Sarawak,Kanowit,KFC Sibu 1,4.1,(548),Operating
-Sarawak,Kanowit,KFC Tanahmas,4.0,(920),No status
+Sarawak,Kanowit,KFC Tanahmas,4.0,(920),Operating
 Sarawak,Kanowit,KFC Sing Kwong,3.7,(510),Operating
 Sarawak,Kanowit,KFC LKC Sibu,4.0,(415),Operating
 Sarawak,Kanowit,KFC Sibu Bus Terminal,3.9,(316),Operating
-Sarawak,Kanowit,KFC Sri Aman,3.8,(735),No status
+Sarawak,Kanowit,KFC Sri Aman,3.8,(735),Operating
 Sarawak,Kanowit,KFC Kidurong,3.8,(566),Operating
 Sarawak,Kanowit,KFC Betong,3.8,(381),Operating
 Sarawak,Kanowit,CCK Fresh Mart (Kanowit Branch),0,0,Operating
 Sarawak,Kanowit,KFC Saratok,3.6,(287),Operating
 Sarawak,Kanowit,KFC Mukah,3.8,(849),Operating
-Sarawak,Kanowit,KFC Sarikei,4.0,(772),No status
+Sarawak,Kanowit,KFC Sarikei,4.0,(772),Operating
 Sarawak,Kanowit,Family W Mart Kanowit,4.0,(17),No status
 Sarawak,Kanowit,KFC Delta Mall,3.9,(326),Operating
 Sarawak,Lanang,KFC Sibu Jaya,3.9,(557),Operating
-Sarawak,Lanang,KFC Tanahmas,4.0,(920),No status
+Sarawak,Lanang,KFC Tanahmas,4.0,(920),Operating
 Sarawak,Lanang,KFC LKC Sibu,4.0,(415),Operating
 Sarawak,Lanang,KFC Wisma Sanyan,3.8,(154),Operating
 Sarawak,Lanang,KFC Sibu 1,4.1,(548),Operating
@@ -1076,19 +1076,19 @@ Sarawak,Sibu,KFC LKC Sibu,4.0,(415),Operating
 Sarawak,Sibu,KFC Sibu Jaya,3.9,(557),Operating
 Sarawak,Sibu,KFC Delta Mall,3.9,(326),Operating
 Sarawak,Sibu,KFC Sing Kwong,3.7,(510),Operating
-Sarawak,Sibu,KFC Tanahmas,4.0,(920),No status
+Sarawak,Sibu,KFC Tanahmas,4.0,(920),Operating
 Sarawak,Sibu,KFC Wisma Sanyan,3.8,(154),Operating
 Sarawak,Sibu,KFC Sibu Bus Terminal,3.9,(316),Operating
 Sarawak,Mukah,KFC Mukah,3.8,(849),Operating
 Sarawak,Selangau,KFC Sibu Jaya,3.9,(557),Operating
 Sarawak,Selangau,KFC Kidurong,3.8,(566),Operating
-Sarawak,Selangau,KFC Tanahmas,4.0,(920),No status
+Sarawak,Selangau,KFC Tanahmas,4.0,(920),Operating
 Sarawak,Selangau,KFC Sibu 1,4.1,(548),Operating
 Sarawak,Selangau,KFC LKC Sibu,4.0,(415),Operating
-Sarawak,Selangau,KFC Sri Aman,3.8,(735),No status
+Sarawak,Selangau,KFC Sri Aman,3.8,(735),Operating
 Sarawak,Selangau,KFC Wisma Sanyan,3.8,(154),Operating
 Sarawak,Selangau,KFC Kapit,3.9,(367),Operating
-Sarawak,Selangau,KFC Sarikei,4.0,(772),No status
+Sarawak,Selangau,KFC Sarikei,4.0,(772),Operating
 Sarawak,Selangau,KFC Sing Kwong,3.7,(510),Operating
 Sarawak,Selangau,KFC Sibu Bus Terminal,3.9,(316),Operating
 Sarawak,Selangau,KFC Delta Mall,3.9,(326),Operating
@@ -1100,7 +1100,7 @@ Sarawak,Kapit,KFC Kapit,3.9,(367),Operating
 Sarawak,Hulu Rajang,KFC Tatau,4.0,(127),Operating
 Sarawak,Bintulu,KFC Tatau,4.0,(127),Operating
 Sarawak,Bintulu,KFC Paragon Bintulu,4.0,(702),Operating
-Sarawak,Bintulu,KFC Medan Jaya,4.0,"(1,530)",No status
+Sarawak,Bintulu,KFC Medan Jaya,4.0,"(1,530)",Operating
 Sarawak,Bintulu,KFC Times Square,3.8,(317),Operating
 Sarawak,Bintulu,KFC Spring Bintulu,3.1,(57),Operating
 Sarawak,Bintulu,KFC Kidurong,3.8,(566),Operating
@@ -1110,13 +1110,13 @@ Sarawak,Sibuti,KFC Sibu Jaya,3.9,(557),Operating
 Sarawak,Sibuti,KFC Boulevard,3.8,(339),Operating
 Sarawak,Sibuti,KFC Senadin,3.3,(43),Operating
 Sarawak,Sibuti,KFC Bau,3.7,(323),Operating
-Sarawak,Sibuti,KFC Emart Miri,3.9,"(1,040)",No status
+Sarawak,Sibuti,KFC Emart Miri,3.9,"(1,040)",Operating
 Sarawak,Sibuti,KFC Emart Riam Miri,3.6,(450),Operating
 Sarawak,Sibuti,KFC Mukah,3.8,(849),Operating
 Sarawak,Sibuti,KFC Sibu 1,4.1,(548),Operating
 Sarawak,Sibuti,KFC Taman Selera Drive Thru,3.6,(751),Operating
 Sarawak,Sibuti,KFC LKC Sibu,4.0,(415),Operating
-Sarawak,Miri,KFC Emart Miri,3.9,"(1,040)",No status
+Sarawak,Miri,KFC Emart Miri,3.9,"(1,040)",Operating
 Sarawak,Miri,KFC Emart Riam Miri,3.6,(450),Operating
 Sarawak,Miri,KFC MARINA PARKCITY,3.9,(807),Operating
 Sarawak,Miri,KFC Senadin,3.3,(43),Operating
@@ -1124,10 +1124,10 @@ Sarawak,Miri,KFC Boulevard,3.8,(339),Operating
 Sarawak,Miri,KFC Bintang Plaza,3.7,(111),Operating
 Sarawak,Miri,KFC Imperial Mall,3.9,(101),Operating
 Sarawak,Miri,KFC Niah,4.0,(327),Operating
-Sarawak,Miri,KFC Medan Jaya,4.0,"(1,530)",No status
+Sarawak,Miri,KFC Medan Jaya,4.0,"(1,530)",Operating
 Sarawak,Miri,KFC Taman Selera Drive Thru,3.6,(751),Operating
 Sarawak,Baram,KFC Niah,4.0,(327),Operating
-Sarawak,Baram,KFC Sri Aman,3.8,(735),No status
+Sarawak,Baram,KFC Sri Aman,3.8,(735),Operating
 Sarawak,Baram,KFC Senadin,3.3,(43),Operating
 Sarawak,Baram,KFC Bau,3.7,(323),Operating
 Sarawak,Baram,KFC Emart Riam Miri,3.6,(450),Operating
@@ -1136,16 +1136,16 @@ Sarawak,Baram,KFC Boulevard,3.8,(339),Operating
 Sarawak,Baram,KFC MARINA PARKCITY,3.9,(807),Operating
 Sarawak,Baram,KFC Sarawak Plaza,3.9,(491),Operating
 Sarawak,Baram,KFC Serian Baru,3.9,(374),Operating
-Sarawak,Baram,KFC Emart Miri,3.9,"(1,040)",No status
-Sarawak,Baram,KFC Aiman Mall,4.0,(903),No status
-Sarawak,Baram,KFC Tanahmas,4.0,(920),No status
+Sarawak,Baram,KFC Emart Miri,3.9,"(1,040)",Operating
+Sarawak,Baram,KFC Aiman Mall,4.0,(903),Operating
+Sarawak,Baram,KFC Tanahmas,4.0,(920),Operating
 Sarawak,Baram,KFC Bako Drive Thru,4.0,"(1,204)",Operating
 Sarawak,Baram,KFC Imperial Mall,3.9,(101),Operating
 Sarawak,Baram,KFC Samariang,3.8,(69),Operating
 Sarawak,Baram,KFC Betong,3.8,(381),Operating
-Sarawak,Baram,KFC Emart Batu Kawa,3.9,"(1,546)",No status
+Sarawak,Baram,KFC Emart Batu Kawa,3.9,"(1,546)",Operating
 Sarawak,Baram,KFC PETROS Darul Hana DT,3.1,(66),Operating
-Sarawak,Baram,KFC Sarikei,4.0,(772),No status
+Sarawak,Baram,KFC Sarikei,4.0,(772),Operating
 Sarawak,Baram,KFC Mukah,3.8,(849),Operating
 Sarawak,Baram,KFC Bintang Plaza,3.7,(111),Operating
 Sarawak,Limbang,KFC Limbang,3.6,(323),Operating
@@ -1207,7 +1207,7 @@ Selangor,Puchong,KFC Sri Jati Puchong DT,3.4,"(1,613)",Operating
 Selangor,Puchong,KFC Petronas Puchong Gateway Drive-Thru,3.7,(261),Operating
 Selangor,Puchong,KFC Caltex Coalfields.,3.7,(754),Operating
 Selangor,Puchong,KFC @ Giant Bandar Kinrara,3.0,(487),Operating
-Selangor,Puchong,"KFC @ IOI Mall, Puchong",2.6,(173),Closed
+Selangor,Puchong,"KFC @ IOI Mall, Puchong",2.6,(173),Permanently Closed
 Selangor,Subang,KFC AEON Big Subang,3.5,(453),Operating
 Selangor,Subang,KFC SUBANG 2 DT,3.9,"(2,466)",Operating
 Selangor,Subang,KFC Summit USJ,3.4,(221),Operating
@@ -1330,7 +1330,7 @@ Selangor,Klang,KFC Bukit Sentosa Rawang,3.5,"(1,233)",Operating
 Selangor,Klang,KFC Bukit Raja DT,3.8,(914),Operating
 Selangor,Klang,KFC,4.1,"(1,295)",Operating
 Selangor,Klang,KFC Klang Utama,3.4,(379),Operating
-Selangor,Klang,KFC - Bandar Sentosa,3.6,"(2,201)",No status
+Selangor,Klang,KFC - Bandar Sentosa,3.6,"(2,201)",Operating
 Selangor,Klang,KFC @ Jalan Meru,3.9,(532),Operating
 Selangor,Klang,KFC Teluk Pulai,3.7,(956),Operating
 Selangor,Klang,KFC KAPAR,3.9,"(1,103)",Operating
@@ -1353,7 +1353,7 @@ Selangor,Kota Raja,KFC KAPAR,3.9,"(1,103)",Operating
 Selangor,Kota Raja,KFC Pekan Meru,3.8,(636),Operating
 Selangor,Kota Raja,KFC Klang Utama,3.4,(379),Operating
 Selangor,Kota Raja,KFC Port Klang,3.8,"(1,163)",Operating
-Selangor,Kota Raja,KFC - Bandar Sentosa,3.6,"(2,201)",No status
+Selangor,Kota Raja,KFC - Bandar Sentosa,3.6,"(2,201)",Operating
 Selangor,Kota Raja,KFC DT @ Setia Impian,3.7,"(1,758)",Operating
 Selangor,Kota Raja,KFC Kota Damansara,3.8,"(1,138)",Operating
 Selangor,Kota Raja,KFC,4.1,"(1,295)",Operating
@@ -1370,27 +1370,27 @@ Selangor,Sepang,KFC Dengkil,3.7,"(1,473)",Operating
 Selangor,Sepang,KFC @ Salak Tinggi,3.8,(960),Operating
 Selangor,Sepang,KFC SALAK PERDANA,4.1,(417),Temporarily Closed
 Selangor,Sepang,KFC Cyber Valley DT,3.4,"(1,105)",Operating
-Selangor,Sepang,KFC KLIA Terminal 2 Arrival,3.6,(386),Temporarily Closed
+Selangor,Sepang,KFC KLIA Terminal 2 Arrival,3.6,(386),Operating
 Selangor,Sepang,KFC KLIA 1 ANJUNG,3.8,(634),Operating
 Selangor,Sepang,KFC Taman Bunga Raya Sepang,3.6,(204),Temporarily Closed
 Terengganu,Besut,KFC Petron Kg Raja Besut,3.8,(708),Operating
 Terengganu,Setiu,KFC Kuala Berang,3.8,(642),Operating
 Terengganu,Setiu,KFC Bukit Payong,3.9,(324),Temporarily Closed
 Terengganu,Setiu,KFC Kuala Terengganu 1,3.9,"(1,074)",Operating
-Terengganu,Setiu,Serbuk Cheese Kfc Kuala Nerus,4.5,(8),Temporarily Closed
+Terengganu,Setiu,Serbuk Cheese Kfc Kuala Nerus,4.5,(8),Operating
 Terengganu,Setiu,KFC Giant Kuala Terengganu,3.7,(62),Temporarily Closed
 Terengganu,Setiu,KFC Petron Kg Raja Besut,3.8,(708),Operating
 Terengganu,Setiu,KFC Jertih,4.0,"(1,052)",Operating
-Terengganu,Setiu,KFC Setiu,3.7,(624),Closed
+Terengganu,Setiu,KFC Setiu,3.7,(624),Permanently Closed
 Terengganu,Kuala Nerus,KFC Kuala Berang,3.8,(642),Operating
 Terengganu,Kuala Nerus,KFC Gong Badak Drive Thru,1.0,(1),Temporarily Closed
-Terengganu,Kuala Nerus,Serbuk Cheese Kfc Kuala Nerus,4.5,(8),Temporarily Closed
+Terengganu,Kuala Nerus,Serbuk Cheese Kfc Kuala Nerus,4.5,(8),Operating
 Terengganu,Kuala Nerus,KFC Kuala Terengganu 1,3.9,"(1,074)",Operating
 Terengganu,Kuala Nerus,KFC Mydin (Cabang Tiga),3.8,(73),Temporarily Closed
 Terengganu,Kuala Nerus,KFC Giant Kuala Terengganu,3.7,(62),Temporarily Closed
 Terengganu,Kuala Nerus,"KFC Paya Keladi, Terengganu",4.0,(599),Temporarily Closed
-Terengganu,Kuala Nerus,KFC Dataran Austin,4.1,(465),Closed
-Terengganu,Kuala Nerus,KFC Gong Badak Drive Thru,3.9,"(1,277)",Closed
+Terengganu,Kuala Nerus,KFC Dataran Austin,4.1,(465),Permanently Closed
+Terengganu,Kuala Nerus,KFC Gong Badak Drive Thru,3.9,"(1,277)",Permanently Closed
 Terengganu,Kuala Terengganu,KFC Kuala Berang,3.8,(642),Temporarily Closed
 Terengganu,Kuala Terengganu,KFC Kuala Terengganu 1,3.9,"(1,074)",Operating
 Terengganu,Kuala Terengganu,KFC Ajil,3.8,(84),Temporarily Closed
@@ -1405,7 +1405,7 @@ Terengganu,Marang,KFC Bukit Payung,1.0,(1),Temporarily Closed
 Terengganu,Marang,KFC Kuala Terengganu 1,3.9,"(1,074)",Operating
 Terengganu,Marang,KFC Mydin (Cabang Tiga),3.8,(73),Temporarily Closed
 Terengganu,Marang,KFC Giant Kuala Terengganu,3.7,(62),Temporarily Closed
-Terengganu,Marang,KFC Marang,3.8,(619),Closed
+Terengganu,Marang,KFC Marang,3.8,(619),Permanently Closed
 Terengganu,Hulu Terengganu,KFC Kuala Berang,3.8,(642),Temporarily Closed
 Terengganu,Hulu Terengganu,KFC Ajil,3.8,(84),Temporarily Closed
 Terengganu,Hulu Terengganu,KFC Kuala Terengganu 1,3.9,"(1,074)",Operating
@@ -1418,10 +1418,10 @@ Terengganu,Hulu Terengganu,KD Fried Chicken ( KDFC ),4.4,(667),Operating
 Terengganu,Hulu Terengganu,KFC Gong Badak Drive Thru,1.0,(1),Temporarily Closed
 Terengganu,Hulu Terengganu,KFC Bukit Payung,1.0,(1),Temporarily Closed
 Terengganu,Dungun,KFC Petron Dungun Southbound Drivethru,4.3,(113),Operating
-Terengganu,Dungun,KFC Dungun,3.8,"(1,088)",Closed
+Terengganu,Dungun,KFC Dungun,3.8,"(1,088)",Permanently Closed
 Terengganu,Kemaman,KFC Shell Kemaman DT,4.0,(163),Operating
 Terengganu,Kemaman,KFC Shell Kemaman DT,2.5,(16),Operating
-Terengganu,Kemaman,KFC Kemaman,3.7,"(1,052)",Closed
+Terengganu,Kemaman,KFC Kemaman,3.7,"(1,052)",Permanently Closed
 W.P. Kuala Lumpur,Kepong,KFC | ÆON BiG Kepong,3.7,(367),Operating
 W.P. Kuala Lumpur,Kepong,KFC Lotus's Kepong,3.3,(400),Operating
 W.P. Kuala Lumpur,Kepong,KFC AEON Metro Prima Kepong,3.1,(183),Operating
@@ -1488,15 +1488,15 @@ W.P. Kuala Lumpur,Titiwangsa,KFC Medan Niaga Sg Besi,3.7,(838),Operating
 W.P. Kuala Lumpur,Titiwangsa,KFC Genting Klang,3.3,"(1,876)",Operating
 W.P. Kuala Lumpur,Titiwangsa,KFC KL Gateway Mall,3.4,(372),Operating
 W.P. Kuala Lumpur,Titiwangsa,KFC Petronas TPM DT,3.4,"(1,310)",Operating
-W.P. Kuala Lumpur,Titiwangsa,KFC Viva Jalan Ipoh,3.7,(160),Closed
+W.P. Kuala Lumpur,Titiwangsa,KFC Viva Jalan Ipoh,3.7,(160),Permanently Closed
 W.P. Kuala Lumpur,Bukit Bintang,"KFC @ Pavillion, Kuala Lumpur",3.0,"(1,067)",Operating
 W.P. Kuala Lumpur,Bukit Bintang,KFC Low Yat Plaza,3.5,(845),Operating
 W.P. Kuala Lumpur,Bukit Bintang,KFC KL Sentral,2.7,(220),Operating
 W.P. Kuala Lumpur,Bukit Bintang,KFC Jalan Sultan,3.6,(719),Operating
 W.P. Kuala Lumpur,Bukit Bintang,KFC • NU Sentral Mall,2.4,(228),Operating
 W.P. Kuala Lumpur,Bukit Bintang,KFC Berjaya Times Square,2.7,(374),Operating
-W.P. Kuala Lumpur,Bukit Bintang,KFC Bukit Bintang,4.0,(4),Closed
-W.P. Kuala Lumpur,Bukit Bintang,KFC Bukit Bintang,3.9,"(4,441)",Closed
+W.P. Kuala Lumpur,Bukit Bintang,KFC Bukit Bintang,4.0,(4),Permanently Closed
+W.P. Kuala Lumpur,Bukit Bintang,KFC Bukit Bintang,3.9,"(4,441)",Permanently Closed
 W.P. Kuala Lumpur,Lembah Pantai,KFC Menara UOA Bangsar,2.6,(118),Operating
 W.P. Kuala Lumpur,Lembah Pantai,KFC Bangsar,3.8,(355),Operating
 W.P. Kuala Lumpur,Lembah Pantai,KFC KL Sentral,2.7,(220),Operating
@@ -1557,7 +1557,7 @@ W.P. Kuala Lumpur,Bandar Tun Razak,KFC Raja Laut,3.9,"(2,346)",Operating
 W.P. Kuala Lumpur,Bandar Tun Razak,KFC,2.2,(152),Operating
 W.P. Kuala Lumpur,Bandar Tun Razak,KFC,4.0,(967),Operating
 W.P. Kuala Lumpur,Bandar Tun Razak,"KFC @ Pavillion, Kuala Lumpur",3.0,"(1,067)",Operating
-W.P. Labuan,Labuan,KFC Labuan 1,4.1,(785),No status
+W.P. Labuan,Labuan,KFC Labuan 1,4.1,(785),Operating
 W.P. Labuan,Labuan,"KFC Utama Jaya, Labuan 3",4.1,(693),Operating
 W.P. Labuan,Labuan,"KFC Financial Park, Labuan",4.1,(226),Operating
 W.P. Putrajaya,Putrajaya,KFC Presint 15,3.6,"(1,083)",Operating
