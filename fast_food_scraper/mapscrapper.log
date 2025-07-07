@@ -180,3 +180,356 @@
 2025-07-06 17:47:54,534 - INFO - Extracting Page Source
 2025-07-06 17:47:54,536 - INFO - KFC near Labuan, W.P. Labuan: 3
 2025-07-06 17:47:54,538 - INFO - Data for W.P. Labuan was loaded into csv
+2025-07-07 16:02:27,606 - INFO - Initializing WebDriver
+2025-07-07 16:02:28,271 - WARNING - There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
+2025-07-07 16:02:28,271 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-07-07 16:02:30,499 - INFO - Loading Google Maps
+2025-07-07 15:46:44,662 - INFO - Initializing WebDriver
+2025-07-07 15:46:48,604 - INFO - Loading Google Maps
+2025-07-07 15:46:52,892 - INFO - Getting input search box
+2025-07-07 15:46:53,030 - INFO - Searching for W.P. Labuan:
+2025-07-07 15:47:01,800 - INFO - Looking for nearby location button
+2025-07-07 15:47:02,933 - INFO - Getting nearby location input search box 
+2025-07-07 15:47:03,007 - INFO - Searching for KFC near Labuan, W.P. Labuan:
+2025-07-07 15:47:10,873 - INFO - Looking for Searched Results
+2025-07-07 15:47:11,131 - INFO - Found. Scrolling search results list
+2025-07-07 15:47:29,929 - INFO - Extracting Page Source
+2025-07-07 15:47:29,931 - INFO - KFC near Labuan, W.P. Labuan: 3
+2025-07-07 15:47:29,932 - INFO - Data for W.P. Labuan was loaded into csv
+2025-07-07 15:48:42,046 - INFO - Initializing WebDriver
+2025-07-07 15:48:44,074 - INFO - Loading Google Maps
+2025-07-07 15:48:47,905 - INFO - Getting input search box
+2025-07-07 15:48:47,980 - INFO - Searching for W.P. Labuan:
+2025-07-07 15:48:57,595 - INFO - Looking for nearby location button
+2025-07-07 15:48:58,871 - INFO - Getting nearby location input search box 
+2025-07-07 15:48:59,006 - INFO - Searching for KFC near Labuan, W.P. Labuan:
+2025-07-07 15:49:10,267 - INFO - Looking for Searched Results
+2025-07-07 15:49:10,296 - INFO - Found. Scrolling search results list
+2025-07-07 15:49:30,303 - INFO - Extracting Page Source
+2025-07-07 15:49:30,304 - INFO - KFC near Labuan, W.P. Labuan: 3
+2025-07-07 15:49:30,306 - INFO - Data for W.P. Labuan was loaded into csv
+2025-07-07 15:53:26,397 - INFO - Initializing WebDriver
+2025-07-07 15:53:28,531 - INFO - Loading Google Maps
+2025-07-07 15:53:32,851 - INFO - Getting input search box
+2025-07-07 15:53:32,927 - INFO - Searching for W.P. Labuan:
+2025-07-07 15:53:40,385 - INFO - Looking for nearby location button
+2025-07-07 15:54:08,763 - INFO - Initializing WebDriver
+2025-07-07 15:54:10,944 - INFO - Loading Google Maps
+2025-07-07 15:54:14,709 - INFO - Getting input search box
+2025-07-07 15:54:14,790 - INFO - Searching for W.P. Labuan:
+2025-07-07 15:54:21,763 - INFO - Looking for nearby location button
+2025-07-07 15:18:09,516 - INFO - Initializing WebDriver
+2025-07-07 15:18:11,594 - INFO - Loading Google Maps
+2025-07-07 15:18:15,446 - INFO - Getting input search box
+2025-07-07 15:18:15,522 - INFO - Searching for W.P. Labuan:
+2025-07-07 15:18:25,197 - INFO - Looking for nearby location button
+2025-07-07 15:18:26,382 - INFO - Getting nearby location input search box 
+2025-07-07 15:18:26,524 - INFO - Searching for KFC near Labuan, W.P. Labuan:
+2025-07-07 15:18:35,173 - INFO - Looking for Searched Results
+2025-07-07 15:18:35,220 - INFO - Found. Scrolling search results list
+2025-07-07 15:18:53,116 - INFO - Extracting Page Source
+2025-07-07 15:18:53,118 - INFO - KFC near Labuan, W.P. Labuan: 3
+2025-07-07 15:18:53,122 - INFO - Data for W.P. Labuan was loaded into csv
+2025-07-07 17:52:41,475 - INFO - Initializing WebDriver
+2025-07-07 17:52:44,205 - INFO - Loading Google Maps
+2025-07-07 17:52:47,911 - INFO - Getting input search box
+2025-07-07 17:52:47,993 - INFO - Searching for Perlis:
+2025-07-07 17:52:54,912 - INFO - Looking for nearby location button
+2025-07-07 17:52:56,056 - INFO - Getting nearby location input search box 
+2025-07-07 17:52:56,117 - INFO - Searching for KFC near Padang Besar, Perlis:
+2025-07-07 17:53:03,401 - INFO - Looking for Searched Results
+2025-07-07 17:53:08,674 - INFO - Result list not found. Only One Result available
+2025-07-07 17:53:10,674 - INFO - Extracting Page Source
+2025-07-07 17:53:10,750 - INFO - KFC near Padang Besar, Perlis: 1
+2025-07-07 17:53:10,750 - INFO - Loading Google Maps
+2025-07-07 17:53:13,845 - INFO - Getting input search box
+2025-07-07 17:53:13,944 - INFO - Searching for Perlis:
+2025-07-07 17:53:20,698 - INFO - Looking for nearby location button
+2025-07-07 17:53:21,813 - INFO - Getting nearby location input search box 
+2025-07-07 17:53:21,869 - INFO - Searching for KFC near Kangar, Perlis:
+2025-07-07 17:53:29,185 - INFO - Looking for Searched Results
+2025-07-07 17:53:29,222 - INFO - Found. Scrolling search results list
+2025-07-07 17:53:47,218 - INFO - Extracting Page Source
+2025-07-07 17:53:47,228 - INFO - KFC near Kangar, Perlis: 3
+2025-07-07 17:53:47,229 - INFO - Loading Google Maps
+2025-07-07 17:53:50,338 - INFO - Getting input search box
+2025-07-07 17:53:50,394 - INFO - Searching for Perlis:
+2025-07-07 17:53:57,086 - INFO - Looking for nearby location button
+2025-07-07 17:53:58,264 - INFO - Getting nearby location input search box 
+2025-07-07 17:53:58,320 - INFO - Searching for KFC near Arau, Perlis:
+2025-07-07 17:54:05,129 - INFO - Looking for Searched Results
+2025-07-07 17:54:10,276 - INFO - Result list not found. Only One Result available
+2025-07-07 17:54:12,276 - INFO - Extracting Page Source
+2025-07-07 17:54:12,333 - INFO - KFC near Arau, Perlis: 1
+2025-07-07 17:54:12,335 - INFO - Data for Perlis was loaded into csv
+2025-07-07 17:54:12,335 - INFO - Loading Google Maps
+2025-07-07 17:54:15,444 - INFO - Getting input search box
+2025-07-07 17:54:15,497 - INFO - Searching for W.P. Putrajaya:
+2025-07-07 17:54:22,200 - INFO - Looking for nearby location button
+2025-07-07 17:54:23,321 - INFO - Getting nearby location input search box 
+2025-07-07 17:54:23,375 - INFO - Searching for KFC near Putrajaya, W.P. Putrajaya:
+2025-07-07 17:54:30,670 - INFO - Looking for Searched Results
+2025-07-07 17:54:30,696 - INFO - Found. Scrolling search results list
+2025-07-07 17:54:46,117 - INFO - Extracting Page Source
+2025-07-07 17:54:46,124 - INFO - KFC near Putrajaya, W.P. Putrajaya: 2
+2025-07-07 17:54:46,125 - INFO - Data for W.P. Putrajaya was loaded into csv
+2025-07-07 18:07:25,331 - INFO - Initializing WebDriver
+2025-07-07 18:07:27,463 - INFO - Loading Google Maps
+2025-07-07 18:07:31,314 - INFO - Getting input search box
+2025-07-07 18:07:31,390 - INFO - Searching for Kelantan:
+2025-07-07 18:07:38,324 - INFO - Looking for nearby location button
+2025-07-07 18:07:39,461 - INFO - Getting nearby location input search box 
+2025-07-07 18:07:39,523 - INFO - Searching for KFC near Tumpat, Kelantan:
+2025-07-07 18:07:46,076 - INFO - Looking for Searched Results
+2025-07-07 18:07:51,321 - INFO - Result list not found. Only One Result available
+2025-07-07 18:07:53,322 - INFO - Extracting Page Source
+2025-07-07 18:07:53,420 - INFO - KFC near Tumpat, Kelantan: 1
+2025-07-07 18:07:53,421 - INFO - Loading Google Maps
+2025-07-07 18:07:56,948 - INFO - Getting input search box
+2025-07-07 18:07:57,001 - INFO - Searching for Kelantan:
+2025-07-07 18:08:03,722 - INFO - Looking for nearby location button
+2025-07-07 18:08:04,857 - INFO - Getting nearby location input search box 
+2025-07-07 18:08:04,926 - INFO - Searching for KFC near Pengkalan Chepa, Kelantan:
+2025-07-07 18:08:12,359 - INFO - Looking for Searched Results
+2025-07-07 18:08:12,384 - INFO - Found. Scrolling search results list
+2025-07-07 18:08:24,979 - INFO - Result list not found. Only One Result available
+2025-07-07 18:08:26,979 - INFO - Extracting Page Source
+2025-07-07 18:08:27,079 - INFO - KFC near Pengkalan Chepa, Kelantan: 1
+2025-07-07 18:08:27,080 - INFO - Loading Google Maps
+2025-07-07 18:08:30,463 - INFO - Getting input search box
+2025-07-07 18:08:30,522 - INFO - Searching for Kelantan:
+2025-07-07 18:08:37,258 - INFO - Looking for nearby location button
+2025-07-07 18:08:38,415 - INFO - Getting nearby location input search box 
+2025-07-07 18:08:38,469 - INFO - Searching for KFC near Kota Bharu, Kelantan:
+2025-07-07 18:08:45,931 - INFO - Looking for Searched Results
+2025-07-07 18:08:45,956 - INFO - Found. Scrolling search results list
+2025-07-07 18:08:58,742 - INFO - Result list not found. Only One Result available
+2025-07-07 18:09:00,743 - INFO - Extracting Page Source
+2025-07-07 18:09:00,835 - INFO - KFC near Kota Bharu, Kelantan: 1
+2025-07-07 18:09:00,836 - INFO - Loading Google Maps
+2025-07-07 18:09:03,940 - INFO - Getting input search box
+2025-07-07 18:09:04,008 - INFO - Searching for Kelantan:
+2025-07-07 18:09:10,816 - INFO - Looking for nearby location button
+2025-07-07 18:09:11,986 - INFO - Getting nearby location input search box 
+2025-07-07 18:09:12,041 - INFO - Searching for KFC near Pasir Mas, Kelantan:
+2025-07-07 18:09:19,234 - INFO - Looking for Searched Results
+2025-07-07 18:09:24,374 - INFO - Result list not found. Only One Result available
+2025-07-07 18:09:26,375 - INFO - Extracting Page Source
+2025-07-07 18:09:26,450 - INFO - KFC near Pasir Mas, Kelantan: 1
+2025-07-07 18:09:26,450 - INFO - Loading Google Maps
+2025-07-07 18:09:29,892 - INFO - Getting input search box
+2025-07-07 18:09:29,947 - INFO - Searching for Kelantan:
+2025-07-07 18:09:36,679 - INFO - Looking for nearby location button
+2025-07-07 18:09:37,798 - INFO - Getting nearby location input search box 
+2025-07-07 18:09:37,849 - INFO - Searching for KFC near Rantau Panjang, Kelantan:
+2025-07-07 18:09:44,906 - INFO - Looking for Searched Results
+2025-07-07 18:09:44,932 - INFO - Found. Scrolling search results list
+2025-07-07 18:09:59,871 - INFO - Extracting Page Source
+2025-07-07 18:09:59,880 - INFO - KFC near Rantau Panjang, Kelantan: 2
+2025-07-07 18:09:59,881 - INFO - Loading Google Maps
+2025-07-07 18:10:03,250 - INFO - Getting input search box
+2025-07-07 18:10:03,304 - INFO - Searching for Kelantan:
+2025-07-07 18:10:09,918 - INFO - Looking for nearby location button
+2025-07-07 18:10:11,033 - INFO - Getting nearby location input search box 
+2025-07-07 18:10:11,089 - INFO - Searching for KFC near Kubang Kerian, Kelantan:
+2025-07-07 18:10:17,997 - INFO - Looking for Searched Results
+2025-07-07 18:10:23,137 - INFO - Result list not found. Only One Result available
+2025-07-07 18:10:25,138 - INFO - Extracting Page Source
+2025-07-07 18:10:25,201 - INFO - KFC near Kubang Kerian, Kelantan: 1
+2025-07-07 18:10:25,202 - INFO - Loading Google Maps
+2025-07-07 18:10:28,575 - INFO - Getting input search box
+2025-07-07 18:10:28,638 - INFO - Searching for Kelantan:
+2025-07-07 18:10:35,474 - INFO - Looking for nearby location button
+2025-07-07 18:10:36,589 - INFO - Getting nearby location input search box 
+2025-07-07 18:10:36,643 - INFO - Searching for KFC near Bachok, Kelantan:
+2025-07-07 18:10:43,740 - INFO - Looking for Searched Results
+2025-07-07 18:10:43,767 - INFO - Found. Scrolling search results list
+2025-07-07 18:10:54,061 - INFO - Result list not found. Only One Result available
+2025-07-07 18:10:56,062 - INFO - Extracting Page Source
+2025-07-07 18:10:56,095 - INFO - KFC near Bachok, Kelantan: 1
+2025-07-07 18:10:56,096 - INFO - Loading Google Maps
+2025-07-07 18:10:59,559 - INFO - Getting input search box
+2025-07-07 18:10:59,612 - INFO - Searching for Kelantan:
+2025-07-07 18:11:06,234 - INFO - Looking for nearby location button
+2025-07-07 18:11:07,371 - INFO - Getting nearby location input search box 
+2025-07-07 18:11:07,425 - INFO - Searching for KFC near Ketereh, Kelantan:
+2025-07-07 18:11:14,794 - INFO - Looking for Searched Results
+2025-07-07 18:11:14,822 - INFO - Found. Scrolling search results list
+2025-07-07 18:11:32,341 - INFO - Result list not found. Only One Result available
+2025-07-07 18:11:34,342 - INFO - Extracting Page Source
+2025-07-07 18:11:34,445 - INFO - KFC near Ketereh, Kelantan: 1
+2025-07-07 18:11:34,445 - INFO - Loading Google Maps
+2025-07-07 18:11:37,818 - INFO - Getting input search box
+2025-07-07 18:11:37,874 - INFO - Searching for Kelantan:
+2025-07-07 18:11:44,546 - INFO - Looking for nearby location button
+2025-07-07 18:11:45,671 - INFO - Getting nearby location input search box 
+2025-07-07 18:11:45,730 - INFO - Searching for KFC near Tanah Merah, Kelantan:
+2025-07-07 18:11:52,577 - INFO - Looking for Searched Results
+2025-07-07 18:11:57,720 - INFO - Result list not found. Only One Result available
+2025-07-07 18:11:59,721 - INFO - Extracting Page Source
+2025-07-07 18:11:59,769 - INFO - KFC near Tanah Merah, Kelantan: 1
+2025-07-07 18:11:59,770 - INFO - Loading Google Maps
+2025-07-07 18:12:03,204 - INFO - Getting input search box
+2025-07-07 18:12:03,270 - INFO - Searching for Kelantan:
+2025-07-07 18:12:10,027 - INFO - Looking for nearby location button
+2025-07-07 18:12:11,143 - INFO - Getting nearby location input search box 
+2025-07-07 18:12:11,201 - INFO - Searching for KFC near Pasir Puteh, Kelantan:
+2025-07-07 18:12:18,431 - INFO - Looking for Searched Results
+2025-07-07 18:12:23,569 - INFO - Result list not found. Only One Result available
+2025-07-07 18:12:25,570 - INFO - Extracting Page Source
+2025-07-07 18:12:25,613 - INFO - KFC near Pasir Puteh, Kelantan: 1
+2025-07-07 18:12:25,614 - INFO - Loading Google Maps
+2025-07-07 18:12:29,092 - INFO - Getting input search box
+2025-07-07 18:12:29,145 - INFO - Searching for Kelantan:
+2025-07-07 18:12:35,859 - INFO - Looking for nearby location button
+2025-07-07 18:12:36,974 - INFO - Getting nearby location input search box 
+2025-07-07 18:12:37,027 - INFO - Searching for KFC near Machang, Kelantan:
+2025-07-07 18:12:44,058 - INFO - Looking for Searched Results
+2025-07-07 18:12:44,085 - INFO - Found. Scrolling search results list
+2025-07-07 18:13:01,309 - INFO - Extracting Page Source
+2025-07-07 18:13:01,320 - INFO - KFC near Machang, Kelantan: 3
+2025-07-07 18:13:01,320 - INFO - Loading Google Maps
+2025-07-07 18:13:04,742 - INFO - Getting input search box
+2025-07-07 18:13:04,801 - INFO - Searching for Kelantan:
+2025-07-07 18:13:11,425 - INFO - Looking for nearby location button
+2025-07-07 18:13:12,555 - INFO - Getting nearby location input search box 
+2025-07-07 18:13:12,613 - INFO - Searching for KFC near Jeli, Kelantan:
+2025-07-07 18:13:19,495 - INFO - Looking for Searched Results
+2025-07-07 18:13:24,639 - INFO - Result list not found. Only One Result available
+2025-07-07 18:13:26,640 - INFO - Extracting Page Source
+2025-07-07 18:13:26,688 - INFO - KFC near Jeli, Kelantan: 1
+2025-07-07 18:13:26,688 - INFO - Loading Google Maps
+2025-07-07 18:13:30,103 - INFO - Getting input search box
+2025-07-07 18:13:30,157 - INFO - Searching for Kelantan:
+2025-07-07 18:13:36,874 - INFO - Looking for nearby location button
+2025-07-07 18:13:37,990 - INFO - Getting nearby location input search box 
+2025-07-07 18:13:38,049 - INFO - Searching for KFC near Kuala Krai, Kelantan:
+2025-07-07 18:13:45,246 - INFO - Looking for Searched Results
+2025-07-07 18:13:45,274 - INFO - Found. Scrolling search results list
+2025-07-07 18:14:02,798 - INFO - Extracting Page Source
+2025-07-07 18:14:02,801 - INFO - KFC near Kuala Krai, Kelantan: 3
+2025-07-07 18:14:02,801 - INFO - Loading Google Maps
+2025-07-07 18:14:06,215 - INFO - Getting input search box
+2025-07-07 18:14:06,268 - INFO - Searching for Kelantan:
+2025-07-07 18:14:12,878 - INFO - Looking for nearby location button
+2025-07-07 18:14:14,018 - INFO - Getting nearby location input search box 
+2025-07-07 18:14:14,073 - INFO - Searching for KFC near Gua Musang, Kelantan:
+2025-07-07 18:14:21,246 - INFO - Looking for Searched Results
+2025-07-07 18:14:26,382 - INFO - Result list not found. Only One Result available
+2025-07-07 18:14:28,382 - INFO - Extracting Page Source
+2025-07-07 18:14:28,439 - INFO - KFC near Gua Musang, Kelantan: 1
+2025-07-07 18:14:28,440 - INFO - Data for Kelantan was loaded into csv
+2025-07-07 18:29:10,308 - INFO - Initializing WebDriver
+2025-07-07 18:29:12,409 - INFO - Loading Google Maps
+2025-07-07 18:29:16,225 - INFO - Getting input search box
+2025-07-07 18:29:17,132 - INFO - Searching for Kelantan:
+2025-07-07 18:29:24,145 - INFO - Looking for nearby location button
+2025-07-07 18:29:25,285 - INFO - Getting nearby location input search box 
+2025-07-07 18:29:25,342 - INFO - Searching for KFC near Tumpat, Kelantan:
+2025-07-07 18:29:32,673 - INFO - Looking for Searched Results
+2025-07-07 18:37:48,704 - INFO - Initializing WebDriver
+2025-07-07 18:37:50,713 - INFO - Loading Google Maps
+2025-07-07 18:37:54,449 - INFO - Getting input search box
+2025-07-07 18:37:54,523 - INFO - Searching for Kelantan:
+2025-07-07 18:38:01,498 - INFO - Looking for nearby location button
+2025-07-07 18:38:02,657 - INFO - Getting nearby location input search box 
+2025-07-07 18:38:02,731 - INFO - Searching for KFC near Tumpat, Kelantan:
+2025-07-07 18:38:10,899 - INFO - Looking for Searched Results
+2025-07-07 18:38:16,043 - INFO - Result list not found. Only One Result available
+2025-07-07 18:38:18,043 - INFO - Extracting Page Source
+2025-07-07 18:38:18,101 - INFO - KFC near Tumpat, Kelantan: 1
+2025-07-07 18:38:18,102 - INFO - Loading Google Maps
+2025-07-07 18:38:21,603 - INFO - Getting input search box
+2025-07-07 18:38:21,656 - INFO - Searching for Kelantan:
+2025-07-07 18:38:28,343 - INFO - Looking for nearby location button
+2025-07-07 18:38:29,478 - INFO - Getting nearby location input search box 
+2025-07-07 18:38:29,531 - INFO - Searching for KFC near Pengkalan Chepa, Kelantan:
+2025-07-07 18:38:36,866 - INFO - Looking for Searched Results
+2025-07-07 18:38:36,891 - INFO - Found. Scrolling search results list
+2025-07-07 18:39:14,614 - INFO - Extracting Page Source
+2025-07-07 18:39:14,616 - INFO - KFC near Pengkalan Chepa, Kelantan: 11
+2025-07-07 18:39:14,616 - INFO - Loading Google Maps
+2025-07-07 18:39:18,030 - INFO - Getting input search box
+2025-07-07 18:39:18,096 - INFO - Searching for Kelantan:
+2025-07-07 18:39:24,805 - INFO - Looking for nearby location button
+2025-07-07 18:39:25,930 - INFO - Getting nearby location input search box 
+2025-07-07 18:39:25,989 - INFO - Searching for KFC near Kota Bharu, Kelantan:
+2025-07-07 18:39:33,403 - INFO - Looking for Searched Results
+2025-07-07 18:39:33,428 - INFO - Found. Scrolling search results list
+2025-07-07 18:40:11,205 - INFO - Extracting Page Source
+2025-07-07 18:40:11,209 - INFO - KFC near Kota Bharu, Kelantan: 11
+2025-07-07 18:40:11,209 - INFO - Loading Google Maps
+2025-07-07 18:40:14,328 - INFO - Getting input search box
+2025-07-07 18:40:14,390 - INFO - Searching for Kelantan:
+2025-07-07 18:40:21,115 - INFO - Looking for nearby location button
+2025-07-07 18:40:22,272 - INFO - Getting nearby location input search box 
+2025-07-07 18:40:22,332 - INFO - Searching for KFC near Pasir Mas, Kelantan:
+2025-07-07 18:40:29,267 - INFO - Looking for Searched Results
+2025-07-07 18:40:34,405 - INFO - Result list not found. Only One Result available
+2025-07-07 18:40:36,406 - INFO - Extracting Page Source
+2025-07-07 18:40:36,463 - INFO - KFC near Pasir Mas, Kelantan: 1
+2025-07-07 18:40:36,463 - INFO - Loading Google Maps
+2025-07-07 18:40:39,846 - INFO - Getting input search box
+2025-07-07 18:40:39,897 - INFO - Searching for Kelantan:
+2025-07-07 18:40:46,611 - INFO - Looking for nearby location button
+2025-07-07 18:40:47,729 - INFO - Getting nearby location input search box 
+2025-07-07 18:40:47,786 - INFO - Searching for KFC near Rantau Panjang, Kelantan:
+2025-07-07 18:40:54,942 - INFO - Looking for Searched Results
+2025-07-07 18:40:54,970 - INFO - Found. Scrolling search results list
+2025-07-07 18:41:10,671 - INFO - Extracting Page Source
+2025-07-07 18:41:10,674 - INFO - KFC near Rantau Panjang, Kelantan: 2
+2025-07-07 18:41:10,674 - INFO - Loading Google Maps
+2025-07-07 18:41:14,071 - INFO - Getting input search box
+2025-07-07 18:41:14,128 - INFO - Searching for Kelantan:
+2025-07-07 18:41:20,813 - INFO - Looking for nearby location button
+2025-07-07 18:41:21,932 - INFO - Getting nearby location input search box 
+2025-07-07 18:41:21,987 - INFO - Searching for KFC near Kubang Kerian, Kelantan:
+2025-07-07 18:41:28,842 - INFO - Looking for Searched Results
+2025-07-07 18:41:33,991 - INFO - Result list not found. Only One Result available
+2025-07-07 18:41:35,992 - INFO - Extracting Page Source
+2025-07-07 18:41:36,051 - INFO - KFC near Kubang Kerian, Kelantan: 1
+2025-07-07 18:41:36,051 - INFO - Loading Google Maps
+2025-07-07 18:41:39,159 - INFO - Getting input search box
+2025-07-07 18:41:39,214 - INFO - Searching for Kelantan:
+2025-07-07 18:41:45,991 - INFO - Looking for nearby location button
+2025-07-07 18:41:47,110 - INFO - Getting nearby location input search box 
+2025-07-07 18:41:47,197 - INFO - Searching for KFC near Bachok, Kelantan:
+2025-07-07 18:41:54,507 - INFO - Looking for Searched Results
+2025-07-07 18:41:54,543 - INFO - Found. Scrolling search results list
+2025-07-07 19:00:29,355 - INFO - Initializing WebDriver
+2025-07-07 19:00:31,807 - INFO - Loading Google Maps
+2025-07-07 19:00:35,588 - INFO - Getting input search box
+2025-07-07 19:00:35,736 - INFO - Searching for Kelantan:
+2025-07-07 19:00:42,794 - INFO - Looking for nearby location button
+2025-07-07 19:00:43,921 - INFO - Getting nearby location input search box 
+2025-07-07 19:00:43,981 - INFO - Searching for KFC near Tumpat, Kelantan:
+2025-07-07 19:00:51,241 - INFO - Looking for Searched Results
+2025-07-07 19:00:56,475 - INFO - Result list not found. Only One Result available
+2025-07-07 19:00:58,476 - INFO - Extracting Page Source
+2025-07-07 19:00:58,526 - INFO - KFC near Tumpat, Kelantan: 1
+2025-07-07 19:00:58,526 - INFO - Loading Google Maps
+2025-07-07 19:01:01,648 - INFO - Getting input search box
+2025-07-07 19:01:01,706 - INFO - Searching for Kelantan:
+2025-07-07 19:01:08,397 - INFO - Looking for nearby location button
+2025-07-07 19:01:09,511 - INFO - Getting nearby location input search box 
+2025-07-07 19:01:09,562 - INFO - Searching for KFC near Pengkalan Chepa, Kelantan:
+2025-07-07 19:01:16,902 - INFO - Looking for Searched Results
+2025-07-07 19:01:16,933 - INFO - Found. Scrolling search results list
+2025-07-07 19:01:54,061 - INFO - Extracting Page Source
+2025-07-07 19:01:54,063 - INFO - KFC near Pengkalan Chepa, Kelantan: 11
+2025-07-07 19:01:54,064 - INFO - Loading Google Maps
+2025-07-07 19:01:57,163 - INFO - Getting input search box
+2025-07-07 19:01:57,220 - INFO - Searching for Kelantan:
+2025-07-07 19:02:03,875 - INFO - Looking for nearby location button
+2025-07-07 19:06:56,986 - INFO - Initializing WebDriver
+2025-07-07 19:06:59,054 - INFO - Loading Google Maps
+2025-07-07 19:07:02,762 - INFO - Getting input search box
+2025-07-07 19:07:02,832 - INFO - Searching for W.P. Labuan:
+2025-07-07 19:07:09,872 - INFO - Looking for nearby location button
+2025-07-07 19:07:11,012 - INFO - Getting nearby location input search box 
+2025-07-07 19:07:11,074 - INFO - Searching for KFC near Labuan, W.P. Labuan:
+2025-07-07 19:07:18,909 - INFO - Looking for Searched Results
+2025-07-07 19:07:18,966 - INFO - Found. Scrolling search results list
+2025-07-07 19:07:37,275 - INFO - Extracting Page Source
+2025-07-07 19:07:37,276 - INFO - KFC near Labuan, W.P. Labuan: 3
+2025-07-07 19:07:37,278 - INFO - Data for W.P. Labuan was loaded into csv

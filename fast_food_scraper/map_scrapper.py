@@ -9,6 +9,8 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from data_transform import mydict
 import csv
+from selenium.common.exceptions import TimeoutException
+
 csv_file = 'data/kfc_data_final.csv'
 
 logging.basicConfig(filename="mapscrapper.log", encoding="utf-8", filemode="a",
@@ -57,7 +59,7 @@ def find_nearby_location(driver, query):
     driver.refresh()
     time.sleep(3)
     
-    try: 
+    try:
         logging.info("Looking for Searched Results")
         WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.CSS_SELECTOR, f"[aria-label='Results for {query}']")))
         scrollableElement = driver.find_element(by=By.CSS_SELECTOR, value =f"[aria-label='Results for {query}']")
@@ -74,8 +76,10 @@ def find_nearby_location(driver, query):
             if(initial_count!=final_count):
                 initial_count = final_count
             else:
-                title = driver.find_element(by=By.CLASS_NAME, value="fontTitleLarge")
-                driver.execute_script("arguments[0].scrollIntoView(false);", title)
+                #title = driver.find_element(by=By.CLASS_NAME, value="fontTitleLarge")
+                driver.execute_script("arguments[0].scrollTop=0;", scrollableElement)
+                time.sleep(0.5)
+                #driver.execute_script("arguments[0].scrollIntoView(false);", title)
                 result_list = driver.find_elements(by=By.CLASS_NAME, value = "hfpxzc")
                 for result in result_list:
                     driver.execute_script("arguments[0].scrollIntoView(true);", result)
@@ -85,9 +89,11 @@ def find_nearby_location(driver, query):
                     soup = BeautifulSoup(page_html, "html.parser")
                     store_name = soup.find(name="span", attrs={"jsname":"r4nke"}).text
                     store_details = soup.find(name= 'div', attrs={"class": "lMbq3e"})
+                    details.append(str("<div class='store_details'>"))
                     details.append(str(store_details))
                     store_region = soup.find(name='div', attrs={"aria-label":f"Information for {store_name}"})
                     details.append(str(store_region))
+                    details.append(str("</div>"))
                     
                 logging.info("Extracting Page Source")
                 with open(f"pageSource_detail/{query}.html", "w", encoding="utf-8") as file:
@@ -96,7 +102,7 @@ def find_nearby_location(driver, query):
                     file.write("</body></html>")
                 logging.info(f"{query}: {final_count}")
                 return final_count
-    except:
+    except TimeoutException:
         logging.info("Result list not found. Only One Result available")
         time.sleep(2)
         logging.info("Extracting Page Source")
@@ -146,4 +152,4 @@ def start_scrape(state_list = mydict):
         logging.info(f"Data for {state} was loaded into csv")
     print(data)
 
-start_scrape(["W.P. Labuan"])
+start_scrape(["W.P. Labuan"]) #yasminwijnaldum 
