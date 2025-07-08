@@ -101,6 +101,6 @@ def extract_data(state, area):
     #print(store_data) 
 
 #print(extract_source(["W.P. Labuan", "W.P. Putrajaya"]))
-extract_source([ "W.P. Labuan", "W.P. Putrajaya", "Perlis", "Kelantan"])
+extract_source(["Kedah"])
 
 #print(html_page_sources[221])

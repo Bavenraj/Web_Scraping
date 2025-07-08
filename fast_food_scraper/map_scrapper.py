@@ -9,7 +9,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from data_transform import mydict
 import csv
-from selenium.common.exceptions import TimeoutException
+from selenium.common.exceptions import TimeoutException , NoSuchElementException
 
 csv_file = 'data/kfc_data_final.csv'
 
@@ -70,21 +70,27 @@ def find_nearby_location(driver, query):
                 driver.execute_script('arguments[0].scrollBy(0,1000);', scrollableElement)
                 time.sleep(1)
                 
-            final_count = len(driver.find_elements(by=By.CLASS_NAME, value = "hfpxzc"))
+            result_found = driver.find_elements(by=By.CLASS_NAME, value = "hfpxzc")
+            final_count = len(result_found)
             time.sleep(2)
             
             if(initial_count!=final_count):
                 initial_count = final_count
             else:
-                #title = driver.find_element(by=By.CLASS_NAME, value="fontTitleLarge")
                 driver.execute_script("arguments[0].scrollTop=0;", scrollableElement)
-                time.sleep(0.5)
-                #driver.execute_script("arguments[0].scrollIntoView(false);", title)
-                result_list = driver.find_elements(by=By.CLASS_NAME, value = "hfpxzc")
-                for result in result_list:
+                time.sleep(1.5)
+                for result in result_found:
                     driver.execute_script("arguments[0].scrollIntoView(true);", result)
                     result.click()
                     time.sleep(2)
+                    while True:
+                        try:
+                            WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.CLASS_NAME, "lfPIob")))
+                            WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.CSS_SELECTOR, "[data-item-id = 'address']")))
+                            break
+                        except TimeoutException:
+                            pass
+
                     page_html = driver.page_source
                     soup = BeautifulSoup(page_html, "html.parser")
                     store_name = soup.find(name="span", attrs={"jsname":"r4nke"}).text
@@ -152,4 +158,4 @@ def start_scrape(state_list = mydict):
         logging.info(f"Data for {state} was loaded into csv")
     print(data)
 
-start_scrape(["W.P. Labuan"]) #yasminwijnaldum 
+start_scrape(["Johor"]) #yasminwijnaldum 
