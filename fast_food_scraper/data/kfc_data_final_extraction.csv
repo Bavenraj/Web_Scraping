@@ -1,4 +1,5 @@
 State,Area,Address,Store Name,Rating,Review Count,Store Status
-Johor,Segamat,"Address: No. 45, Ground Floor, One Segamat, Jln Kolam Air, Kampung Gubah, 85000 Segamat, Johor Darul Ta'zim ",KFC One Segamat,3.8,(153),Operating
-Johor,Segamat,"Address: Lot 2690, Lbh Persiaran Tun Khalil Yaakob, Kampung Rasau, 85000 Segamat, Johor Darul Ta'zim ",KFC Segamat DT,3.9,(876),Operating
-Johor,Segamat,"Address: 150 & 151, Jalan Sia Her Yam, Kampung Abdullah, 85000 Segamat, Johor Darul Ta'zim ",KFC Segamat,4.0,"(1,021)",Operating
+Selangor, Klang, Jalan sri puchong, KFC, 4.3, 123, Operating
+W.P. Labuan,Labuan,"Address: U0183, Jalan Merdeka, Bandar Labuan, 87000 Victoria, Labuan Federal Territory ",KFC Labuan 1,4.1,(790),Operating
+W.P. Labuan,Labuan,"Address: Lot C19 (Corner Lot), Jalan Kemajuan/Ujong Pasir, 87000, Labuan Federal Territory ","KFC Utama Jaya, Labuan 3",4.1,(700),Operating
+W.P. Labuan,Labuan,"Address: Lot C003 & D002, Ground Floor, Podium Level, Financial Park, Labuan Complex, 87000, Labuan Federal Territory ","KFC Financial Park, Labuan",4.1,(226),Operating

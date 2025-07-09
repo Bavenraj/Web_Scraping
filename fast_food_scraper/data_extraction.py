@@ -5,28 +5,24 @@ import logging
 import time
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from file import get_file, write_file
 
-csv_file = 'data/kfc_data_final_extraction.csv'
-html_page_sources = []
-logging.basicConfig(#filename="kfcscrapper.log", encoding="utf-8", filemode="a",
+
+logging.basicConfig(filename="log/datascrapper.log", encoding="utf-8", filemode="a",
                     level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 def extract_source(state_list = mydict):
+    csv_file = get_file(file_name, fieldnames, state_list)
     state_to_extract = state_list
     filtered_dict = {}
     for state, areas in mydict.items():
         if state in state_to_extract:
             filtered_dict[state] = areas
-    #print(filtered_dict)
     for state, areas in filtered_dict.items():
         for area in areas:
-            extract_data(state, area)
-            #query = f"pageSource_3\KFC near {area}, {state}.html"
-           # html_page_sources.append(query)
-    #return html_page_sources
+            store_data = extract_data(state, area)
+            write_file(csv_file, fieldnames, store_data)
 
-
-store_data = []
 def extract_data(state, area):
     query = f"KFC near {area}, {state}"
     page_source = f"pageSource_detail\KFC near {area}, {state}.html"
@@ -36,7 +32,7 @@ def extract_data(state, area):
     if soup.find(name='div',attrs={"class": "store_details"}):
         store_list = soup.find_all(name='div', attrs={"class": "store_details"})
         for store in store_list:
-            name = store.find(name='h1', attrs={"class":"lfPIob"})
+            name = store.find(name='h1', attrs={"class":"lfPIob"}).text
             address = store.find(name= 'button', attrs={"data-item-id": "address"})['aria-label']
             status = store.find(name="span", attrs={"class": "ZDu9vd"}).find_next().find_next().text
             if status in ['Open', 'Closed', 'Open 24 hours']:
@@ -59,7 +55,7 @@ def extract_data(state, area):
                     'State': state,
                     'Area' : area,
                     'Address': address,
-                    'Store Name' : name.text,
+                    'Store Name' : name,
                     'Rating' : ratings,
                     'Review Count': review,
                     'Store Status': store_status                        
@@ -92,15 +88,12 @@ def extract_data(state, area):
             'Review Count': review,
             'Store Status': store_status 
         })
+    return store_data
 
-    with open(csv_file, 'w', newline='', encoding='utf-8') as file:
-        writer = csv.DictWriter(file, fieldnames=['State', 'Area', 'Address', 'Store Name','Rating', 'Review Count', 'Store Status'])
-        writer.writeheader()
-        for row in store_data:
-            writer.writerow(row)
-    #print(store_data) 
-
+file_name = 'data/kfc_data_final_extraction.csv'
+fieldnames=['State', 'Area', 'Address', 'Store Name','Rating', 'Review Count', 'Store Status']
+html_page_sources = []
+store_data = []
 #print(extract_source(["W.P. Labuan", "W.P. Putrajaya"]))
-extract_source(["Kedah"])
+extract_source(["W.P. Labuan"])
 
-#print(html_page_sources[221])
